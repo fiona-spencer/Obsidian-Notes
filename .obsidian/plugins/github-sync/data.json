@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:fiona-spencer/Obsidian-Notes.git",
   "gitLocation": "",
-  "syncinterval": 0,
-  "isSyncOnLoad": false,
+  "syncinterval": 60,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true
 }

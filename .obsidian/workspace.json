@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "4de4a599c6fb6c0a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/20250416190217.png"
+              },
+              "icon": "lucide-image",
+              "title": "20250416190217"
+            }
           }
         ],
         "currentTab": 1
@@ -178,8 +190,10 @@
   },
   "active": "d4227504c42f5692",
   "lastOpenFiles": [
-    "CPS506/RUST.md",
+    "images/20250416190217.png",
     "README.md",
+    "Pasted image 20250416190217.png",
+    "CPS506/RUST.md",
     "CPS506/HASKELL.md",
     "CPS506/3. Haskell.md",
     "CPS590/8. Virtual Memory.md",
@@ -199,8 +213,6 @@
     "Pasted image 20250414154056.png",
     "images/Pasted image 20250414124105.png",
     "Pasted image 20250414124105.png",
-    "images/Pasted image 20250414123420.png",
-    "images/Pasted image 20250414123351.png",
     "Biology/UNIT 8 - Ecology/50. Behavioural Ecology.md",
     "Biology/UNIT 8 - Ecology/54. Biodiversity and Conservation Biology.md",
     "TODO.md",
@@ -213,7 +225,6 @@
     "CPS310/0. Computer Organization Overview.md",
     "CPS590/4. Threads.md",
     "CPS310/9. AVR Analog Input.md",
-    "CPS310/Exercises.md",
     "images",
     "move_png.sh",
     "Untitled.canvas",
