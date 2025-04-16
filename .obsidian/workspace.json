@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +188,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4de4a599c6fb6c0a",
+  "active": "d4227504c42f5692",
   "lastOpenFiles": [
-    "README.md",
+    "images/Screenshot 2025-04-16 at 7.02.12 PM.png",
+    "images/Pasted image 20250416190537.png",
+    "Pasted image 20250416190537.png",
+    "Screenshot 2025-04-16 at 7.02.12 PM.png",
     "images/image.png",
+    "README.md",
     "Pasted image 20250416190217.png",
     "CPS506/RUST.md",
     "CPS506/HASKELL.md",
@@ -210,9 +214,6 @@
     "images/Pasted image 20250414202816.png",
     "Pasted image 20250414202816.png",
     "images/Pasted image 20250414154056.png",
-    "Pasted image 20250414154056.png",
-    "images/Pasted image 20250414124105.png",
-    "Pasted image 20250414124105.png",
     "Biology/UNIT 8 - Ecology/50. Behavioural Ecology.md",
     "Biology/UNIT 8 - Ecology/54. Biodiversity and Conservation Biology.md",
     "TODO.md",
