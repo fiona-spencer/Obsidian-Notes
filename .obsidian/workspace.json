@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "4de4a599c6fb6c0a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/image.png"
-              },
-              "icon": "lucide-image",
-              "title": "image"
-            }
           }
         ],
         "currentTab": 1
@@ -190,12 +178,14 @@
   },
   "active": "d4227504c42f5692",
   "lastOpenFiles": [
+    "Folder Structure.md",
+    "images/Pasted image 20250330121432.png",
+    "images/image.png",
+    "README.md",
     "images/Screenshot 2025-04-16 at 7.02.12 PM.png",
     "images/Pasted image 20250416190537.png",
     "Pasted image 20250416190537.png",
     "Screenshot 2025-04-16 at 7.02.12 PM.png",
-    "images/image.png",
-    "README.md",
     "Pasted image 20250416190217.png",
     "CPS506/RUST.md",
     "CPS506/HASKELL.md",
@@ -212,8 +202,6 @@
     "Biology/UNIT 8 - Ecology/51. Population Ecology.md",
     "Pasted image 20250414203212.png",
     "images/Pasted image 20250414202816.png",
-    "Pasted image 20250414202816.png",
-    "images/Pasted image 20250414154056.png",
     "Biology/UNIT 8 - Ecology/50. Behavioural Ecology.md",
     "Biology/UNIT 8 - Ecology/54. Biodiversity and Conservation Biology.md",
     "TODO.md",
