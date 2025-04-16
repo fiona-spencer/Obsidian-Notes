@@ -41,14 +41,14 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/20250416190217.png"
+                "file": "images/image.png"
               },
               "icon": "lucide-image",
-              "title": "20250416190217"
+              "title": "image"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +188,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d4227504c42f5692",
+  "active": "4de4a599c6fb6c0a",
   "lastOpenFiles": [
-    "images/20250416190217.png",
     "README.md",
+    "images/image.png",
     "Pasted image 20250416190217.png",
     "CPS506/RUST.md",
     "CPS506/HASKELL.md",
