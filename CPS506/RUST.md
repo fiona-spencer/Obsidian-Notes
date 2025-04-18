@@ -112,3 +112,91 @@
 # `clone()`
 
 # Returning Ownership
+
+# Ownership: Moving vs Borrowing
+
+# Borrowing Rules
+
+# Borrowing Rules: In Short
+
+# Slices
+
+# Slices, Arguments, Functions
+
+# String Slices
+
+# String Slice Type
+
+# String Literals
+
+# Rust Features
+
+# Dangling References
+
+# The Borrow Checker
+
+# Generic Lifetimes
+
+# Lifetime Annotation Syntax
+
+# Consider
+
+# Lifetime Considerations
+
+# Lifetime Inference Rules
+
+# Static Lifetime
+
+---
+
+# Reminder: Types and Literals
+
+# Structure: Similar to C/C++
+
+# Structures
+
+# Structures: Accessing Fields
+
+# Structures: As Return Values
+
+# Structures: Parameter Shorthand
+
+# Tuple Structures
+
+# Structures, References, Lifetimes
+
+# Methods vs Functions
+
+# Enums
+
+# Pattern Matching
+
+# Rules: Match
+
+# Nested Control
+
+# Enum: Option
+
+# Option
+
+# Generic Types: Structs
+
+# Generic Types: Struct Methods
+
+# Generic Types: Enums
+
+# mut
+
+# Generic Types
+
+# Traits
+
+# Traits and Methods
+
+# Custom Trait
+
+# `#derive`
+
+# Implement Display
+
+# 
