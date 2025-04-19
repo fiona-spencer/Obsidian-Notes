@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "HASKELL",
-      "path": "CPS506/HASKELL.md"
+      "basename": "Coding",
+      "path": "Coding.md"
+    },
+    {
+      "basename": "9. Uniprocessor Scheduling",
+      "path": "CPS590/9. Uniprocessor Scheduling.md"
     },
     {
       "basename": "RUST",
       "path": "CPS506/RUST.md"
+    },
+    {
+      "basename": "HASKELL",
+      "path": "CPS506/HASKELL.md"
     },
     {
       "basename": "3. Haskell",
