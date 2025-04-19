@@ -248,26 +248,166 @@ isNum x =
 
 # Pattern Matching: Case
 
+```Haskell
+module Test where
+
+checkColour rgb =
+	case rgb of
+	(255, _, _) -> "RED"
+	(_, 255, _) -> "GREEN"
+	(_, _, 255) -> "BLUE"
+	(_, _, _) -> "None"
+```
+
+- More specific at the top of case to more general
 # Piece Wise Functions
+
+```Haskell
+module Test where
+
+fac 0 = 1
+fac x = x*fac(x-1)
+
+fib 0 = 0
+fib 1 = 1
+fib n = fib(n-1) + fib(n-2)
+```
+
+- Return unit vector if point lies on axis
+- Return input point otherwise
+
+```Haskell
+module Test where
+
+checkAxis (0, _) = (0, 1)
+checkAxis (_, 0) = (1, 0)
+checkAxis (a, b) = (a, b)
+```
 
 # Functions: Guards
 
+- Matches input arguments to x and y
+- Guard denoted with `|`
+- `otherwise` is the same as saying True
+
+```Haskell
+module Test where
+
+cmp2 x y    | x < y = "First is smaller"
+			| x > y = "Second is smaller"
+			| otherwise = "Equal"
+```
+
 # Recursion
+
+```Haskell
+module Test where
+
+llen [] = 0
+llen x = 1 + llen(tail x)
+```
 
 # Tail Recursion
 
+- In Haskell, function call model is different
+- Function calls do not create a new stack frame
+- Tail recursion is not a big deal
+
 # Recursion: Cons
+
+- Treat the input argument as a pair containing the head and tail of the list
+
+```Haskell
+module Test where
+llen [] = 0
+llen (xh:xt) = 1 + (llen xt)
+
+
+```
+
 # Recursion: Filter
+
+```Haskell
+module Test where
+
+pos x = x >= 0 --returns True of False
+
+filt p [] = [] --Base case
+
+filt p (xh:xt) =
+	if p xh then xh : filt p xt
+	else filt p xt
+
+--
+pos 4
+True
+1 = [-1, 2, -3, 4, -5, 6]
+filt pos 1
+[2, 4, 6]
+```
 
 # Function Composition
 
+```Haskell
+fac(fib(4))
+6
+
+(fac.fib) 4
+6
+```
+
 # Lambda Functions
+
+- Similar to anonymous functions in Elixir
+
+```Haskell
+square = \x -> x*x
+square 8
+64
+
+f = \x y -> 2*x + y
+f 3 4
+10
+```
+
+- Lambda functions are good for passing as arguments when that function is only need at that place
+
+```Haskell
+--Always returns True
+(\x -> True) True
+True
+(\x -> True) False
+True
+
+--Always returns opposite
+(\x -> not x) False
+True
+(\x -> not x) True
+False
+
+map (\x -> -x)[1, -3, 5, 6, -9]
+[-1, 3, -5, -6, 9]
+```
 
 ---
 
 # Types in Haskell
 
+- Statically typed
+	- Uses static type checking
+	- Every expression is assigned a type
+	- If a function's argument aren't the expected type, a compile error occurs
+- Type inference
+	- Do not specify type explicitly
+	- Good practice to explicitly specify types
+
 # Type Classes
+
+- `:t` can be used to reveal type
+
+```Haskell
+
+```
 
 # Type Class: Eq
 
