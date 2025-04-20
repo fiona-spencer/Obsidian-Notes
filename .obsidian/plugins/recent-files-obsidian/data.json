@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "5. Concurrency - Mutual Exclusion and Synchronization",
       "path": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md"
+    },
+    {
+      "basename": "Pasted image 20250401091011",
+      "path": "images/Pasted image 20250401091011.png"
     },
     {
       "basename": "9. Uniprocessor Scheduling",
@@ -15,10 +23,6 @@
     {
       "basename": "Pasted image 20250420121125",
       "path": "images/Pasted image 20250420121125.png"
-    },
-    {
-      "basename": "Pasted image 20250401091011",
-      "path": "images/Pasted image 20250401091011.png"
     },
     {
       "basename": "4. Threads",
@@ -67,10 +71,6 @@
     {
       "basename": "1. The Molecular Origin and Evolution of Life",
       "path": "Biology/UNIT 1 - The Molecular Origin and Evolution of Life/1. The Molecular Origin and Evolution of Life.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "TODO",
