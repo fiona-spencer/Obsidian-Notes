@@ -4,58 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f9deb23a296a9588",
+        "id": "024e42ff8eaff8d9",
         "type": "tabs",
         "children": [
           {
-            "id": "a60b9c28db34d24d",
+            "id": "52e244e0d30ed3f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS506/HASKELL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HASKELL"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           },
           {
-            "id": "125a3cad2f7061ac",
+            "id": "eac46ee70935a98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ad50953c0c77a3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "aa348160905bc6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/test.md",
+                "file": "Private/test.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,11 +200,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "125a3cad2f7061ac",
+  "active": "eac46ee70935a98e",
   "lastOpenFiles": [
+    "Private/test.md",
+    "Private",
+    "LANGUAGES",
+    "Untitled 1",
+    "Discrete Structures",
+    "BLG151",
+    "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
+    "README.md",
     "images/Pasted image 20250420122304.png",
     "Pasted image 20250420122304.png",
-    "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
     "images/Pasted image 20250401091011.png",
     "CPS590/9. Uniprocessor Scheduling.md",
     "test/test.md",
@@ -259,13 +233,11 @@
     "Pasted image 20250420121125.png",
     "Pasted image 20250420121117.png",
     "Pasted image 20250420121115.png",
-    "README.md",
     "test",
     "TODO.md",
     "Coding.md",
     "Biology/UNIT 8 - Ecology/49. An Introduction to Ecology.md",
     "images/intro_page.jpeg",
-    "images/intro_page 1.jpeg",
     "Untitled 1.md",
     "CPS506/Smalltalk 80.md",
     "Untitled.canvas",
@@ -276,11 +248,6 @@
     "images",
     "move_png.sh",
     "Biology/UNIT 4 - Evolutionary Patterns and Processes",
-    "Biology/UNIT 8 - Ecology",
-    "Biology/UNIT 7 - How Animals Work",
-    "Biology/UNIT 6 - How Plants Work",
-    "Biology/UNIT 5 - The Diversification of Life",
-    "Biology/UNIT 3 - Gene Structure and Expression",
-    "Biology/UNIT 2 - Cell Structure and Function"
+    "Biology/UNIT 8 - Ecology"
   ]
 }

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "test",
+      "path": "Private/test.md"
     },
     {
       "basename": "5. Concurrency - Mutual Exclusion and Synchronization",
       "path": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Pasted image 20250401091011",
@@ -15,10 +19,6 @@
     {
       "basename": "9. Uniprocessor Scheduling",
       "path": "CPS590/9. Uniprocessor Scheduling.md"
-    },
-    {
-      "basename": "test",
-      "path": "test/test.md"
     },
     {
       "basename": "Pasted image 20250420121125",
