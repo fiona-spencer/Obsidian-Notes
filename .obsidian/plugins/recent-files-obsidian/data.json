@@ -5,6 +5,22 @@
       "path": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md"
     },
     {
+      "basename": "9. Uniprocessor Scheduling",
+      "path": "CPS590/9. Uniprocessor Scheduling.md"
+    },
+    {
+      "basename": "test",
+      "path": "test/test.md"
+    },
+    {
+      "basename": "Pasted image 20250420121125",
+      "path": "images/Pasted image 20250420121125.png"
+    },
+    {
+      "basename": "Pasted image 20250401091011",
+      "path": "images/Pasted image 20250401091011.png"
+    },
+    {
       "basename": "4. Threads",
       "path": "CPS590/4. Threads.md"
     },
@@ -53,10 +69,6 @@
       "path": "Biology/UNIT 1 - The Molecular Origin and Evolution of Life/1. The Molecular Origin and Evolution of Life.md"
     },
     {
-      "basename": "test",
-      "path": "test/test.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "Coding",
       "path": "Coding.md"
-    },
-    {
-      "basename": "9. Uniprocessor Scheduling",
-      "path": "CPS590/9. Uniprocessor Scheduling.md"
     },
     {
       "basename": "49. An Introduction to Ecology",
