@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding"
+              "title": "README"
+            }
+          },
+          {
+            "id": "aa348160905bc6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Concurrency - Mutual Exclusion and Synchronization"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "437b46005461d870",
@@ -220,46 +233,46 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ad50953c0c77a3e6",
+  "active": "aa348160905bc6e4",
   "lastOpenFiles": [
-    "CPS590/9. Uniprocessor Scheduling.md",
-    "Coding.md",
+    "CPS590/4. Threads.md",
+    "CPS590/1. Computer System Overview.md",
     "CPS506/RUST.md",
     "CPS506/HASKELL.md",
+    "CPS506/Elixir in Action, Third Edition.md",
+    "CPS506/Effective Haskell.md",
+    "CPS506/4. Rust.md",
     "CPS506/3. Haskell.md",
+    "CPS506/2. Elixir.md",
+    "CPS506/1. Smalltalk.md",
+    "CPS506/0. Comparative Programming Languages Overview.md",
+    "Biology/UNIT 1 - The Molecular Origin and Evolution of Life/1. The Molecular Origin and Evolution of Life.md",
+    "test/test.md",
+    "images/Pasted image 20250420121125.png",
+    "images/Pasted image 20250420121117.png",
+    "images/Pasted image 20250420121115.png",
+    "Pasted image 20250420121125.png",
+    "Pasted image 20250420121117.png",
+    "Pasted image 20250420121115.png",
+    "README.md",
+    "test",
+    "TODO.md",
+    "Coding.md",
+    "CPS590/9. Uniprocessor Scheduling.md",
     "Biology/UNIT 8 - Ecology/49. An Introduction to Ecology.md",
     "images/intro_page.jpeg",
     "images/intro_page 1.jpeg",
     "Untitled 1.md",
-    "Untitled",
     "CPS506/Smalltalk 80.md",
-    "README.md",
     "Untitled.canvas",
     "2025-04-16.md",
     "Folder Structure.md",
     "images/Pasted image 20250330121432.png",
     "images/image.png",
-    "images/Screenshot 2025-04-16 at 7.02.12 PM.png",
-    "images/Pasted image 20250416190537.png",
-    "Pasted image 20250416190537.png",
-    "Screenshot 2025-04-16 at 7.02.12 PM.png",
-    "Pasted image 20250416190217.png",
     "CPS590/8. Virtual Memory.md",
     "CPS590/7. Memory Management.md",
     "CPS590/6. Concurrency - Deadlock and Starvation.md",
     "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
-    "Biology/UNIT 5 - The Diversification of Life/30. An Introduction to Animals.md",
-    "Biology/UNIT 8 - Ecology/53. Ecosystems and Global Ecology.md",
-    "Biology/UNIT 8 - Ecology/52. Community Ecology.md",
-    "images/Pasted image 20250414203212.png",
-    "Biology/UNIT 8 - Ecology/51. Population Ecology.md",
-    "Biology/UNIT 8 - Ecology/50. Behavioural Ecology.md",
-    "Biology/UNIT 8 - Ecology/54. Biodiversity and Conservation Biology.md",
-    "TODO.md",
-    "Biology/UNIT 5 - The Diversification of Life/33. Viruses.md",
-    "Biology/UNIT 5 - The Diversification of Life/29. Fungi.md",
-    "Biology/UNIT 5 - The Diversification of Life/26. Bacteria and Archaea.md",
-    "CPS590/0. Overview.md",
     "images",
     "move_png.sh",
     "Biology/UNIT 4 - Evolutionary Patterns and Processes",
