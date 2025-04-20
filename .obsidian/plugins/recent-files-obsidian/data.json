@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "test",
-      "path": "Private/test.md"
+      "basename": "Coding",
+      "path": "Coding.md"
+    },
+    {
+      "basename": "App Ideas",
+      "path": "Private/App Ideas.md"
     },
     {
       "basename": "5. Concurrency - Mutual Exclusion and Synchronization",
@@ -74,11 +78,7 @@
     },
     {
       "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
-      "basename": "Coding",
-      "path": "Coding.md"
+      "path": "Private/TODO.md"
     },
     {
       "basename": "49. An Introduction to Ecology",
