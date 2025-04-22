@@ -463,13 +463,78 @@ Flat Address Space
 		.begin
 		.org 2048
 prog1:  ld [x], %r1
-		l
+		ld [y], %r2
+		addcc %r1, %r2, %r3
+		st %r3, [z]
+		halt
+x: 15
+y: 9
+z: 0
+		.end
+```
+
+
+## ARC Assembly: Numbers
+- Immediate constants are limited to 13 bits
+- Numbers are treated as being in base-10
+- The [] around a source operand indicates loading from the address contained in register
+
+
+## ARC Assembly
+![](Pasted%20image%2020250421224825.png)
+
+![](Pasted%20image%2020250421224914.png)
+
+
+## ARC Pseudo-Ops
+
+![](Pasted%20image%2020250421224946.png)
+
+## ARC Instructions Examples
+
+Load - LD
+```c
+0xc2002810 = ld [2048], %r1
+0b 1100 0010 0000 0000 0010 1000 0001 000
+0b 11 00001 000000 00000 1 0100 0000 1000
+--Memory ld
+rd = 1
+rs1 = 0
+simm13 = 2064
+i = 1
+Address = rs1 + simm13
+```
+
+
+Add with Code - addcc
+```c
+0x86804002 = addcc %r2, %r2, %r3
+0b 1000 0110 1000 0000 0100 0000 0000 0010
+0b 10 00011 010000 00001 0 00000000 00010
+--Arithmetic addcc
+rd = 3
+rs1 = 1
+rs2 = 2
 ```
 
 
 # 3. Branching
 
 ---
+![](Pasted%20image%2020250421225740.png)
+
+![](Pasted%20image%2020250421225751.png)
+
+![](Pasted%20image%2020250421225759.png)
+
+
+
+
+
+
+
+
+
 # 4. Subroutines
 
 ---
