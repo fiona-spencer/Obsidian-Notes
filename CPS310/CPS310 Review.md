@@ -295,11 +295,176 @@ Convert 0d-12.625 to single precision IEEE-754 format
 - The ISA view of a machine corresponds to the machine code and assembly language level
 - A compiler translates a High-Level Language (HLL), which is architecture independent, into assembly language
 - Assembly and machine code are architecture dependent
-- An assembler translates assembly language programs into executable binary programes
+- An assembler translates assembly language programs into executable binary programs
 
 ## ISA Level: System Bus Model
 - User writes program in HLL
-- Compiler translates into a
+- Compiler translates into assembly
+- Assembler translates into machine code, stored on disk
+- Before execution, program is loaded into memory
+- During execution
+	- Instructions loaded into CPU from memory one at a time
+	- CPU executes instructions, may generate address
+	- Address placed on address bus, received by memory
+	- Memory writes data at that address to the data bus
+
+## ISA Level: Memory
+- A collection of consecutively numbered cells
+- Each cell is typically one byte
+- We address at the byte level
+- Manipulate bits using bit shifting, masking
+
+![](Pasted%20image%2020250421222053.png)
+
+![](Pasted%20image%2020250421222109.png)
+
+- Memory is byte-addressable, but most data types are larger than one byte
+
+## ISA Level: Big/Little Endian
+- Big-endian
+	- MSB stored at lowest address
+- Little-endian
+	- LSB stores at lowest address
+- Multi-byte words are always accessed by their lowest address
+
+Advantages
+- Big-endian
+	- Matches reading, left to right
+	- Atmel AVR32
+	- IBM
+- Little-endian
+	- Can grow and allocate an extra byte if needed
+	- Intel x86
+	- AMD64
+
+
+## ISA Level: Memory Map
+- A memory map is a drawing that shows how various regions of memory are allocated
+
+![](Pasted%20image%2020250421222430.png)
+
+- Map includes both RAN and IO
+- IO devices are treated like memory location
+
+Flat Address Space
+- Address space refers to the numerical range of memory addresses to which the CPU can refer
+- A flat address space means a single address for everything
+- Size of the address space is bounded by the size of the address bus
+- 32-bit address space can have a max of 4GB memory
+
+## Address vs Data
+- An address is a pointer to a location in memory
+- Data is the value at that memory location
+
+
+## ISA Level: CPU
+- CPU
+	- Data section with registers and ALU
+	- Control unit for interpreting and executing instructions
+	- Interface between control and data units formed by two registers
+- Program Counter (PC)
+	- Holds address of next instructions to be fetches
+- Instruction Register (IR)
+	- Holds next instruction to be executed
+
+## Fetch-Execute Cycle
+1. Fetch next instruction to be executed
+	1. Indicated by the PC
+2. Decode the opcode
+	2. Depends on instruction set
+3. Read operands from memory
+4. Execute instruction and store results
+5. Repeat from 1
+
+- Fetching refers to the retrieval of the next instruction, as pointed to by the program counter
+- Execution involved decoding the instruction and performing whatever is required as indicated by the opcode
+- Opcode specifies what the instruction does
+	- Add two registers, load a register from memory
+
+
+## CPU: Control Unit
+- The control unit coordinates all other units in the process of executing an instruction
+- Thought of as a "computer within a computer"
+- Tells the ALU what to do with what registers
+
+## CPU: Data Path
+- Register File
+	- Collection of registers
+	- Managed by control unit
+	- Register sizes correspond to word sizes
+	- Registers are addressable
+
+## CPU: ALU
+- ALU updates status register
+- Indicate overflow, divide by 0, parity of result
+- ALU implements a variety of binary (2-operands) and unary (1-operands)
+- Binary
+	- Addition, bit-wise AND, bit-shift
+- Unary
+	- Arithmetic negation
+
+
+## Instruction Set
+- A collection of instructions that a process can execute
+- A process is defined by its instruction set
+
+3 Main Categories
+1. Data movement
+2. Arithmetic and logic
+3. Control
+
+
+## Model Instruction Set: ARC
+- ARC (a RISC computer) is based on the Scalable Processor Architecture (SPARC)
+- CISC: complex instruction set computer
+	- Large set of highly specific instructions
+	- Can accomplish several things at once
+
+
+## ARC ISA
+
+### Memory
+- 32-bit address space
+- Lowest 2048 i $(2^{11})$ is reserved for OS
+- 2048 is where user assembled program is loaded until it meets system stack
+- System stack starts at word $2^{31}-4$ downwards
+- IO device is $2^31$ to $2^{32}-1$
+- Each IO device has some address range assigned to it
+- Memory mapped IO
+
+### CPU Registers
+
+![](Pasted%20image%2020250421223924.png)
+
+- Registers are always programmer accessible
+- IR is not
+- %r0 always contains 0
+- %r1 to %r31 are general purpose
+- %r14 doubles as stack pointer
+- %r15 doubles as link register
+- %psr (process status register)
+	- Contains info about CPU stat
+- Traps are a mechanism for interrupting normal processing
+- Result of exception or interrupt
+- Exception
+	- Condition making it impossible for CPU to continue executing without software intervention
+- Interrupt
+	- Request for CPU attention by external device
+
+### Instruction Set
+- SPARC has ~200 instructions, ARC is a subset
+- All ARCH instructions are 32-bit long (1 word)
+- ARC and SPARC are two's complement
+
+
+## Assembly Program
+
+```c
+		.begin
+		.org 2048
+prog1:  ld [x], %r1
+		l
+```
 
 
 # 3. Branching
