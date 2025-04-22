@@ -48,8 +48,6 @@
 
 <img src="/images/Pasted%20image%2020250421201126.png" width="400px"/>
 
-
-![](/images/Pasted%20image%2020250421201109.png)
 ## von Neumann Model
 - 5 major components
 	1. Memory unit
