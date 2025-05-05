@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2dd501e8d259f67",
+        "id": "0ecfd6bac3f86918",
         "type": "tabs",
         "children": [
           {
-            "id": "d16797317d967a30",
+            "id": "265f323d2cf30faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -190,10 +191,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d16797317d967a30",
+  "active": "265f323d2cf30faa",
   "lastOpenFiles": [
-    "images/Screenshot 2025-05-05 at 6.16.01 PM.png",
+    "Screenshot 2025-05-05 at 6.26.09 PM.png",
+    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "BLG151/Microbiology Notes/Slide One.md",
+    "images/image.png",
+    "images/intro_page.jpeg",
+    "images/Pasted image 20250330121615.png",
+    "images/Pasted image 20250330121432.png",
+    "images/Screenshot 2025-05-05 at 6.16.01 PM.png",
     "README.md",
     "CPS590/7. Memory Management.md",
     "CPS590/8. Virtual Memory.md",
@@ -221,7 +228,6 @@
     "BLG151/UNIT 7 - Pathogenicity and Host Response/31. Innate Host Resistance.md",
     "BLG151/UNIT 6 - Ecology and Symbiosis/30. Microorganisms in Terrestrial Ecosystems.md",
     "BLG151/UNIT 6 - Ecology and Symbiosis/29. Micro-oganisms in Marine and Freshwater Ecosystems.md",
-    "BLG151/UNIT 6 - Ecology and Symbiosis/28. Biogeochemical Cycling and Global Climate Change.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World",
     "Stats and Probs",
     "Calculus",
@@ -233,10 +239,6 @@
     "images/Pasted image 20250421225751.png",
     "images/Pasted image 20250421225740.png",
     "Pasted image 20250421225759.png",
-    "Pasted image 20250421225751.png",
-    "Pasted image 20250421225740.png",
-    "images/Pasted image 20250421224946.png",
-    "images/Pasted image 20250421224914.png",
     "Untitled.canvas"
   ]
 }

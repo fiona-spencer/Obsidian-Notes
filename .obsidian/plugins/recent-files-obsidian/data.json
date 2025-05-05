@@ -5,6 +5,26 @@
       "path": "BLG151/Microbiology Notes/Slide One.md"
     },
     {
+      "basename": "1. The Evolution of Microorganisms and Microbiology",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
+    },
+    {
+      "basename": "image",
+      "path": "images/image.png"
+    },
+    {
+      "basename": "intro_page",
+      "path": "images/intro_page.jpeg"
+    },
+    {
+      "basename": "Pasted image 20250330121615",
+      "path": "images/Pasted image 20250330121615.png"
+    },
+    {
+      "basename": "Pasted image 20250330121432",
+      "path": "images/Pasted image 20250330121432.png"
+    },
+    {
       "basename": "Screenshot 2025-05-05 at 6.16.01 PM",
       "path": "images/Screenshot 2025-05-05 at 6.16.01 PM.png"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "9. Antimicrobial Chemotherapy",
       "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
-    },
-    {
-      "basename": "8. Control and Microorganisms in the Environment",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
-    },
-    {
-      "basename": "7. Bacterial and Archaeal Growth",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
-    },
-    {
-      "basename": "6. Viruses and Other Acellular Infectious Agents",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
-    },
-    {
-      "basename": "5. Eukaryotic Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
-    },
-    {
-      "basename": "4. Archaeal Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
     }
   ],
   "omittedPaths": [],
