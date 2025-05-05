@@ -4,48 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cc2ac47b80fc50c4",
+        "id": "e2dd501e8d259f67",
         "type": "tabs",
         "children": [
           {
-            "id": "332f4671f5ab57bd",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3fbfe32361d3714b",
+            "id": "d16797317d967a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/0. Overview.md",
+                "file": "20. Non-proteobacterial Gram-Negative Bacteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Overview"
-            }
-          },
-          {
-            "id": "562005b6e59d4178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. The Evolution of Microorganisms and Microbiology"
+              "title": "20. Non-proteobacterial Gram-Negative Bacteria"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,26 +190,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "562005b6e59d4178",
+  "active": "d16797317d967a30",
   "lastOpenFiles": [
     "BLG151/0. Overview.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-    "CIND123/The Art of R Programming/0. The Art of R Programming.md",
-    "Folder Structure.md",
+    "40. Microbiology of Food.md",
+    "39. Human Diseases Caused by Fungi and Protists.md",
+    "38. Human Diseases Caused by Bacteria.md",
+    "37. Human Diseases Caused by Viruses and Prions.md",
+    "36. Clinical Microbiology and Immunology.md",
+    "35. Epidemiology and Public Health Microbiology.md",
+    "34. Infection and Pathogenicity.md",
+    "33. The Microbe-Human Ecosystem.md",
+    "32. Adaptive Immunity.md",
+    "31. Innate Host Resistance.md",
+    "30. Microorganisms in Terrestrial Ecosystems.md",
+    "29. Micro-oganisms in Marine and Freshwater Ecosystems.md",
+    "28. Biogeochemical Cycling and Global Climate Change.md",
+    "27. Microbial Interactions.md",
+    "26. Exploring Microbes in Ecosystems.md",
+    "25. Viruses.md",
+    "24. Fungi.md",
+    "23. Protists.md",
+    "22. Gram-Positive Bacteria.md",
+    "20. Non-proteobacterial Gram-Negative Bacteria.md",
+    "21. Proteobacteria.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
     "Stats and Probs",
     "Calculus",
     "Linear Algebra",
-    "Untitled",
     "CIND123/The Art of R Programming",
-    "Untitled.md",
     "BLG151/UNIT 9 - Applied Microbiology",
     "BLG151/UNIT 8 - Microbial Diseases, Detection",
     "BLG151/UNIT 7 - Pathogenicity and Host Response",
     "BLG151/UNIT 6 - Ecology and Symbiosis",
     "Private/UNIT 5 - Diversity of the Microbial World",
-    "Biology/UNIT 1 - The Molecular Origin and Evolution of Life/1. The Molecular Origin and Evolution of Life.md",
-    "Biology/0. Biology 2 Overview.md",
-    "CPS310/CPS310 Review.md",
     "images/Pasted image 20250421225759.png",
     "images/Pasted image 20250421225751.png",
     "images/Pasted image 20250421225740.png",
@@ -244,24 +238,6 @@
     "images/Pasted image 20250421224914.png",
     "images/Pasted image 20250421224851.png",
     "images/Pasted image 20250421224825.png",
-    "Coding.md",
-    "Private/App Ideas.md",
-    "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
-    "README.md",
-    "CPS590/9. Uniprocessor Scheduling.md",
-    "test/test.md",
-    "CPS590/4. Threads.md",
-    "CPS590/1. Computer System Overview.md",
-    "CPS506/RUST.md",
-    "CPS506/HASKELL.md",
-    "CPS506/Elixir in Action, Third Edition.md",
-    "CPS506/Effective Haskell.md",
-    "CPS506/4. Rust.md",
-    "CPS506/3. Haskell.md",
-    "CPS506/2. Elixir.md",
-    "CPS506/1. Smalltalk.md",
-    "CPS506/0. Comparative Programming Languages Overview.md",
-    "Private/TODO.md",
     "Untitled.canvas"
   ]
 }
