@@ -5,6 +5,42 @@
       "path": "BLG151/Microbiology Notes/Slide One.md"
     },
     {
+      "basename": "Screenshot 2025-05-05 at 6.16.01 PM",
+      "path": "images/Screenshot 2025-05-05 at 6.16.01 PM.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "7. Memory Management",
+      "path": "CPS590/7. Memory Management.md"
+    },
+    {
+      "basename": "8. Virtual Memory",
+      "path": "CPS590/8. Virtual Memory.md"
+    },
+    {
+      "basename": "6. Concurrency - Deadlock and Starvation",
+      "path": "CPS590/6. Concurrency - Deadlock and Starvation.md"
+    },
+    {
+      "basename": "5. Concurrency - Mutual Exclusion and Synchronization",
+      "path": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md"
+    },
+    {
+      "basename": "2. Operating System Overview",
+      "path": "CPS590/2. Operating System Overview.md"
+    },
+    {
+      "basename": "3. Process Description and Control",
+      "path": "CPS590/3. Process Description and Control.md"
+    },
+    {
+      "basename": "1. Computer System Overview",
+      "path": "CPS590/1. Computer System Overview.md"
+    },
+    {
       "basename": "41. Biotechnology and Industrial Microbiology",
       "path": "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "4. Archaeal Cell Structure",
       "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
-    },
-    {
-      "basename": "3. Bacterial Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
-    },
-    {
-      "basename": "2. Microscopy",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
-    },
-    {
-      "basename": "1. The Evolution of Microorganisms and Microbiology",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
-    },
-    {
-      "basename": "0. The Art of R Programming",
-      "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
-    },
-    {
-      "basename": "1. The Molecular Origin and Evolution of Life",
-      "path": "Biology/UNIT 1 - The Molecular Origin and Evolution of Life/1. The Molecular Origin and Evolution of Life.md"
-    },
-    {
-      "basename": "0. Biology 2 Overview",
-      "path": "Biology/0. Biology 2 Overview.md"
-    },
-    {
-      "basename": "CPS310 Review",
-      "path": "CPS310/CPS310 Review.md"
-    },
-    {
-      "basename": "Pasted image 20250421213550",
-      "path": "images/Pasted image 20250421213550.png"
-    },
-    {
-      "basename": "Coding",
-      "path": "Coding.md"
     }
   ],
   "omittedPaths": [],
