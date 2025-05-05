@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "39. Human Diseases Caused by Fungi and Protists.md",
+                "file": "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39. Human Diseases Caused by Fungi and Protists"
+              "title": "41. Biotechnology and Industrial Microbiology"
+            }
+          },
+          {
+            "id": "ff0d17ad127fce5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/Slide One.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slide One"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +205,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d16797317d967a30",
+  "active": "ff0d17ad127fce5d",
   "lastOpenFiles": [
+    "images/Screenshot 2025-05-05 at 6.16.01 PM.png",
+    "Screenshot 2025-05-05 at 6.16.01 PM.png",
+    "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
+    "BLG151/Microbiology Notes/Slide One.md",
+    "Untitled",
+    "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md",
+    "Slide 1",
+    "BLG151/Microbiology Notes",
+    "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md",
+    "BLG151/0. Overview.md",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/39. Human Diseases Caused by Fungi and Protists.md",
     "BLG151/UNIT 8 - Microbial Diseases, Detection/38. Human Diseases Caused by Bacteria.md",
     "BLG151/UNIT 8 - Microbial Diseases, Detection/37. Human Diseases Caused by Viruses and Prions.md",
     "BLG151/UNIT 8 - Microbial Diseases, Detection/36. Clinical Microbiology and Immunology.md",
     "BLG151/UNIT 8 - Microbial Diseases, Detection/35. Epidemiology and Public Health Microbiology.md",
-    "40. Microbiology of Food.md",
-    "39. Human Diseases Caused by Fungi and Protists.md",
     "BLG151/UNIT 7 - Pathogenicity and Host Response/34. Infection and Pathogenicity.md",
     "BLG151/UNIT 7 - Pathogenicity and Host Response/33. The Microbe-Human Ecosystem.md",
     "BLG151/UNIT 7 - Pathogenicity and Host Response/32. Adaptive Immunity.md",
@@ -213,21 +237,13 @@
     "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md",
-    "BLG151/0. Overview.md",
-    "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
     "Stats and Probs",
     "Calculus",
     "Linear Algebra",
     "CIND123/The Art of R Programming",
     "BLG151/UNIT 9 - Applied Microbiology",
     "BLG151/UNIT 8 - Microbial Diseases, Detection",
-    "BLG151/UNIT 7 - Pathogenicity and Host Response",
-    "BLG151/UNIT 6 - Ecology and Symbiosis",
-    "Private/UNIT 5 - Diversity of the Microbial World",
     "images/Pasted image 20250421225759.png",
     "images/Pasted image 20250421225751.png",
     "images/Pasted image 20250421225740.png",
@@ -237,7 +253,6 @@
     "images/Pasted image 20250421224946.png",
     "images/Pasted image 20250421224914.png",
     "images/Pasted image 20250421224851.png",
-    "images/Pasted image 20250421224825.png",
     "Untitled.canvas"
   ]
 }
