@@ -344,15 +344,25 @@ Winogradsky column
 	- Molecular biology
 	- Taxonomy
 - Applied aspects
-	- Practical problems, 
+	- Practical problems (disease, water, food, and industrial microbiology)
 
 ## Molecular and Genomic Methods
-
+- Led to a second golden age of microbiology
+- Rapid expansion of knowledge
 
 
 ## Major Fields in Microbiology
-
-
+1) Medical microbiology
+2) Public health microbiology
+3) Immunology
+4) Microbial ecology
+5) Agricultural microbiology
+6) Food microbiology
 
 ## More Microbiology Fields
-
+- Industrial microbiology
+	- Penicillin and other antibiotics
+	- Vaccines, steroids, alcohols and other solvents, vitamins, amino acids, enzymes, and biofuels
+- Microbial physiology studies metabolic pathways of microorganisms
+- Microbial genetics, molecular biology, and bioinformatics study the nature of genetic information and how it regulates the development and function of cells and organisms
+- Microbes are a model system of genomics
