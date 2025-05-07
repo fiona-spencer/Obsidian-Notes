@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "437b46005461d870",
@@ -193,6 +192,8 @@
   },
   "active": "265f323d2cf30faa",
   "lastOpenFiles": [
+    "README.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "images/Pasted image 20250507113926.png",
     "Pasted image 20250507113926.png",
     "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md",
@@ -201,13 +202,11 @@
     "BLG151/Microbiology Notes/Slide One.md",
     "images/Screenshot 2025-05-05 at 6.26.09 PM.png",
     "Screenshot 2025-05-05 at 6.26.09 PM.png",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "images/image.png",
     "images/intro_page.jpeg",
     "images/Pasted image 20250330121615.png",
     "images/Pasted image 20250330121432.png",
     "images/Screenshot 2025-05-05 at 6.16.01 PM.png",
-    "README.md",
     "CPS590/7. Memory Management.md",
     "CPS590/8. Virtual Memory.md",
     "CPS590/6. Concurrency - Deadlock and Starvation.md",
@@ -238,7 +237,6 @@
     "CIND123/The Art of R Programming",
     "BLG151/UNIT 9 - Applied Microbiology",
     "BLG151/UNIT 8 - Microbial Diseases, Detection",
-    "images/Pasted image 20250421225759.png",
     "Untitled.canvas"
   ]
 }
