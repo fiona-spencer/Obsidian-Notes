@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Evolution of Microorganisms and Microbiology"
+              "title": "1. The Evolution of Microorganisms and Microbiology_converted"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "437b46005461d870",
@@ -193,10 +192,11 @@
   },
   "active": "265f323d2cf30faa",
   "lastOpenFiles": [
+    "images/Pasted image 20250507115158.png",
+    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
     "Pasted image 20250507115158.png",
     "convert_images.sh",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "README.md",
     "images/Pasted image 20250507113926.png",
     "Pasted image 20250507113926.png",
