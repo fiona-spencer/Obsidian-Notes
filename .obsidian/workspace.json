@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Evolution of Microorganisms and Microbiology_converted"
+              "title": "1. The Evolution of Microorganisms and Microbiology"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -192,9 +193,11 @@
   },
   "active": "265f323d2cf30faa",
   "lastOpenFiles": [
+    "images/Pasted image 20250507120456.png",
+    "Pasted image 20250507120456.png",
+    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
     "images/Pasted image 20250507115158.png",
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
     "Pasted image 20250507115158.png",
     "convert_images.sh",
     "README.md",
@@ -209,8 +212,6 @@
     "images/image.png",
     "images/intro_page.jpeg",
     "images/Pasted image 20250330121615.png",
-    "images/Pasted image 20250330121432.png",
-    "images/Screenshot 2025-05-05 at 6.16.01 PM.png",
     "CPS590/7. Memory Management.md",
     "CPS590/8. Virtual Memory.md",
     "CPS590/6. Concurrency - Deadlock and Starvation.md",
