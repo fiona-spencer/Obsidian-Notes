@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "0. Cognitive Science",
-      "path": "Cognitive Science/0. Cognitive Science.md"
+      "basename": "15. Nonparametric Statistics",
+      "path": "CIND123/Stats and Probs/15. Nonparametric Statistics.md"
+    },
+    {
+      "basename": "14. Analysis of Categorical Data",
+      "path": "CIND123/Stats and Probs/14. Analysis of Categorical Data.md"
+    },
+    {
+      "basename": "13. Multiple Regression Analysis",
+      "path": "CIND123/Stats and Probs/13. Multiple Regression Analysis.md"
+    },
+    {
+      "basename": "12. Linear Regression Analysis and Correlation",
+      "path": "CIND123/Stats and Probs/12. Linear Regression Analysis and Correlation.md"
+    },
+    {
+      "basename": "11. The Analysis of Variance",
+      "path": "CIND123/Stats and Probs/11. The Analysis of Variance.md"
+    },
+    {
+      "basename": "10. Inference from Small Samples",
+      "path": "CIND123/Stats and Probs/10. Inference from Small Samples.md"
+    },
+    {
+      "basename": "9. Large-Sample Tests of Hypotheses",
+      "path": "CIND123/Stats and Probs/9. Large-Sample Tests of Hypotheses.md"
+    },
+    {
+      "basename": "8. Large-Sample Estimation",
+      "path": "CIND123/Stats and Probs/8. Large-Sample Estimation.md"
+    },
+    {
+      "basename": "7. Samping Distributions",
+      "path": "CIND123/Stats and Probs/7. Samping Distributions.md"
+    },
+    {
+      "basename": "6. The Normal Probability Distribution",
+      "path": "CIND123/Stats and Probs/6. The Normal Probability Distribution.md"
+    },
+    {
+      "basename": "5. Several Useful Discrete Distributions",
+      "path": "CIND123/Stats and Probs/5. Several Useful Discrete Distributions.md"
+    },
+    {
+      "basename": "4. Probability and Probability Distributions",
+      "path": "CIND123/Stats and Probs/4. Probability and Probability Distributions.md"
+    },
+    {
+      "basename": "3. Describing Bivariate Data",
+      "path": "CIND123/Stats and Probs/3. Describing Bivariate Data.md"
+    },
+    {
+      "basename": "2. Describing Data with Numerical Measures",
+      "path": "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md"
+    },
+    {
+      "basename": "1. Describing Data with Graphs",
+      "path": "CIND123/Stats and Probs/1. Describing Data with Graphs.md"
     },
     {
       "basename": "0. Probs and Stats",
       "path": "CIND123/Stats and Probs/0. Probs and Stats.md"
+    },
+    {
+      "basename": "0. Cognitive Science",
+      "path": "Cognitive Science/0. Cognitive Science.md"
     },
     {
       "basename": "0. The Art of R Programming",
@@ -139,66 +199,6 @@
     {
       "basename": "11. Catabolism - Energy Release and Conservation",
       "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
-    },
-    {
-      "basename": "10. Introduction to Metabolism",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
-    },
-    {
-      "basename": "9. Antimicrobial Chemotherapy",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
-    },
-    {
-      "basename": "8. Control and Microorganisms in the Environment",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
-    },
-    {
-      "basename": "7. Bacterial and Archaeal Growth",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
-    },
-    {
-      "basename": "6. Viruses and Other Acellular Infectious Agents",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
-    },
-    {
-      "basename": "5. Eukaryotic Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
-    },
-    {
-      "basename": "4. Archaeal Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
-    },
-    {
-      "basename": "3. Bacterial Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
-    },
-    {
-      "basename": "2. Microscopy",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
-    },
-    {
-      "basename": "1. The Evolution of Microorganisms and Microbiology",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Slide One",
-      "path": "BLG151/Microbiology Notes/Slide One.md"
-    },
-    {
-      "basename": "image",
-      "path": "images/image.png"
-    },
-    {
-      "basename": "intro_page",
-      "path": "images/intro_page.jpeg"
-    },
-    {
-      "basename": "Pasted image 20250330121615",
-      "path": "images/Pasted image 20250330121615.png"
     }
   ],
   "omittedPaths": [],
