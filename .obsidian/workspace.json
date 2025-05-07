@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -197,11 +198,12 @@
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "images/Pasted image 20250507125458.png",
     "Pasted image 20250507125458.png",
@@ -231,7 +233,6 @@
     "Slide 1",
     "BLG151/Microbiology Notes",
     "BLG151/0. Overview.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/39. Human Diseases Caused by Fungi and Protists.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World",
     "Stats and Probs",
     "Calculus",
