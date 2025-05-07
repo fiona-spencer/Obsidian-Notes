@@ -1,56 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
+      "basename": "0. Cognitive Science",
+      "path": "Cognitive Science/0. Cognitive Science.md"
     },
     {
-      "basename": "11. Catabolism - Energy Release and Conservation",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
+      "basename": "0. Probs and Stats",
+      "path": "CIND123/Stats and Probs/0. Probs and Stats.md"
     },
     {
-      "basename": "10. Introduction to Metabolism",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
-    },
-    {
-      "basename": "9. Antimicrobial Chemotherapy",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
-    },
-    {
-      "basename": "8. Control and Microorganisms in the Environment",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
-    },
-    {
-      "basename": "7. Bacterial and Archaeal Growth",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
-    },
-    {
-      "basename": "6. Viruses and Other Acellular Infectious Agents",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
-    },
-    {
-      "basename": "5. Eukaryotic Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
-    },
-    {
-      "basename": "4. Archaeal Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
-    },
-    {
-      "basename": "3. Bacterial Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
-    },
-    {
-      "basename": "2. Microscopy",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
-    },
-    {
-      "basename": "1. The Evolution of Microorganisms and Microbiology",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "0. The Art of R Programming",
+      "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
     },
     {
       "basename": "42. Applied Environmental Microbiology",
@@ -63,62 +23,6 @@
     {
       "basename": "40. Microbiology of Food",
       "path": "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md"
-    },
-    {
-      "basename": "Slide One",
-      "path": "BLG151/Microbiology Notes/Slide One.md"
-    },
-    {
-      "basename": "image",
-      "path": "images/image.png"
-    },
-    {
-      "basename": "intro_page",
-      "path": "images/intro_page.jpeg"
-    },
-    {
-      "basename": "Pasted image 20250330121615",
-      "path": "images/Pasted image 20250330121615.png"
-    },
-    {
-      "basename": "Pasted image 20250330121432",
-      "path": "images/Pasted image 20250330121432.png"
-    },
-    {
-      "basename": "Screenshot 2025-05-05 at 6.16.01 PM",
-      "path": "images/Screenshot 2025-05-05 at 6.16.01 PM.png"
-    },
-    {
-      "basename": "7. Memory Management",
-      "path": "CPS590/7. Memory Management.md"
-    },
-    {
-      "basename": "8. Virtual Memory",
-      "path": "CPS590/8. Virtual Memory.md"
-    },
-    {
-      "basename": "6. Concurrency - Deadlock and Starvation",
-      "path": "CPS590/6. Concurrency - Deadlock and Starvation.md"
-    },
-    {
-      "basename": "5. Concurrency - Mutual Exclusion and Synchronization",
-      "path": "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md"
-    },
-    {
-      "basename": "2. Operating System Overview",
-      "path": "CPS590/2. Operating System Overview.md"
-    },
-    {
-      "basename": "3. Process Description and Control",
-      "path": "CPS590/3. Process Description and Control.md"
-    },
-    {
-      "basename": "1. Computer System Overview",
-      "path": "CPS590/1. Computer System Overview.md"
-    },
-    {
-      "basename": "0. Overview",
-      "path": "BLG151/0. Overview.md"
     },
     {
       "basename": "39. Human Diseases Caused by Fungi and Protists",
@@ -199,6 +103,102 @@
     {
       "basename": "20. Non-proteobacterial Gram-Negative Bacteria",
       "path": "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md"
+    },
+    {
+      "basename": "19. Archaea",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md"
+    },
+    {
+      "basename": "18. Microbial Genomics",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md"
+    },
+    {
+      "basename": "17. Microbial DNA Technologies",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md"
+    },
+    {
+      "basename": "16. Mechanisms of Genetic Variation",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md"
+    },
+    {
+      "basename": "15. Eukaryotic and Archaeal Genome Replication and Expression",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md"
+    },
+    {
+      "basename": "14. Regulation of Cellular Processes",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md"
+    },
+    {
+      "basename": "13. Bacterial Genome Replication and Expression",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md"
+    },
+    {
+      "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
+    },
+    {
+      "basename": "11. Catabolism - Energy Release and Conservation",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
+    },
+    {
+      "basename": "10. Introduction to Metabolism",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
+    },
+    {
+      "basename": "9. Antimicrobial Chemotherapy",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
+    },
+    {
+      "basename": "8. Control and Microorganisms in the Environment",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
+    },
+    {
+      "basename": "7. Bacterial and Archaeal Growth",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
+    },
+    {
+      "basename": "6. Viruses and Other Acellular Infectious Agents",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
+    },
+    {
+      "basename": "5. Eukaryotic Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
+    },
+    {
+      "basename": "4. Archaeal Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
+    },
+    {
+      "basename": "3. Bacterial Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
+    },
+    {
+      "basename": "2. Microscopy",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
+    },
+    {
+      "basename": "1. The Evolution of Microorganisms and Microbiology",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Slide One",
+      "path": "BLG151/Microbiology Notes/Slide One.md"
+    },
+    {
+      "basename": "image",
+      "path": "images/image.png"
+    },
+    {
+      "basename": "intro_page",
+      "path": "images/intro_page.jpeg"
+    },
+    {
+      "basename": "Pasted image 20250330121615",
+      "path": "images/Pasted image 20250330121615.png"
     }
   ],
   "omittedPaths": [],

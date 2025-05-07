@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
+                "file": "CIND123/Stats and Probs/0. Probs and Stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Anabolism - The Use of Energy in Biosynthesis"
+              "title": "0. Probs and Stats"
+            }
+          },
+          {
+            "id": "f27f6e74f28f0719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/0. Cognitive Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. Cognitive Science"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "437b46005461d870",
@@ -191,54 +205,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "265f323d2cf30faa",
+  "active": "f27f6e74f28f0719",
   "lastOpenFiles": [
-    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-    "images/Pasted image 20250507125458.png",
-    "Pasted image 20250507125458.png",
-    "images/Pasted image 20250507124042.png",
-    "Pasted image 20250507124042.png",
-    "images/Pasted image 20250507123346.png",
-    "Pasted image 20250507123346.png",
-    "images/Pasted image 20250507120456.png",
-    "Pasted image 20250507120456.png",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology_converted.md",
-    "images/Pasted image 20250507115158.png",
-    "Pasted image 20250507115158.png",
-    "convert_images.sh",
-    "README.md",
+    "images/Pasted image 20250507145029.png",
+    "Pasted image 20250507145029.png",
+    "CIND123/Stats and Probs/0. Probs and Stats.md",
+    "Cognitive Science/0. Cognitive Science.md",
+    "images/Pasted image 20250507144513.png",
+    "images/Pasted image 20250507144501.png",
+    "images/Pasted image 20250507144358.png",
+    "CIND123/The Art of R Programming/0. The Art of R Programming.md",
+    "Pasted image 20250507144513.png",
+    "Pasted image 20250507144501.png",
+    "Probs",
+    "Pasted image 20250507144358.png",
     "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md",
     "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
     "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md",
-    "BLG151/Microbiology Notes/Slide One.md",
-    "CPS590/7. Memory Management.md",
-    "CPS590/8. Virtual Memory.md",
-    "CPS590/6. Concurrency - Deadlock and Starvation.md",
-    "CPS590/5. Concurrency - Mutual Exclusion and Synchronization.md",
-    "CPS590/2. Operating System Overview.md",
-    "CPS590/3. Process Description and Control.md",
-    "CPS590/1. Computer System Overview.md",
-    "Untitled",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/39. Human Diseases Caused by Fungi and Protists.md",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/38. Human Diseases Caused by Bacteria.md",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/37. Human Diseases Caused by Viruses and Prions.md",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/36. Clinical Microbiology and Immunology.md",
+    "BLG151/UNIT 8 - Microbial Diseases, Detection/35. Epidemiology and Public Health Microbiology.md",
+    "BLG151/UNIT 7 - Pathogenicity and Host Response/34. Infection and Pathogenicity.md",
+    "BLG151/UNIT 7 - Pathogenicity and Host Response/33. The Microbe-Human Ecosystem.md",
+    "BLG151/UNIT 7 - Pathogenicity and Host Response/32. Adaptive Immunity.md",
+    "BLG151/UNIT 7 - Pathogenicity and Host Response/31. Innate Host Resistance.md",
+    "BLG151/UNIT 6 - Ecology and Symbiosis/30. Microorganisms in Terrestrial Ecosystems.md",
+    "BLG151/UNIT 6 - Ecology and Symbiosis/29. Micro-oganisms in Marine and Freshwater Ecosystems.md",
+    "BLG151/UNIT 6 - Ecology and Symbiosis/28. Biogeochemical Cycling and Global Climate Change.md",
+    "BLG151/UNIT 6 - Ecology and Symbiosis/27. Microbial Interactions.md",
+    "BLG151/UNIT 6 - Ecology and Symbiosis/26. Exploring Microbes in Ecosystems.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md",
+    "images/Pasted image 20250507125458.png",
+    "Pasted image 20250507125458.png",
+    "images/Pasted image 20250507124042.png",
+    "convert_images.sh",
+    "Cognitive Science",
     "Slide 1",
     "BLG151/Microbiology Notes",
-    "BLG151/0. Overview.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World",
-    "Stats and Probs",
+    "CIND123/Stats and Probs",
     "Calculus",
     "Linear Algebra",
     "CIND123/The Art of R Programming",
-    "BLG151/UNIT 9 - Applied Microbiology",
     "Untitled.canvas"
   ]
 }
