@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIND123/Stats and Probs/15. Nonparametric Statistics.md",
+                "file": "BLG151/Microbiology Notes/Slide Two.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Nonparametric Statistics"
+              "title": "Slide Two"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -192,10 +193,19 @@
   },
   "active": "265f323d2cf30faa",
   "lastOpenFiles": [
+    "images/Pasted image 20250507181245.png",
+    "Pasted image 20250507181245.png",
+    "BLG151/Microbiology Notes/Slide One.md",
+    "BLG151/Microbiology Notes/Slide Two.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+    "CIND123/Stats and Probs/15. Nonparametric Statistics.md",
     "CIND123/Stats and Probs/14. Analysis of Categorical Data.md",
     "CIND123/Stats and Probs/13. Multiple Regression Analysis.md",
     "CIND123/Stats and Probs/12. Linear Regression Analysis and Correlation.md",
-    "CIND123/Stats and Probs/15. Nonparametric Statistics.md",
     "CIND123/Stats and Probs/11. The Analysis of Variance.md",
     "CIND123/Stats and Probs/10. Inference from Small Samples.md",
     "CIND123/Stats and Probs/9. Large-Sample Tests of Hypotheses.md",
@@ -219,16 +229,7 @@
     "Pasted image 20250507144501.png",
     "Probs",
     "Pasted image 20250507144358.png",
-    "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md",
-    "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
-    "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/39. Human Diseases Caused by Fungi and Protists.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/38. Human Diseases Caused by Bacteria.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/37. Human Diseases Caused by Viruses and Prions.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/36. Clinical Microbiology and Immunology.md",
-    "BLG151/UNIT 8 - Microbial Diseases, Detection/35. Epidemiology and Public Health Microbiology.md",
     "images/Pasted image 20250507125458.png",
-    "Pasted image 20250507125458.png",
     "convert_images.sh",
     "Cognitive Science",
     "Slide 1",

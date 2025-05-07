@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Slide Two",
+      "path": "BLG151/Microbiology Notes/Slide Two.md"
+    },
+    {
+      "basename": "Slide One",
+      "path": "BLG151/Microbiology Notes/Slide One.md"
+    },
+    {
+      "basename": "14. Regulation of Cellular Processes",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md"
+    },
+    {
+      "basename": "13. Bacterial Genome Replication and Expression",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md"
+    },
+    {
+      "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
+    },
+    {
+      "basename": "11. Catabolism - Energy Release and Conservation",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
+    },
+    {
+      "basename": "10. Introduction to Metabolism",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
+    },
+    {
       "basename": "15. Nonparametric Statistics",
       "path": "CIND123/Stats and Probs/15. Nonparametric Statistics.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "18. Microbial Genomics",
       "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md"
-    },
-    {
-      "basename": "17. Microbial DNA Technologies",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md"
-    },
-    {
-      "basename": "16. Mechanisms of Genetic Variation",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md"
-    },
-    {
-      "basename": "15. Eukaryotic and Archaeal Genome Replication and Expression",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md"
-    },
-    {
-      "basename": "14. Regulation of Cellular Processes",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md"
-    },
-    {
-      "basename": "13. Bacterial Genome Replication and Expression",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md"
-    },
-    {
-      "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
-    },
-    {
-      "basename": "11. Catabolism - Energy Release and Conservation",
-      "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
     }
   ],
   "omittedPaths": [],
