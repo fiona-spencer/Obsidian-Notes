@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "41. Biotechnology and Industrial Microbiology"
+              "title": "1. The Evolution of Microorganisms and Microbiology"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -192,6 +193,8 @@
   },
   "active": "265f323d2cf30faa",
   "lastOpenFiles": [
+    "images/Pasted image 20250507113926.png",
+    "Pasted image 20250507113926.png",
     "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md",
     "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md",
     "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md",
@@ -236,7 +239,6 @@
     "BLG151/UNIT 9 - Applied Microbiology",
     "BLG151/UNIT 8 - Microbial Diseases, Detection",
     "images/Pasted image 20250421225759.png",
-    "images/Pasted image 20250421225751.png",
     "Untitled.canvas"
   ]
 }
