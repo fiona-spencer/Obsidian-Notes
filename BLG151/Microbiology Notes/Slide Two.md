@@ -166,22 +166,176 @@ $d = \frac{0.5(500 nm)}{2(1.25)} = 200 nm$
 - Preserves specimen for future research
 
 ## Fixation
+- Stained to resemble living cells as closely as possible
+
+**Fixation** - preserves internal and external structures and fixing them in position
+
+- This is done by inactivating enzymes that can disturb cell morphology and toughens cell structures
+- Organisms are kills and firmly attaches to microscope slide
+
+2 Types of Fixation
+1) Heat fixation
+	- Preserves overall morphology but destroys internal structures
+2) Chemical fixation
+	- Protects fine cellular substructures and morphology
 
 ## Dyes and Simple Staining
 
+- Dyes make internal and external structures of cell more visible by increasing contrast with background
+
+
+| Types of Dye | Examples | Chromophore Characteristics |
+| ------------ | -------- | --------------------------- |
+| Basic dyes   |          |                             |
+| Acidic dyes  |          |                             |
+
+
 ## Basic/Acid Dyes and Simple Staining
+- Ionizable dyes have charged groups
+	- Basic dyes have positive charges
+		- Binds to negatively charged components within cells
+			- Nucleic acid
+			- Some proteins
+	- Acid dyes have negative charges
+		- Binds to and stains basic structures
+			- Cytoplasm
+			- Collagen
+			- Muscle fibers
+
+Simple staining
+- A single stain is used
+- Used to determine size, shape, and arrangement of bacteria
 
 ## Differential Staining
+- Divides organisms into groups based on their staining properties
+	- Gran stain
+	- Acid-fast stain
+- Differential stain used to detect presence or absence of structures
+	- Capsules
+	- Flagells
+
 
 ## Gram Staining
+- Most widely used differential staining procedure
+- Devised by Hans Christian Gram (1884)
+- Divides bacteria into 2 groups based on differences in cell wall structure
+	- Gram-positive (purple)
+		- Bacteria retain the crystal violet stain because of their thicker cell wall
+	- Gram-negative (red)
+		- Bacteria do not, they take up safranin, the counterstain in this procedure
+
+
+Gram-Staining Procedure
+1) Wash with crystal violet, water rinse
+2) Iodine, water rinse
+3) Alcohol (decolorizer), water rinse
+4) Safranin (counterstain), water rinse
+
+
+![](Pasted%20image%2020250507193913.png)
+
+- Decolorization step is considered the most critical in the Gram-staining procedure
+- Determines whether bacteria is Gram-positive or Gram-negative
+- By retaining or removing the crystal violet stain
+- Over-decolorizing can wash out stain from Gram-positive cells, making them appear negative, while under-decolorizing can cause Gram-negative cells to retain the purple
+
 
 ## Acid-Fast Staining
+- Useful for staining members of the genus _Mycobacterium_
+- Mycobacteria have a cell wall with lipids that prevent dyes from binding to cells
+- Ziehl-Neelson method of staining uses concentrated phenol and carbol fuchsin to drive the stain into the cell
 
 ## Staining Specific Structures
-
+Capsule staining - using to visualize polysaccharide capsules surrounding bacteria
+Negative stain - capsules may be colourless against a stained background
+Flagella staining - used to provide information about the presence and distribution pattern of flagella
+- Mordant is applied to increase thickness of flagella because they are usually too fine to be observed
 
 # 2.4 - Electron Microscopes Use Beams of Electrons to Create Highly Magnified Images
 
 ---
 
-## Limits of
+## Limits of Microscopic Resolution
+- Some organisms are too small to be seen using a light microscope
+
+![](Pasted%20image%2020250507195049.png)
+
+
+## Electron Microscopy
+- Electrons replace light as the "illuminating" beam that is focused
+- Wavelength of electron beam is 100,000x shorter than visible light, resulting in a higher resolution image
+- Allows for microbial morphology to be studied in detail
+
+## Transmission Electron Microscope (TEM)
+- Uses a heat tungsten filament in the electron gun to generate a focused beam of electron on the specimen
+- Electrons that pass through the specimen form the image
+	- Denser regions scatter electrons more and appear darker
+- Process is under vacuum to reduce scatter and produce clear image
+- Cannot use living specimens
+- Cannot produce 3D images
+
+## A Comparison of Light and Transmission Electron Microscope
+
+![](Pasted%20image%2020250507195558.png)
+
+## Characteristics of Light and Transmission Electron Microscopes
+
+
+## Specimen Preparation
+- Analogous to procedures used for light microscopy
+- For TEM, specimens must be but very thin because electron beams are easily absorbed and scattered by solid matter
+- Specimens are chemically fixed and stained with electron dense materials, such as heavy metals, that differentially scatter electrons
+
+## Other Preparation Methods
+Negative staining
+- Specimen spread out in a thin film with chemicals
+- Produces images bright against a dark background
+- Used for study of viruses and cellular microbes
+Shadowing
+- Specimen is coated with a heavy metal on one side
+- Useful of virus particle morphology, flagella, and DNA
+
+## Preparations Methods without Metals
+Freeze-etching
+- Rapidly freeze cells in liquid nitrogen
+- Frozen cells are brittle and fracture along lines of greatest weakness (internal membranes)
+- Allows for observation of shapes of intracellular structures
+
+## Electron Microscopy (EM) of COVID-19
+- SARS-CoV-2 has a distinct shape when viewed in EM
+- Proteins extending from surface give each a crownlike or corona appearance
+- 100 nm in diameter
+
+## Scanning Electron Microscope (SEM)
+- Produces a realistic 3D image of specimen's surface features
+- Uses electrons excited from the surface of specimen to create detailed image
+- Narrow electron beam scanned back and forth over a specimen, producing secondary electrons that generates an electrical current that is digitalized
+- 
+
+![](Pasted%20image%2020250507200648.png)
+
+## Cryo-Electron Microscopy
+- Used to visualized biomolecules and generate high resolution structures
+- Samples rapidly frozen, then multiple TEM images are captured at different angles
+- Images combine to generate 3D images
+
+
+
+# 2.5 - Scanning Probe Microscopy Can Visualize Molecules and Atoms
+
+---
+
+## Scanning Probe Microscopy
+- Measure surface features of an object by moving a sharp probe over an objects surface
+
+Scanning tunneling microscope
+- Magnification 100 million times, can view atoms on surface of a soild
+- Tunnelling current is extremely sensitive to distance and detects single atom distance change as a probe moves to generate a surface map
+
+## Atomic Force Microscope
+- Up and down movement of sharp probe as it maintains constant distance from specimen
+- Can be used on surfaces that do not conduct electricity
+- Used to image protein interactions
+- Deflection of a laser beam that strikes the level holding the probe is measured
+
+![](Pasted%20image%2020250507201850.png)
