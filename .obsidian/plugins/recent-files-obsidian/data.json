@@ -1,8 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Matrices and Arrays",
+      "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
+    },
+    {
+      "basename": "2. Vectors",
+      "path": "CIND123/The Art of R Programming/2. Vectors.md"
+    },
+    {
+      "basename": "1. Getting Started",
+      "path": "CIND123/The Art of R Programming/1. Getting Started.md"
+    },
+    {
+      "basename": "16. Parallel R",
+      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
+    },
+    {
+      "basename": "15. Interfacing R to Other Languages",
+      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
+    },
+    {
+      "basename": "14. Performance Enhancement - Speed and Memory",
+      "path": "CIND123/The Art of R Programming/14. Performance Enhancement - Speed and Memory.md"
+    },
+    {
+      "basename": "13. Debugging",
+      "path": "CIND123/The Art of R Programming/13. Debugging.md"
+    },
+    {
+      "basename": "12. Graphics",
+      "path": "CIND123/The Art of R Programming/12. Graphics.md"
+    },
+    {
+      "basename": "11. String Manipulation",
+      "path": "CIND123/The Art of R Programming/11. String Manipulation.md"
+    },
+    {
+      "basename": "10. Input and Output",
+      "path": "CIND123/The Art of R Programming/10. Input and Output.md"
+    },
+    {
+      "basename": "9. Object-Oriented Programming",
+      "path": "CIND123/The Art of R Programming/9. Object-Oriented Programming.md"
+    },
+    {
+      "basename": "8. Doing Math and Simulations in R",
+      "path": "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md"
+    },
+    {
+      "basename": "7. R Programming Structures",
+      "path": "CIND123/The Art of R Programming/7. R Programming Structures.md"
+    },
+    {
+      "basename": "6. Factors and Tables",
+      "path": "CIND123/The Art of R Programming/6. Factors and Tables.md"
+    },
+    {
+      "basename": "5. Data Frames",
+      "path": "CIND123/The Art of R Programming/5. Data Frames.md"
+    },
+    {
+      "basename": "4. Lists",
+      "path": "CIND123/The Art of R Programming/4. Lists.md"
+    },
+    {
+      "basename": "18. Installing and Using Packages",
+      "path": "CIND123/The Art of R Programming/18. Installing and Using Packages.md"
+    },
+    {
+      "basename": "17. Installing R",
+      "path": "CIND123/The Art of R Programming/17. Installing R.md"
+    },
+    {
       "basename": "0. The Art of R Programming",
       "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
+    },
+    {
+      "basename": "Output",
+      "path": "10. Input/Output.md"
+    },
+    {
+      "basename": "10. Inference from Small Samples",
+      "path": "CIND123/Stats and Probs/10. Inference from Small Samples.md"
+    },
+    {
+      "basename": "9. Large-Sample Tests of Hypotheses",
+      "path": "CIND123/Stats and Probs/9. Large-Sample Tests of Hypotheses.md"
+    },
+    {
+      "basename": "8. Large-Sample Estimation",
+      "path": "CIND123/Stats and Probs/8. Large-Sample Estimation.md"
+    },
+    {
+      "basename": "7. Samping Distributions",
+      "path": "CIND123/Stats and Probs/7. Samping Distributions.md"
+    },
+    {
+      "basename": "3. Describing Bivariate Data",
+      "path": "CIND123/Stats and Probs/3. Describing Bivariate Data.md"
     },
     {
       "basename": "6. The Normal Probability Distribution",
@@ -15,10 +111,6 @@
     {
       "basename": "4. Probability and Probability Distributions",
       "path": "CIND123/Stats and Probs/4. Probability and Probability Distributions.md"
-    },
-    {
-      "basename": "3. Describing Bivariate Data",
-      "path": "CIND123/Stats and Probs/3. Describing Bivariate Data.md"
     },
     {
       "basename": "2. Describing Data with Numerical Measures",
@@ -81,22 +173,6 @@
       "path": "CIND123/Stats and Probs/11. The Analysis of Variance.md"
     },
     {
-      "basename": "10. Inference from Small Samples",
-      "path": "CIND123/Stats and Probs/10. Inference from Small Samples.md"
-    },
-    {
-      "basename": "9. Large-Sample Tests of Hypotheses",
-      "path": "CIND123/Stats and Probs/9. Large-Sample Tests of Hypotheses.md"
-    },
-    {
-      "basename": "8. Large-Sample Estimation",
-      "path": "CIND123/Stats and Probs/8. Large-Sample Estimation.md"
-    },
-    {
-      "basename": "7. Samping Distributions",
-      "path": "CIND123/Stats and Probs/7. Samping Distributions.md"
-    },
-    {
       "basename": "0. Cognitive Science",
       "path": "Cognitive Science/0. Cognitive Science.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "37. Human Diseases Caused by Viruses and Prions",
       "path": "BLG151/UNIT 8 - Microbial Diseases, Detection/37. Human Diseases Caused by Viruses and Prions.md"
-    },
-    {
-      "basename": "36. Clinical Microbiology and Immunology",
-      "path": "BLG151/UNIT 8 - Microbial Diseases, Detection/36. Clinical Microbiology and Immunology.md"
-    },
-    {
-      "basename": "35. Epidemiology and Public Health Microbiology",
-      "path": "BLG151/UNIT 8 - Microbial Diseases, Detection/35. Epidemiology and Public Health Microbiology.md"
-    },
-    {
-      "basename": "34. Infection and Pathogenicity",
-      "path": "BLG151/UNIT 7 - Pathogenicity and Host Response/34. Infection and Pathogenicity.md"
-    },
-    {
-      "basename": "33. The Microbe-Human Ecosystem",
-      "path": "BLG151/UNIT 7 - Pathogenicity and Host Response/33. The Microbe-Human Ecosystem.md"
-    },
-    {
-      "basename": "32. Adaptive Immunity",
-      "path": "BLG151/UNIT 7 - Pathogenicity and Host Response/32. Adaptive Immunity.md"
-    },
-    {
-      "basename": "31. Innate Host Resistance",
-      "path": "BLG151/UNIT 7 - Pathogenicity and Host Response/31. Innate Host Resistance.md"
-    },
-    {
-      "basename": "30. Microorganisms in Terrestrial Ecosystems",
-      "path": "BLG151/UNIT 6 - Ecology and Symbiosis/30. Microorganisms in Terrestrial Ecosystems.md"
-    },
-    {
-      "basename": "29. Micro-oganisms in Marine and Freshwater Ecosystems",
-      "path": "BLG151/UNIT 6 - Ecology and Symbiosis/29. Micro-oganisms in Marine and Freshwater Ecosystems.md"
-    },
-    {
-      "basename": "28. Biogeochemical Cycling and Global Climate Change",
-      "path": "BLG151/UNIT 6 - Ecology and Symbiosis/28. Biogeochemical Cycling and Global Climate Change.md"
-    },
-    {
-      "basename": "27. Microbial Interactions",
-      "path": "BLG151/UNIT 6 - Ecology and Symbiosis/27. Microbial Interactions.md"
-    },
-    {
-      "basename": "26. Exploring Microbes in Ecosystems",
-      "path": "BLG151/UNIT 6 - Ecology and Symbiosis/26. Exploring Microbes in Ecosystems.md"
-    },
-    {
-      "basename": "25. Viruses",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md"
-    },
-    {
-      "basename": "24. Fungi",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md"
-    },
-    {
-      "basename": "23. Protists",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md"
-    },
-    {
-      "basename": "22. Gram-Positive Bacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md"
-    },
-    {
-      "basename": "21. Proteobacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md"
-    },
-    {
-      "basename": "20. Non-proteobacterial Gram-Negative Bacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md"
-    },
-    {
-      "basename": "19. Archaea",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md"
-    },
-    {
-      "basename": "18. Microbial Genomics",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md"
     }
   ],
   "omittedPaths": [],
