@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Getting Started",
-      "path": "CIND123/The Art of R Programming/1. Getting Started.md"
-    },
-    {
-      "basename": "16. Parallel R",
-      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
-    },
-    {
-      "basename": "15. Interfacing R to Other Languages",
-      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
-    },
-    {
       "basename": "14. Performance Enhancement - Speed and Memory",
       "path": "CIND123/The Art of R Programming/14. Performance Enhancement - Speed and Memory.md"
     },
@@ -49,6 +37,22 @@
       "path": "CIND123/The Art of R Programming/6. Factors and Tables.md"
     },
     {
+      "basename": "16. Parallel R",
+      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
+    },
+    {
+      "basename": "15. Interfacing R to Other Languages",
+      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
+    },
+    {
+      "basename": "18. Installing and Using Packages",
+      "path": "CIND123/The Art of R Programming/18. Installing and Using Packages.md"
+    },
+    {
+      "basename": "17. Installing R",
+      "path": "CIND123/The Art of R Programming/17. Installing R.md"
+    },
+    {
       "basename": "5. Data Frames",
       "path": "CIND123/The Art of R Programming/5. Data Frames.md"
     },
@@ -65,12 +69,8 @@
       "path": "CIND123/The Art of R Programming/2. Vectors.md"
     },
     {
-      "basename": "18. Installing and Using Packages",
-      "path": "CIND123/The Art of R Programming/18. Installing and Using Packages.md"
-    },
-    {
-      "basename": "17. Installing R",
-      "path": "CIND123/The Art of R Programming/17. Installing R.md"
+      "basename": "1. Getting Started",
+      "path": "CIND123/The Art of R Programming/1. Getting Started.md"
     },
     {
       "basename": "0. The Art of R Programming",
