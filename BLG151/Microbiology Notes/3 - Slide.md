@@ -165,11 +165,282 @@ Includes
 2) Integral membrane proteins
 	- Amphipathic proteins that are embedded within membrane and not easily removed
 	- Hydrophobic region buried in membrane lipids
-	- Hydrophilic regions project from the surfae
+	- Hydrophilic regions project from the surface
 	- Carry out important functions (transport)
 
 ## Structure of a Phospholipif
 
 Amphiphatic lipids
 - Hydrophilic
-	- Polar end that 
+	- Polar end that interact with water
+- Hydrophobic
+	- Non-polar tails that are insoluble in water and interact with each other
+
+- Bilayer forms spontaneously in aqueous environments
+	- Hydrophilic on surface
+	- Hydrophobic ends buried
+
+## Bacterial Lipids
+- The plasma membrane is mainly composed of phospholipids
+
+Other smaller lipids
+- Haponoid - Hydrophobic molecule similar to cholesterol
+- Distort the bilayer, which impacts the fluidity and shape in membrane regions
+- Form functional membrane micro-domains that are platforms for protein complex assembly
+
+
+## Definition
+
+**Selective Permeability Barrier** - controls the movement 
+**Energy generation** - 
+**Transport systems** - 
+**Biosynthesis of Cell Wall Components** - 
+**Secretion of Proteins** - 
+**Cell Signalling and Chemotaxis** - 
+**Lipid and Other Biosynthesis** - 
+
+
+# 3.4 - Cell Walls Have Many Functions
+
+## Bacterial Cell Wall
+Functions
+- Maintains shape of the bacterium
+- Helps protect cell from osmotic lysis and toxic materials
+- May contribute to pathogenicity
+
+**Peptidoglycan (murien)** - Rigid structure lying outside the plasma membrane
+
+
+2 Type of bacteria based on Gram Stain
+1. Gram-positive: Stain purple (thick peptidoglycan)
+2. Gram-negative
+
+## 2 Major Types of Cells Walls: Gram-Negative and Gram-Positive
+
+- Cell envelopes consist of plasma membrane and any layers exterior to it
+- Slime layers, capsules, and S-layers are common additional layers that lie outside the cell wall
+
+_Staphylococcus aureus_ - has a typical Gram-positive cell wall that consists primariliy of peptidoglycan
+
+_Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thin layer of peptidoglycan, an outer membrane, and the periplasmic space
+
+
+## Peptidoglycan Structure
+- Meshlike polymer of identical subunits forming long strands
+- 2 alternating sugars
+	- _NAG_
+	- _NAM_
+
+## Strands Are Cross-Linked
+
+- Peptidoglycan strands have a helical shape
+- Peptidoglycan chains are cross- linked by peptides for strength
+
+
+## Gram-Positive Cell Walls
+- Composed primarily of peptidoglycan
+
+## Periplasmic Space of Gram-Positive Bacteria
+- Between plasma membrane and cell wall
+- Periplasm has relatively few proteins
+
+## Gram-Negative Cell Wall Basic Structure
+- More complex than Gram-positive
+- Consist of a thin layer of peptidoglycan surrounded by an outer membrane
+- Outer membrane composed of lipids, lipoproteins, and lipopolysaccharides
+- No teichoic acids
+
+## Gram-Negative Cell Walls
+- Outer membrane (OM) outside thin peptidoglycan layer
+- Braun's lipoproteins connect OM to peptidoglycan
+- Peptidoglycan is ~5 to 10% of call walls weight
+
+## LPS - Lipopolysaccharide
+3 Parts
+1) Lipid A - buired in outer membrane
+2) Core polysaccharide - 10 sugar structure joined to Lipid A
+3) O side chain (O antigen) - polysaccharide that extends outward form the core
+
+## Gram-Negative Membrane Transport
+2 Step Process
+1. Solute crosses the outer membrane into the periplasm
+2. Then, crosses the plasma membrane
+
+- Facilitated transport by porins
+
+
+## Mechanisms of Gram Stain Reaction
+- Gram stain reaction due to nature of cell wall
+- Shrinkage of the pores of peptidoglycan layer of Gram-positive cells
+	- Constriction prevents loss of crystal violet during decolourization step
+- Thinner peptidoglycan layer and larger pores of Gram-negative bacteria do not prevent loss of crystal violet
+	- Alcohol may also remove/extract some lipids from outer layer of Gram-negative cell wall, making crystal violet dye removal easier
+
+## Cell Walls and Osmotic Protection
+- Hypotonic environments
+- Hypertonic environments
+
+
+**Plasmolysis** - the process where a plant cell's cytoplasm shrinks away from its cell wall due to water loss in a hypertonic solution
+
+
+## Evidence for Protection of Cell Wall
+- Lysosomes break bonds between NAG and NAM
+- Penicillin inhibits peptidoglycan synthesis
+- If cells are treated with either of the above, they lyse in a hypotonic solution
+
+**Protoplast Formation and Lysis** - protoplast formation induced by incubation with penicillin in an isotonic medium
+- Transfer to a hypotonic medium will result in lysis
+
+
+## Cells That Lose a Cell Wall May Survive in Isotonic Environments
+**Protoplasts** - Gram-positive that lose cell walls in isotonic environments
+**Spheroplasts** - Gram-positive cells that lose cell wall (outer membrane remains) in isotonic environments
+**Mycoplasm** - Lack a cell wall, but plasma membrane more resistant to osmotic pressure
+
+
+
+# 3.5 - Extracellular Vesicles Emerge from Bacterial Membranes
+
+
+## Extracellular Vesicles (EVs)
+- Small membrane-bound particles (20 to 400 nm in size)
+- Develop when a membrane buds out, pinches off, and is released from the cell
+- Gram-Postive EV, made of the plasma membrane surrounding a small amount of cytoplasm
+- Gram-negative Ev, made of LPS-containing OM surrounding a sample of periplasm
+
+## Extracellular Vesicles Are Not Cells
+- They do not reproduce
+- Can carry some ATP, but do not have the ability to conserve energy
+- Play role in cell-cell interactions
+	- Transfer genetic information between cells
+	- Transfer toxin molecules
+
+
+# 3.6 - The Cell Envelope Often Includes Layers Outside the Cell Wall
+
+## Components Outside of the Cell Wall
+Outermost layer in the cell envelope
+**Capsules** - well-organized layers made of polysaccharides that are covalently bonded and difficult to wash away
+**Slime layers** - polysaccharide layers that are unorganized and easily washed away
+**Glycocalyx** - polysaccharide extension that aids in attachment to solid surfaces
+**S-layers** - geometric pattern made of protein that aid in protecting from ion and pH fluctionations
+
+## Components Outside of Cell Wall - Capsules
+- Well organized and not easily removed from cell
+- Usually composed of polysaccharides
+- Visible in light microscope
+- Protective advantages
+	- Resistant to phagocytosis
+	- Protect from desiccation
+	- Exclude viruses and detergents
+
+## Components Outside of Cell Wall - Slime Layers
+- Similar to capsules except diffuse, unorganized, and easily removed
+- Slime may facilitate motility
+
+## Components Outside of Cell Wall - S Layers
+- Regularly structured self-assembling layers of protein or glycoprotein
+- In Gram-negative, S layer adheres to outer membrane
+- In Gram-positive, associated with peptidoglycan
+
+S-Layer Functions
+- Protect from ion and pH fluctuations, osmotic stress, enzymes, and predation
+- Maintains shape and rigidity
+- Promotes adhesion to surfaces
+- Protects from host defences
+- Potential use in nanotechnology
+
+
+# 3.7 - The Bacterial Cytoplasm Is More Complex than Once Thought
+
+## Bacterial Cytoplasmic Structures
+- Cytoskeleton
+- Intracytoplasmic membranes
+- Inclusions
+- Ribosomes
+- Nucleoid
+- Plasmids
+
+**Protoplast** - plasma membrane and everything within
+**Cytoplasm** - material bounded by the plasmid
+**Cytosol** - the liquid component of the cytoplasm
+
+## Bacterial Cytoskeleton
+
+**Cytosketelon** - protein filaments that polymerize to form functional filaments that extend to full inner dimensions of the cells
+- Homologs of eukaryotic cytoskeletal elements have been identified in bacteria
+
+
+Functions are similar as in eukaryotes:
+- 
+
+## Best Studied Example of Bacterial Cytoskeleton Molecules
+
+1) Actin filaments
+	- MreB, in many rod-shaped bacteria
+	- Maintains shape by positioning peptidoglycan synthesis machinery
+2) Microtubules
+	- 
+3) Crescentin
+	- 
+
+
+## Intracytoplasmic Membranes
+
+- Plasma membrane infoldings
+	- Observed in many photosynthetic bacteria
+	- Observed in many bacteria with high respiratory activity
+	- May be aggregates of spherical vesicles
+
+## Inclusions
+
+- Formed by aggregation of organic or inorganic substance
+- Primary function of inclusions it to segregate cellular components so they do not diffuse freely in the cytoplasm
+- Granules, crystals, or globules of organic or inorganic material that are stockpiled by the cell for future use
+- Some are enclosed by a single-layered protein or lipid shell
+	- May be referred to as _microcompartments_
+
+
+## Microcompartments
+
+- Not bound by membranes, but compartments for specific function
+- Composed of "scaffold proteins", foind in CO2 fixing bacteria
+	- Cyanobacteria
+
+**Carboxysomes** - CO2 fixing bacteria
+
+- Contain the enzyme carbonic anhydrase that release CO2 into a shell so it accumulates to high concentration
+- Then RuBisCo makes sugar
+
+## Gas Vacuoles
+- Involved in bacterial movement
+- Are aggregates of high number of cylindrical gas vesicles
+	- Gas vesicles have rigid protein walls impermeable to water but permeable to atmospheric gases
+- Are found in aquatic photosynthetic bacteria and archaea
+- Help cells to regulate their buoyancy at water column depth appropriate for optimal light intensity, oxygen and nutrient concentration
+	- Cells float downwards by collapsing their gas vesicles, when new vesicles are build, cells float upwards
+
+## Magnetosomes
+
+- Found in aquatic bacteria
+- Magnetite particles for orientation in Earth's magnetic field
+- Cytoskeleal
+
+
+## Ribosomes
+
+## The Nucleoid
+
+## Plasmids
+
+## Plasmids - Extrachromosomal DNA
+
+
+# 3.8 - External Structures Are Used for Attachment and Motiliy
+
+## External Structures
+
+## Pili and Fimbriae
+
+## Flagella
