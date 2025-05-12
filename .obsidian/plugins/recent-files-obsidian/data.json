@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Describing Data with Numerical Measures",
+      "path": "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md"
+    },
+    {
+      "basename": "1. Describing Data with Graphs",
+      "path": "CIND123/Stats and Probs/1. Describing Data with Graphs.md"
+    },
+    {
+      "basename": "Output",
+      "path": "10. Input/Output.md"
+    },
+    {
+      "basename": "16. Parallel R",
+      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
+    },
+    {
+      "basename": "15. Interfacing R to Other Languages",
+      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
+    },
+    {
       "basename": "14. Performance Enhancement - Speed and Memory",
       "path": "CIND123/The Art of R Programming/14. Performance Enhancement - Speed and Memory.md"
     },
@@ -37,14 +57,6 @@
       "path": "CIND123/The Art of R Programming/6. Factors and Tables.md"
     },
     {
-      "basename": "16. Parallel R",
-      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
-    },
-    {
-      "basename": "15. Interfacing R to Other Languages",
-      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
-    },
-    {
       "basename": "18. Installing and Using Packages",
       "path": "CIND123/The Art of R Programming/18. Installing and Using Packages.md"
     },
@@ -77,10 +89,6 @@
       "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
     },
     {
-      "basename": "Output",
-      "path": "10. Input/Output.md"
-    },
-    {
       "basename": "10. Inference from Small Samples",
       "path": "CIND123/Stats and Probs/10. Inference from Small Samples.md"
     },
@@ -111,14 +119,6 @@
     {
       "basename": "4. Probability and Probability Distributions",
       "path": "CIND123/Stats and Probs/4. Probability and Probability Distributions.md"
-    },
-    {
-      "basename": "2. Describing Data with Numerical Measures",
-      "path": "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md"
-    },
-    {
-      "basename": "1. Describing Data with Graphs",
-      "path": "CIND123/Stats and Probs/1. Describing Data with Graphs.md"
     },
     {
       "basename": "0. Probs and Stats",
