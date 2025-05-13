@@ -425,14 +425,31 @@ Functions are similar as in eukaryotes:
 
 - Found in aquatic bacteria
 - Magnetite particles for orientation in Earth's magnetic field
-- Cytoskeleal
+- Cytoskeletal protein MamK helps from magnetosome chain
 
 
 ## Ribosomes
 
+- Complex protein/RNA structures
+	- Sites of protein synthesis
+	- Bacterial and archaea ribosomes = 70S
+- Bacterial ribosomal RNA (rRNA)
+	- 
+
+
 ## The Nucleoid
+- Usually not membrane bound
+- Location of chromosome are associated proteins
+- Usually 1 closed circular, double-stranded DNA molecules
+- Supercoiling and nucleoid protein aid in folding and structure
 
 ## Plasmids
+- Extrachromosomal DNA that is usually small, closed circular DNA molecules
+- Contain few (< 30) non-essential genes, genes may confer selective advantages
+- Exist and replicate independently of chromosome
+	- Episomes - are able to integrate into chromosomes
+	- Inherited during cell division
+- Classification via mode of existence, spread, and function
 
 ## Plasmids - Extrachromosomal DNA
 
@@ -441,6 +458,92 @@ Functions are similar as in eukaryotes:
 
 ## External Structures
 
+- Extend beyond the cell envelope in bacteria
+- Function in protection, attachment to surfaces, horizontal gene transfer, cell movement
+
 ## Pili and Fimbriae
 
+Fimbriae; pili
+- Short, thin, hairlike, protein appendages
+- Tubes of helically arranged protein subunits, 3-10 nm in diameter, up to a few micrometers in length
+- Grow by adding protein subunits at the base
+- Can mediate attachment to surfaces, motility, and DNA uptake
+	- Type IV pili: conjugation and transformation
+
+Sex pili
+- Longer
+
+
 ## Flagella
+- Threadlike, locomotor appendages extending outward from plasma membrane and cell wall
+- Thin protein structures that cannot be observed with bright-field microscope unless specially stained
+- Some bacteria have sheaths around their flagella (extension of outer membrane)
+
+## Bacterial Flagella
+- Thin, rigid protein structures that cannot be observed with bright-field microscope unless specially stained
+	- Filament - extend from cell surface to the tip
+	- Basal body - embedded in cell envelope
+	- Hook - short curved segment
+
+## Flagella Synthesis
+- Complex process involving many proteins
+- New flagellin molecules transported through the hollow filaments
+- Filament subunits self-assemble with help of filament cap at tip, not base
+
+
+# 3.10 - Bacterial Endospores Are a Survival Strategy
+
+## Endospores are of Great Practical Importance in Food, Industrial, and Medical Microbiology
+
+
+
+## The Bacterial Endospore
+- Complex, dormant structure formed by some bacteria within the Firmicutes (now renames to Bacillota) phylum ()
+
+## Endospore Structure
+
+**Exosporium** - thin covering surrounding the spore
+**Spore coat** - thick layer of protein (protect from chemicals and lytic enzymes)
+**Cortex** - beneath the coat, thick peptidoglycan
+**Inner membrane** - impermeable to various chemicals, protects DNA
+**Core** - 
+**DNA (within core)** - 
+
+
+## Sporulation
+
+- Process of endospore formation
+- Organized process that occurs over several hours
+- Normally starts when growth slows due to lack of nutrients
+
+
+## Formulation of Vegetative Cell
+
+3 Stages
+1) Activation
+	- Prepares endospore for germination
+2) Germination
+	- Starts when germinant receptors detect small molecules (sugars and amino acids)
+3) Outgrowth
+	- Emergence of vegetative cell
+
+
+
+## Endospore Formation
+
+
+
+
+
+- Domains of life
+- Names of scientists (last name) and contributions
+- Microscopes
+	- Tables
+	- Preparation
+	- Resolution ranges
+	- Diagrams
+
+
+- Multiple choice
+- Short answer
+- 
