@@ -5,8 +5,16 @@
       "path": "BLG151/Microbiology Notes/4 - Slide.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "3 - Slide",
       "path": "BLG151/Microbiology Notes/3 - Slide.md"
+    },
+    {
+      "basename": "1. The Evolution of Microorganisms and Microbiology",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
     },
     {
       "basename": "1 - Slide",
@@ -191,14 +199,6 @@
     {
       "basename": "41. Biotechnology and Industrial Microbiology",
       "path": "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md"
-    },
-    {
-      "basename": "40. Microbiology of Food",
-      "path": "BLG151/UNIT 9 - Applied Microbiology/40. Microbiology of Food.md"
-    },
-    {
-      "basename": "39. Human Diseases Caused by Fungi and Protists",
-      "path": "BLG151/UNIT 8 - Microbial Diseases, Detection/39. Human Diseases Caused by Fungi and Protists.md"
     }
   ],
   "omittedPaths": [],

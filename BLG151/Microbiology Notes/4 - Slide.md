@@ -226,25 +226,105 @@ Archaea
 	- Sugar phosphotransferase system (PTS) group translocation mechanisms has been found in some archaea
 
 
-## 
+# 4.3 - Archaeal Cytoplasm is Similar to Bacterial Cytoplasm
 
 
-## 
+## Archaeal vs. Bacterial Cytoplasm
+- Very similar, lack membrane-enclosed organelles
+- May contain inclusion bodies
+	- Gas vacuoles
+- All the usual components
+	- Ribosomes
+	- Nucleoid region
+	- Plasmids
+	- Inclusion bodies
+	- Cytoskeletal proteins (homologues of tubulin and actin, but not of intermediate filaments)
+
+## Ribosomes
+- Archaeal ribosomes are the same size as bacterial ribosomes
+	- 70s constructed as a 50S and 30S subunit
+- Composition of archaeal ribosomes differs from bacterial ribosomes
+	- rRNA molecules is similar size to bacteria, however, the nucleotide sequence is different
+	- Protein composition differs
+		- Archaeal ribosomes have more r-proteins
+		- The different composition makes archaeal ribosomes unaffected by antibiotics that target the ribosomes
+		- Archaea more similar to eukarya than bacteria, but there are some that are unique to archaea
+
+## Nucleoid
+**Nucleoid** - region in the cytoplasm that contains the circular chromosomes and nucleoid-associated proteins (NAPs)
+- Irregularly shaped region in bacteria and archaea
+
+# 4.4 - Many Archaea Have External Structures Used for Attachment and Motility
 
 
-## 
+## Archaeal External Structures
+
+- Pili
+	- Composed of pilin proteins that are made in the cytoplasm and then anchored to a protein complex in the plasma membrane
+		- 2 archaeal pili
+			- Cannulae
+				- Hollow, tubelike structures on surface of thermophilic archaea
+				- Shown that daughter cells that arise from cell division remain connected to each other by cannulae
+			- Hami
+
+## Archaella and Motility
+- Archaea are thinner than flagella
+	- Filament is not hollow
+	- More then one type of flagellin protein
+	- Archaellin (pilin) proteins are exported through the motor complex and added to the base, of the filament
+	- More related to the type IV bacterial pili
+	- Proteins anchor the archaellum to the plasma membrane and S-layer
+- Movement is facilitated by archaellar rotation
+	- Powered by ATP hydrolysis instead of proton motive force
+- Swimming motility has extremely fast speeds
+
+## CASE STUDY - The Mystery Microbe
+
+- Geothermal cave system beneath volcanic terrain in Iceland
+- Environmental niche
+	- Geothermal pool
+	- 95 C
+	- pH 2.5
+	- Saline
+- Microscopy and staining
+	- Gram stain
+		- No clear result
+	- Shape
+		- Irregular coccoid
+		- Non peptidoglycan in cell wall
+		- Presence of S-layer-like structure
+- Membrane lipid analysis
+	- Lipids are ether-linked, with branches isoprenoid chains
+	- Some lipids appear to form monolayers
+- Genetic and ribosomal features
+	- rRNA sequencing shows closed similarity to eukaryotic rRNA than typical bacterial rRNA
+	- Ribosomes are 70S but are resistant to bacterial-specific antibiotics
 
 
-## 
+
+Archaeon
+- Extreme environment
+- Monolayers
+- Peptidoglycan is always absent
+- Ether-linked
+- Molecular are more similar to eukaryotes
 
 
-## 
+Bacteria
+- Always bilayer
+
+Both
+- May have irregular coccoid
+- Have Ester linkages, but only Archaea is made from glycerol branched from isoprenoid, and Bacteria attaches with fatty acids
 
 
-## 
+Plasma membrane lipids are Ester-linked phospholipids
 
 
-## 
+
+
+
+## CASE STUDY - The Glacier Core Microbe
 
 
 ## 
