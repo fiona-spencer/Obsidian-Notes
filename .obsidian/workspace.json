@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1. The Evolution of Microorganisms and Microbiology"
             }
+          },
+          {
+            "id": "f3f77dd4fd5a5e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Microscopy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,23 +206,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a50ad62545322abe",
+  "active": "f3f77dd4fd5a5e66",
   "lastOpenFiles": [
+    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
+    "images/Pasted image 20250517145800.png",
+    "images/Pasted image 20250517145757.png",
+    "images/Pasted image 20250517145348.png",
+    "Pasted image 20250517145800.png",
+    "Pasted image 20250517145757.png",
+    "Pasted image 20250517145348.png",
     "images/Pasted image 20250517141308.png",
     "Pasted image 20250517141308.png",
     "images/Pasted image 20250517140953.png",
     "images/Pasted image 20250517140200.png",
-    "Pasted image 20250517140953.png",
-    "Pasted image 20250517140200.png",
-    "images/Pasted image 20250517134726.png",
-    "Pasted image 20250517134726.png",
-    "images/Pasted image 20250517133406.png",
-    "Pasted image 20250517133406.png",
-    "images/Pasted image 20250517131252.png",
     "BLG151/Microbiology Notes/4 - Slide.md",
     "Untitled.md",
     "BLG151/Microbiology Notes/3 - Slide.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "BLG151/Microbiology Notes/1 - Slide.md",
     "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md",
     "CIND123/Stats and Probs/1. Describing Data with Graphs.md",

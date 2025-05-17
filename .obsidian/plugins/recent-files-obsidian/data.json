@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Microscopy",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
+    },
+    {
       "basename": "1. The Evolution of Microorganisms and Microbiology",
       "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "42. Applied Environmental Microbiology",
       "path": "BLG151/UNIT 9 - Applied Microbiology/42. Applied Environmental Microbiology.md"
-    },
-    {
-      "basename": "41. Biotechnology and Industrial Microbiology",
-      "path": "BLG151/UNIT 9 - Applied Microbiology/41. Biotechnology and Industrial Microbiology.md"
     }
   ],
   "omittedPaths": [],
