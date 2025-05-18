@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Archaeal Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
+    },
+    {
+      "basename": "6. Viruses and Other Acellular Infectious Agents",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
+    },
+    {
+      "basename": "5. Eukaryotic Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
+    },
+    {
       "basename": "3. Bacterial Cell Structure",
       "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "15. Nonparametric Statistics",
       "path": "CIND123/Stats and Probs/15. Nonparametric Statistics.md"
-    },
-    {
-      "basename": "14. Analysis of Categorical Data",
-      "path": "CIND123/Stats and Probs/14. Analysis of Categorical Data.md"
-    },
-    {
-      "basename": "13. Multiple Regression Analysis",
-      "path": "CIND123/Stats and Probs/13. Multiple Regression Analysis.md"
-    },
-    {
-      "basename": "12. Linear Regression Analysis and Correlation",
-      "path": "CIND123/Stats and Probs/12. Linear Regression Analysis and Correlation.md"
-    },
-    {
-      "basename": "11. The Analysis of Variance",
-      "path": "CIND123/Stats and Probs/11. The Analysis of Variance.md"
     }
   ],
   "omittedPaths": [],
