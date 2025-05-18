@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3307324601041c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Eukaryotic Cell Structure"
-            }
-          },
-          {
-            "id": "0aeb5e1e543538f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Viruses and Other Acellular Infectious Agents"
-            }
-          },
-          {
             "id": "1efe867196520dcc",
             "type": "leaf",
             "state": {
@@ -75,6 +47,132 @@
               },
               "icon": "lucide-file",
               "title": "9. Antimicrobial Chemotherapy"
+            }
+          },
+          {
+            "id": "02c34adf6a1e96ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Introduction to Metabolism"
+            }
+          },
+          {
+            "id": "eb9f9b3849a532f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Catabolism - Energy Release and Conservation"
+            }
+          },
+          {
+            "id": "245518c444a0dfbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Anabolism - The Use of Energy in Biosynthesis"
+            }
+          },
+          {
+            "id": "adb07e57a9ecf1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Bacterial Genome Replication and Expression"
+            }
+          },
+          {
+            "id": "648762394483ddbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Regulation of Cellular Processes"
+            }
+          },
+          {
+            "id": "4fd4a6982526ef20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Eukaryotic and Archaeal Genome Replication and Expression"
+            }
+          },
+          {
+            "id": "110145507270bfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. Mechanisms of Genetic Variation"
+            }
+          },
+          {
+            "id": "fc8ea1b474987375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Microbial DNA Technologies"
+            }
+          },
+          {
+            "id": "6679757b085e1b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Microbial Genomics"
             }
           }
         ]
@@ -247,15 +345,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c3307324601041c5",
+  "active": "1efe867196520dcc",
   "lastOpenFiles": [
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
+    "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
     "Untitled 2.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
     "Untitled 1.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
@@ -276,16 +383,7 @@
     "BLG151/Microbiology Notes/1 - Slide.md",
     "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md",
     "CIND123/Stats and Probs/1. Describing Data with Graphs.md",
-    "BLG151/Microbiology Notes/2 - Slide.md",
     "Untitled",
-    "10. Input/Output.md",
-    "CIND123/The Art of R Programming/16. Parallel R.md",
-    "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md",
-    "CIND123/The Art of R Programming/14. Performance Enhancement - Speed and Memory.md",
-    "CIND123/The Art of R Programming/13. Debugging.md",
-    "CIND123/The Art of R Programming/12. Graphics.md",
-    "CIND123/The Art of R Programming/11. String Manipulation.md",
-    "CIND123/The Art of R Programming/10. Input and Output.md",
     "10. Input",
     "Probs",
     "convert_images.sh",
