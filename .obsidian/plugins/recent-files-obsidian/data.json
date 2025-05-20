@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "25. Viruses",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md"
+    },
+    {
+      "basename": "24. Fungi",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md"
+    },
+    {
+      "basename": "23. Protists",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md"
+    },
+    {
+      "basename": "22. Gram-Positive Bacteria",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md"
+    },
+    {
+      "basename": "21. Proteobacteria",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md"
+    },
+    {
+      "basename": "20. Non-proteobacterial Gram-Negative Bacteria",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md"
+    },
+    {
+      "basename": "19. Archaea",
+      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md"
+    },
+    {
       "basename": "9. Antimicrobial Chemotherapy",
       "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "4. Lists",
       "path": "CIND123/The Art of R Programming/4. Lists.md"
-    },
-    {
-      "basename": "3. Matrices and Arrays",
-      "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
-    },
-    {
-      "basename": "2. Vectors",
-      "path": "CIND123/The Art of R Programming/2. Vectors.md"
-    },
-    {
-      "basename": "1. Getting Started",
-      "path": "CIND123/The Art of R Programming/1. Getting Started.md"
-    },
-    {
-      "basename": "0. The Art of R Programming",
-      "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
-    },
-    {
-      "basename": "10. Inference from Small Samples",
-      "path": "CIND123/Stats and Probs/10. Inference from Small Samples.md"
-    },
-    {
-      "basename": "9. Large-Sample Tests of Hypotheses",
-      "path": "CIND123/Stats and Probs/9. Large-Sample Tests of Hypotheses.md"
-    },
-    {
-      "basename": "8. Large-Sample Estimation",
-      "path": "CIND123/Stats and Probs/8. Large-Sample Estimation.md"
     }
   ],
   "omittedPaths": [],
