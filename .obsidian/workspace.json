@@ -245,8 +245,7 @@
               "title": "25. Viruses"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,7 +312,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -415,15 +415,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cba9ce1191e2be44",
+  "active": "97fe900e2cae9331",
   "lastOpenFiles": [
+    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
+    "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
     "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
@@ -434,7 +436,6 @@
     "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
     "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
@@ -442,7 +443,6 @@
     "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
     "Untitled 1.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "images/Pasted image 20250517145800.png",
     "images/Pasted image 20250517145757.png",
     "images/Pasted image 20250517145348.png",
