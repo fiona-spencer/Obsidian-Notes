@@ -19,7 +19,6 @@ Other transporter export:
 - Toxicity
 - Waste products
 
-
 ## Group A Streptococci (GAS)
 - Can cause a range of infections including strep throat or necrotizing fasciitis/flesh eating disease
 - In flesh eating disease, GAS grows primarily in skeletal muscle (made largely from protein)
@@ -27,7 +26,6 @@ Other transporter export:
 
 
 # 3.1 - Use of the Term _Prokaryote is Controversial_
-
 
 ## Prokaryotes Term Should be Abandoned
 
@@ -53,6 +51,10 @@ Lack:
 - Cocci - spherical cells
 - Rods - oblong cells
 
+
+
+
+
 ### Arrangement
  - Determined by plane of division
  - Determined by separation or not
@@ -63,7 +65,11 @@ Lack:
 **Diplococci** - divide and remain in pairs
 **Streptococci** - divide in 1 plant to form chains
 **Staphylococci** - divide in random planes making grape-like clusters
+**Sarcina** - divide in 2 planes forming a square of 4 cocci
+**Tetrads** - divide in 3 planes making cubic packet of 8 cocci
 
+
+![](Pasted%20image%2020250521141412.png)
 
 ## Other Shapes and Aggregations
 
@@ -75,6 +81,9 @@ Lack:
 **Mycelium** - Comma shaped
 **Myxobacteria** - Comma shaped
 **Pleomorphic** - Comma shaped
+
+
+![](Pasted%20image%2020250521141526.png)
 
 ## Bacterial Cell Size
 - Sizes of bacteria relative to red blood cell and viruses
@@ -101,6 +110,8 @@ Lack:
 - Surface area = $4\pi{r^2}$
 - Volume = $4/3\pi{r^3}$
 
+![](Pasted%20image%2020250521141607.png)
+
 ## Common Bacterial Structures
 - Cell envelope
 	- Plasma membrane
@@ -112,10 +123,15 @@ Lack:
 - Pili
 - Flagella
 
+![](Pasted%20image%2020250521141625.png)
+
+
 - No single bacterium always possesses all the structures
 - Some are found only in certain cells or during certain phases of the cell's life cycle
 
-## Bacterial Structures and Their Functions
+## Common Bacterial Structures and Their Functions
+
+![](Pasted%20image%2020250521141819.png)
 
 ### Plasma Membrane
 - Selectively permeable barrier
@@ -152,15 +168,21 @@ Includes
 	1. Capsule
 	2. Slime layer
 
-
-## Plasma Membrane Functions
+## Plasma Membrane Functions (Levels)
 - Most important membrane that is required of all living organisms
 - Innermost membrane that encompasses the cytoplasm
-
+- Selectively permeable barrier that acquires nutrients and eliminates waste
+- Interacts with external environment
+	- Detects and responds to surrounding chemicals
+	- Transport systems used for nutrient uptake
+	- Metabolic processes (respiration, and photosynthesis)
 
 ## Plasma Membrane Structure is Dynamic
 - Fluid mosaic model of Singer and Nicholson
 - Lipid bilayer (2-3 nm thick) composed of two sheets of lipid molecules arranged end to end, in which proteins float
+
+![](Pasted%20image%2020250521142207.png)
+
 
 ## Membrane Proteins
 2 Types
@@ -185,24 +207,29 @@ Amphiphatic lipids
 	- Hydrophilic on surface
 	- Hydrophobic ends buried
 
+
+![](Pasted%20image%2020250521142356.png)
+
+
+
 ## Bacterial Lipids
 - The plasma membrane is mainly composed of phospholipids
 
 Other smaller lipids
-- Haponoid - Hydrophobic molecule similar to cholesterol
+- Haponoids - Hydrophobic molecule similar to cholesterol
 - Distort the bilayer, which impacts the fluidity and shape in membrane regions
 - Form functional membrane micro-domains that are platforms for protein complex assembly
 
-
+![](Pasted%20image%2020250521142507.png)
 ## Definition
 
-**Selective Permeability Barrier** - controls the movement 
-**Energy generation** - 
-**Transport systems** - 
-**Biosynthesis of Cell Wall Components** - 
-**Secretion of Proteins** - 
-**Cell Signalling and Chemotaxis** - 
-**Lipid and Other Biosynthesis** - 
+**Selective Permeability Barrier** - controls the movement of substances into and out of the cell, allowing nutrients in and waste products out
+**Energy generation** - site of the electron transport chain and ATP synthesis via oxidative phosphorylation or photophosphorylation (in photosynthetic bacteria), since bacteria lack mitochondria
+**Transport systems** - Contains various transport proteins for active and passive movement of molecules, including ion channels, symporters, and ABC transporters
+**Biosynthesis of Cell Wall Components** - enzymes involved in the synthesis of peptidoglycan and other cell wall components are embedded in or associated with the membrane
+**Secretion of Proteins** - plays a role in exporting proteins (toxins, enzymes) outside the cell via specialized secretion systems
+**Cell Signalling and Chemotaxis** - hosts sensor proteins and receptors that detect environmental signals and help respond appropriately
+**Lipid and Other Biosynthesis** - invovled in the synthesis of phospholipids and other membrane components
 
 
 # 3.4 - Cell Walls Have Many Functions
@@ -218,7 +245,9 @@ Functions
 
 2 Type of bacteria based on Gram Stain
 1. Gram-positive: Stain purple (thick peptidoglycan)
-2. Gram-negative
+	1. Monoderm - single membrane
+2. Gram-negative: stain pink or red (thin peptidoglycan)
+	1. Diderm - plasma membrane and an outer membrane
 
 ## 2 Major Types of Cells Walls: Gram-Negative and Gram-Positive
 
