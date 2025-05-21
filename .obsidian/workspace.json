@@ -4,231 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41aa9714cebb8cae",
+        "id": "4e63656d198c15ff",
         "type": "tabs",
         "children": [
           {
-            "id": "02c34adf6a1e96ea",
+            "id": "945859e7bd8c7145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+                "file": "BLG151/Microbiology Notes/3 - Slide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Introduction to Metabolism"
-            }
-          },
-          {
-            "id": "eb9f9b3849a532f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Catabolism - Energy Release and Conservation"
-            }
-          },
-          {
-            "id": "245518c444a0dfbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12. Anabolism - The Use of Energy in Biosynthesis"
-            }
-          },
-          {
-            "id": "adb07e57a9ecf1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Bacterial Genome Replication and Expression"
-            }
-          },
-          {
-            "id": "648762394483ddbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. Regulation of Cellular Processes"
-            }
-          },
-          {
-            "id": "4fd4a6982526ef20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15. Eukaryotic and Archaeal Genome Replication and Expression"
-            }
-          },
-          {
-            "id": "110145507270bfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16. Mechanisms of Genetic Variation"
-            }
-          },
-          {
-            "id": "fc8ea1b474987375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17. Microbial DNA Technologies"
-            }
-          },
-          {
-            "id": "6679757b085e1b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18. Microbial Genomics"
-            }
-          },
-          {
-            "id": "e8dc6fa638e1a899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19. Archaea"
-            }
-          },
-          {
-            "id": "7bee2f7ee946c785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20. Non-proteobacterial Gram-Negative Bacteria"
-            }
-          },
-          {
-            "id": "b2c4eb9921f7635d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21. Proteobacteria"
-            }
-          },
-          {
-            "id": "40002fc48c199a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22. Gram-Positive Bacteria"
-            }
-          },
-          {
-            "id": "13df5c920e5b20ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23. Protists"
-            }
-          },
-          {
-            "id": "d7ba682f37d12e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24. Fungi"
-            }
-          },
-          {
-            "id": "cba9ce1191e2be44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25. Viruses"
+              "title": "3 - Slide"
             }
           }
         ]
@@ -401,10 +191,8 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "02c34adf6a1e96ea",
+  "active": "945859e7bd8c7145",
   "lastOpenFiles": [
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md",
@@ -412,16 +200,18 @@
     "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
     "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
+    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",

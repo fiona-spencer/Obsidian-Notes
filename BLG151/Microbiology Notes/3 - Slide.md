@@ -14,6 +14,11 @@ Specific for one type of molecule
 - Vitamins
 - Sugars
 
+Other transporter export:
+- Communication
+- Toxicity
+- Waste products
+
 
 ## Group A Streptococci (GAS)
 - Can cause a range of infections including strep throat or necrotizing fasciitis/flesh eating disease
@@ -35,7 +40,7 @@ Lack:
 - Internal membranous structures
 
 - Since the 1960s, biochemical, genetic, and genomic analysis have show that _Bacteria_ and _Archaea_ are distinct from each other
-- Normal pace proposed in 2006 that this term should be abandoned
+- Norman pace proposed in 2006 that this term should be abandoned
 
 - Prokaryotes are know referred to Eukarya and Archaea
 
