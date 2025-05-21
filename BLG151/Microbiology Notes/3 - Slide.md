@@ -258,25 +258,45 @@ _Staphylococcus aureus_ - has a typical Gram-positive cell wall that consists pr
 
 _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thin layer of peptidoglycan, an outer membrane, and the periplasmic space
 
+![](Pasted%20image%2020250521143136.png)
+
 
 ## Peptidoglycan Structure
-- Meshlike polymer of identical subunits forming long strands
+- Mesh-like polymer of identical subunits forming long strands
 - 2 alternating sugars
-	- _NAG_
-	- _NAM_
+	- _NAG_ - _N-acetylgluvosamine_
+	- _NAM_ - _N-acetlymuramic acid_
+- Alternating D- and L- amino acids
+
+![](Pasted%20image%2020250521143245.png)
 
 ## Strands Are Cross-Linked
 
 - Peptidoglycan strands have a helical shape
 - Peptidoglycan chains are cross- linked by peptides for strength
+- Direct cross link, connects carboxyl group and amino groups between amino acids
+- Indirect cross link, forms a peptide inter-bridge
+- Various structures occur
+
+![](Pasted%20image%2020250521143418.png)
 
 
 ## Gram-Positive Cell Walls
 - Composed primarily of peptidoglycan
+- May also contain teichoic acids (negatively charges)
+	- Polymers of glycerol
+	- Help maintain cell envelope
+	- Protect from environmental substances
+	- May bind to host cells to initiate infection
+
+![](Pasted%20image%2020250521143540.png)
+
 
 ## Periplasmic Space of Gram-Positive Bacteria
 - Between plasma membrane and cell wall
 - Periplasm has relatively few proteins
+
+![](Pasted%20image%2020250521143645.png)
 
 ## Gram-Negative Cell Wall Basic Structure
 - More complex than Gram-positive
@@ -284,16 +304,36 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 - Outer membrane composed of lipids, lipoproteins, and lipopolysaccharides
 - No teichoic acids
 
+![](Pasted%20image%2020250521143713.png)
+
 ## Gram-Negative Cell Walls
 - Outer membrane (OM) outside thin peptidoglycan layer
 - Braun's lipoproteins connect OM to peptidoglycan
 - Peptidoglycan is ~5 to 10% of call walls weight
+- Periplasmic space differs from that in Gram-positive cells
+	- 20 to 40% of cell volume
+	- Many enzymes present in periplasm
+	- Hydrolytic enzymes, transport proteins, and other proteins
+
+![](Pasted%20image%2020250521143840.png)
+
 
 ## LPS - Lipopolysaccharide
 3 Parts
-1) Lipid A - buired in outer membrane
+1) Lipid A - buried in outer membrane
 2) Core polysaccharide - 10 sugar structure joined to Lipid A
 3) O side chain (O antigen) - polysaccharide that extends outward form the core
+
+![](Pasted%20image%2020250521143959.png)
+
+- The O antigen is a polysaccharide chain that extends outward from the core
+	- Elicits immune response
+	- Has unusually sugars
+	- Varies in composition
+- the core polysaccharide is joined to lipid A
+- Constructed of 10 sugars and phosphate
+- Lipid A contains 2 glucosamine sugar derivatives, each with attached phosphate and fatty acids (hydrophobic, embedded in the outer leaflet of the outer membrane)
+- Core polysaccharide and O side chain extend out from the cell
 
 ## Gram-Negative Membrane Transport
 2 Step Process
@@ -301,7 +341,17 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 2. Then, crosses the plasma membrane
 
 - Facilitated transport by porins
+	- Channels to let small molecules (600 daltons) pass
 
+![](Pasted%20image%2020250521144313.png)
+
+- Structures of a trimeric OmpF porin of _E. coli_, when looking down at the outer surface of the outer membrane
+- Porins form a trimer (3 identical polypeptides) that span the outer membrane
+- The center of each porin monomer is a water-filled channel
+- Each OmpF monomer can be divided into three loops
+	- Green loop forms the channel
+	- Blue loop interacts with the other porin proteins to help form the trimer
+	- Orange loop narrows the channel to determine what molecules can pass
 
 ## Mechanisms of Gram Stain Reaction
 - Gram stain reaction due to nature of cell wall
@@ -312,11 +362,14 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 
 ## Cell Walls and Osmotic Protection
 - Hypotonic environments
+	- Solute concentration outside cell less than inside cell
+	- Water moves into cell and cell swells
+	- Cell wall protects from lysis (disintegration of a cell by rupture of the cell wall or membrane)
 - Hypertonic environments
-
+	- Solute concentration outside cell is greater than inside
+	- Water leaves cell and cytoplasm shrivels up
 
 **Plasmolysis** - the process where a plant cell's cytoplasm shrinks away from its cell wall due to water loss in a hypertonic solution
-
 
 ## Evidence for Protection of Cell Wall
 - Lysosomes break bonds between NAG and NAM
@@ -326,16 +379,16 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 **Protoplast Formation and Lysis** - protoplast formation induced by incubation with penicillin in an isotonic medium
 - Transfer to a hypotonic medium will result in lysis
 
+![](Pasted%20image%2020250521144845.png)
 
 ## Cells That Lose a Cell Wall May Survive in Isotonic Environments
 **Protoplasts** - Gram-positive that lose cell walls in isotonic environments
 **Spheroplasts** - Gram-positive cells that lose cell wall (outer membrane remains) in isotonic environments
 **Mycoplasm** - Lack a cell wall, but plasma membrane more resistant to osmotic pressure
 
-
+![](Pasted%20image%2020250521144933.png)
 
 # 3.5 - Extracellular Vesicles Emerge from Bacterial Membranes
-
 
 ## Extracellular Vesicles (EVs)
 - Small membrane-bound particles (20 to 400 nm in size)
@@ -343,6 +396,7 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 - Gram-Postive EV, made of the plasma membrane surrounding a small amount of cytoplasm
 - Gram-negative Ev, made of LPS-containing OM surrounding a sample of periplasm
 
+![](Pasted%20image%2020250521145027.png)
 ## Extracellular Vesicles Are Not Cells
 - They do not reproduce
 - Can carry some ATP, but do not have the ability to conserve energy
@@ -350,15 +404,15 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 	- Transfer genetic information between cells
 	- Transfer toxin molecules
 
-
 # 3.6 - The Cell Envelope Often Includes Layers Outside the Cell Wall
 
 ## Components Outside of the Cell Wall
-Outermost layer in the cell envelope
-**Capsules** - well-organized layers made of polysaccharides that are covalently bonded and difficult to wash away
-**Slime layers** - polysaccharide layers that are unorganized and easily washed away
-**Glycocalyx** - polysaccharide extension that aids in attachment to solid surfaces
-**S-layers** - geometric pattern made of protein that aid in protecting from ion and pH fluctionations
+
+Outermost layer in the cell envelope:
+	**Capsules** - well-organized layers made of polysaccharides that are covalently bonded and difficult to wash away
+	**Slime layers** - polysaccharide layers that are unorganized and easily washed away
+	**Glycocalyx** - polysaccharide extension that aids in attachment to solid surfaces
+	**S-layers** - geometric pattern made of protein that aid in protecting from ion and pH fluctionations
 
 ## Components Outside of Cell Wall - Capsules
 - Well organized and not easily removed from cell
@@ -368,6 +422,9 @@ Outermost layer in the cell envelope
 	- Resistant to phagocytosis
 	- Protect from desiccation
 	- Exclude viruses and detergents
+
+
+![](Pasted%20image%2020250521145133.png)
 
 ## Components Outside of Cell Wall - Slime Layers
 - Similar to capsules except diffuse, unorganized, and easily removed
@@ -385,6 +442,10 @@ S-Layer Functions
 - Protects from host defences
 - Potential use in nanotechnology
 
+![](Pasted%20image%2020250521145205.png)
+
+- Both capsules and slime layers are types of glycocalyx and serve functions like protection from immune evasion, and aiding in adherence to surfaves
+	- Their structural differences impact how they function in different environments
 
 # 3.7 - The Bacterial Cytoplasm Is More Complex than Once Thought
 
@@ -400,14 +461,17 @@ S-Layer Functions
 **Cytoplasm** - material bounded by the plasmid
 **Cytosol** - the liquid component of the cytoplasm
 
+![](Pasted%20image%2020250521145422.png)
+
 ## Bacterial Cytoskeleton
 
 **Cytosketelon** - protein filaments that polymerize to form functional filaments that extend to full inner dimensions of the cells
 - Homologs of eukaryotic cytoskeletal elements have been identified in bacteria
 
-
 Functions are similar as in eukaryotes:
-- 
+- Participate in cell division
+- Localize proteins
+- Maintain cell shape
 
 ## Best Studied Example of Bacterial Cytoskeleton Molecules
 
@@ -415,17 +479,21 @@ Functions are similar as in eukaryotes:
 	- MreB, in many rod-shaped bacteria
 	- Maintains shape by positioning peptidoglycan synthesis machinery
 2) Microtubules
-	- 
+	- FtsZ - many bacteria, forms ring during septum formation in cell division
 3) Crescentin
-	- 
+	- CreS - maintains curve shape
 
+![](Pasted%20image%2020250521145607.png)
 
 ## Intracytoplasmic Membranes
 
-- Plasma membrane infoldings
+- Plasma membrane infolding
 	- Observed in many photosynthetic bacteria
 	- Observed in many bacteria with high respiratory activity
 	- May be aggregates of spherical vesicles
+
+![](Pasted%20image%2020250521145652.png)
+
 
 ## Inclusions
 
@@ -434,7 +502,9 @@ Functions are similar as in eukaryotes:
 - Granules, crystals, or globules of organic or inorganic material that are stockpiled by the cell for future use
 - Some are enclosed by a single-layered protein or lipid shell
 	- May be referred to as _microcompartments_
+	- Used to sequester enzymes that produce toxic intermediates
 
+![](Pasted%20image%2020250521145731.png)
 
 ## Microcompartments
 
@@ -447,6 +517,7 @@ Functions are similar as in eukaryotes:
 - Contain the enzyme carbonic anhydrase that release CO2 into a shell so it accumulates to high concentration
 - Then RuBisCo makes sugar
 
+![](Pasted%20image%2020250521145817.png)
 ## Gas Vacuoles
 - Involved in bacterial movement
 - Are aggregates of high number of cylindrical gas vesicles
@@ -454,6 +525,7 @@ Functions are similar as in eukaryotes:
 - Are found in aquatic photosynthetic bacteria and archaea
 - Help cells to regulate their buoyancy at water column depth appropriate for optimal light intensity, oxygen and nutrient concentration
 	- Cells float downwards by collapsing their gas vesicles, when new vesicles are build, cells float upwards
+![](Pasted%20image%2020250521145914.png)
 
 ## Magnetosomes
 
@@ -461,6 +533,7 @@ Functions are similar as in eukaryotes:
 - Magnetite particles for orientation in Earth's magnetic field
 - Cytoskeletal protein MamK helps from magnetosome chain
 
+![](Pasted%20image%2020250521145935.png)
 
 ## Ribosomes
 
@@ -468,14 +541,20 @@ Functions are similar as in eukaryotes:
 	- Sites of protein synthesis
 	- Bacterial and archaea ribosomes = 70S
 - Bacterial ribosomal RNA (rRNA)
-	- 
+	- 16S rRNA in small subunit
+	- 23S and 5S rRNA in large subunit
 
+![](Pasted%20image%2020250521150018.png)
 
 ## The Nucleoid
 - Usually not membrane bound
 - Location of chromosome are associated proteins
 - Usually 1 closed circular, double-stranded DNA molecules
 - Supercoiling and nucleoid protein aid in folding and structure
+	- DNA is measures in base pairs
+	- Bacterial chromosomes are usually 0.5 - 10 million bp (base pairs)
+
+![](Pasted%20image%2020250521150140.png)
 
 ## Plasmids
 - Extrachromosomal DNA that is usually small, closed circular DNA molecules
@@ -486,6 +565,8 @@ Functions are similar as in eukaryotes:
 - Classification via mode of existence, spread, and function
 
 ## Plasmids - Extrachromosomal DNA
+
+![](Pasted%20image%2020250521150236.png)
 
 
 # 3.8 - External Structures Are Used for Attachment and Motiliy
@@ -505,7 +586,11 @@ Fimbriae; pili
 	- Type IV pili: conjugation and transformation
 
 Sex pili
-- Longer
+- Longer, thicker, less numerous (10/cell)
+- Genetically encoded on plasmids
+- Required for conjugation
+
+![](Pasted%20image%2020250521150331.png)
 
 
 ## Flagella
@@ -513,26 +598,63 @@ Sex pili
 - Thin protein structures that cannot be observed with bright-field microscope unless specially stained
 - Some bacteria have sheaths around their flagella (extension of outer membrane)
 
+Functions:
+1. Motility
+2. Attachment to surfaces
+3. Virulence factors
+
+Patterns of flagella distribution:
+1) Monotrichous
+	1) One flagellum
+	2) Polar flagellum - one at one end
+2) Amphitrichous
+	1) One flagellum at each end of cell
+3) Lophotrichous
+	1) Cluster of flagellar at one or both ends
+4) Peritrichous
+	1) Spread over entire surface of cell
+
+![](Pasted%20image%2020250521151422.png)
+
+
 ## Bacterial Flagella
 - Thin, rigid protein structures that cannot be observed with bright-field microscope unless specially stained
 	- Filament - extend from cell surface to the tip
 	- Basal body - embedded in cell envelope
 	- Hook - short curved segment
 
+![](Pasted%20image%2020250521151507.png)
+
 ## Flagella Synthesis
 - Complex process involving many proteins
 - New flagellin molecules transported through the hollow filaments
 - Filament subunits self-assemble with help of filament cap at tip, not base
+
+![](Pasted%20image%2020250521151544.png)
+
 
 
 # 3.10 - Bacterial Endospores Are a Survival Strategy
 
 ## Endospores are of Great Practical Importance in Food, Industrial, and Medical Microbiology
 
+_Clostridium botulinum_ -> botulism toxic that is a major concern of the food industry
 
+_Bacillus anthracis_ -> inhalation antrax that is a bioterroism agent
+
+_C. tetani_ -> tetanus
+
+_C. perfringens_ -> gas gandrene (infection of soft tissue) and food poisoning
+
+_C. difficile spores_ - hospital acquired infections
 
 ## The Bacterial Endospore
-- Complex, dormant structure formed by some bacteria within the Firmicutes (now renames to Bacillota) phylum ()
+- Complex, dormant structure formed by some bacteria within the Firmicutes (now renames to Bacillota) phylum (a phylum that contains Gram-positive bacteria)
+- Different from the spores produced by fungi and plants
+- One endospore/cell, produced in response to nutrient depletion
+- Resistant to numerous environmental conditions (including heat, radiation, chemicals, desiccation)
+
+![](Pasted%20image%2020250521151929.png)
 
 ## Endospore Structure
 
@@ -540,16 +662,15 @@ Sex pili
 **Spore coat** - thick layer of protein (protect from chemicals and lytic enzymes)
 **Cortex** - beneath the coat, thick peptidoglycan
 **Inner membrane** - impermeable to various chemicals, protects DNA
-**Core** - 
-**DNA (within core)** - 
+**Core**  (with nucleoid and ribosomes) - very low water content (prevents rotation of enzymes), high amounts of dipocolinic acid complexed with calcium ions (Ca-DPA), a slightly lower pH, spore's resistance to harsh conditions 
+**DNA (within core)** - protects by Ca-DPA complexes inserted between the nitrogenous bases and acid-soluble DNA-binding proteins (SASPs), DNA stabilization (SASPs convert DNA to a more UV-resistant "A" form)
 
-
+![](Pasted%20image%2020250521152002.png)
 ## Sporulation
 
 - Process of endospore formation
 - Organized process that occurs over several hours
 - Normally starts when growth slows due to lack of nutrients
-
 
 ## Formulation of Vegetative Cell
 
@@ -561,23 +682,6 @@ Sex pili
 3) Outgrowth
 	- Emergence of vegetative cell
 
-
-
 ## Endospore Formation
 
-
-
-
-
-- Domains of life
-- Names of scientists (last name) and contributions
-- Microscopes
-	- Tables
-	- Preparation
-	- Resolution ranges
-	- Diagrams
-
-
-- Multiple choice
-- Short answer
-- 
+![](Pasted%20image%2020250521152335.png)

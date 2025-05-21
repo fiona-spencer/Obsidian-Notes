@@ -10,7 +10,7 @@
 	- Nucleic acids
 	- Carbohydrates
 - Cations contribute to the activity and stability of molecules and cell structures
-- Important on cellular processes
+	- Important on cellular processes (protein synthesis)
 
 **Micronutrients** - required in small amounts
 - Ubiquitous in nature and usually present in adequate amounts to support microbial growth
@@ -20,6 +20,8 @@
 
 - Organic compounds required for survival
 - Essential cell components that the cell cannot synthesize and must be supplied by environment
+
+![](Pasted%20image%2020250521152512.png)
 
 ## Methods for Uptake of Nutrients
 
@@ -44,8 +46,17 @@
 		- Proteins that form pores for substances to pass through
 	- Carries
 		- Proteins that have high substrate specificity in transport
+- Truly diffusion because it is not energy dependent
+	- Direction of movement is from high to low concentration
+	- Size of concentration gradient impacts rate of uptake
+	- Rate increases with the concentration gradient
+		- If the gradient is lost, transport stops
 
 ## Facilitated vs. Passive Diffusion
+
+![](Pasted%20image%2020250521152745.png)
+
+
 ## Active Transport
 
 - Transport of molecules against the concentration gradient
@@ -53,7 +64,6 @@
 - ATP or protin motive force used
 - Involved carrier proteins that control the rate of transport
 - When the solute concentration is high, carrier saturation effect is observed
-
 
 ## Primary Active Transport
 
