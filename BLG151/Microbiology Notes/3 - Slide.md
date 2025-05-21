@@ -51,10 +51,6 @@ Lack:
 - Cocci - spherical cells
 - Rods - oblong cells
 
-
-
-
-
 ### Arrangement
  - Determined by plane of division
  - Determined by separation or not
@@ -63,7 +59,7 @@ Lack:
 
 **Cocci** - spheres that can be single or can be associated in arrangements that is useful for identification
 **Diplococci** - divide and remain in pairs
-**Streptococci** - divide in 1 plant to form chains
+**Streptococci** - divide in 1 plane to form chains
 **Staphylococci** - divide in random planes making grape-like clusters
 **Sarcina** - divide in 2 planes forming a square of 4 cocci
 **Tetrads** - divide in 3 planes making cubic packet of 8 cocci
@@ -159,7 +155,7 @@ Lack:
 
 ## Bacterial Cell Enevlope
 
-**Cell envelope** - the plasma membrane and all of the surrounding layers externa to it
+**Cell envelope** - the plasma membrane and all of the surrounding layers external to it
 
 Includes
 1. Plasma membrane
@@ -195,7 +191,7 @@ Includes
 	- Hydrophilic regions project from the surface
 	- Carry out important functions (transport)
 
-## Structure of a Phospholipif
+## Structure of a Phospholipid
 
 Amphiphatic lipids
 - Hydrophilic
@@ -264,7 +260,7 @@ _Myxococcus xanthus_ - has a typical Gram-negative cell wall consisting of a thi
 ## Peptidoglycan Structure
 - Mesh-like polymer of identical subunits forming long strands
 - 2 alternating sugars
-	- _NAG_ - _N-acetylgluvosamine_
+	- _NAG_ - _N-acetylglucosamine_
 	- _NAM_ - _N-acetlymuramic acid_
 - Alternating D- and L- amino acids
 
