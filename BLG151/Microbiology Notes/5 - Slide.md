@@ -222,57 +222,387 @@ $N_t = N_0$ x $2^n = 10^3(2^{5.33}) = 40320$ cells
 
 ## The Influence of Environmental Factors on Growth
 
+- Most organisms grow in fairly moderate environmental conditions
+
+**Extremophiles** - grow under harsh conditions that would kill most other organisms
+
+- All microbes must respond to changes in their environment
+- Microbes have an optimal range of an environmental parameter for best growth
+
 ## Solutes Affect Osmosis and Water Activity
 
+- Changes in osmotic concentrations in the environment may affect microbial cells
+
+Hypotonic solution
+- Lower solute concentration outside the cell than inside the cell
+	- Water enters the cell and may burst
+
+Hypertonic solution
+- Higher solute concentration outside the cell than inside the cell
+	- Water leaves the cell and membrane shrink
 ## Microbes Adapt to Changes in Osmotic Concentrations
+
+- Most microbes live in hypotonic environment
+	- Protected by call wall, preventing over-expansion of plasma membrane
+- Mechanisms to lower solute concentration in cytoplasm
+	- Mechanosensitive (MS) channels in plasma membrane allows solute to leave
+		- Protists use contractile vacuoles to expel excess water
+- Increase internal solute concentration with compatible solutes to increase their interal osmotic concentration in hypertonic solution
+	- Solutes compatible with metabolism and growth
 
 ## Osmophiles
 
+- Grows best in high solute concentrations (bring and sugar)
+	- Osmophilic yeasts cause food spoilage (fruit juice concentrates)
+
+**Halopiles** - requires NACl or other salts at a concentration above amount 0.2 M
+**Extreme halophiles** - require salt concentration between 3 M and 6.2 M
+**Archaeal halophiles** - environements with salt concentration near saturation (Dead Sea, Great Salt Lake)
+
+Adaptation Strategies
+- Salt in (archaeal halophiles)
+	- Accumulate K and Cl in cytoplasm
+	- Proteins need these high salt levels
+	- Plasma membranes and cell wall need high Na ion concentration to maintain stability
+- Salt out
+	- Keep salt ions outside of cell
+	- Synthesize compatible solutes that do not interfere with grwoth
+
 ## Solutes and Water Activity
+
+Water activity ($a_W$)
+- Measure of the degree of water availability
+- Low water activity means most water is bound, not available to microorganisms
+- 1/100 the relative humidity of solution
+- Equal to ration of solution's vapour pressure ($P_{soln}$) of that of pure water ($P_{water}$)
+
 
 ## pH: Potential of hydrogen
 
+- pH is a measure of the relative acidity of a solution
+	- Negative logarithm of the hydrogen ion concentration
+	- pH = -log\[$H^+$] = -log\[$\frac{1}{H^+}$] 
+
+Acidophiles
+- pH 0 and 5.5
+
+
+Alkaliphiles (alkalophiles)
+- pH 8 and 11.5
+
+
 ## pH Preference of Microorganisms
+
+- Most bacteria and protists are neutrophiles
+- Most fungi prefer more acidic surrounding, about pH 4 to 6
+	- Photosynthetic protists also favour slight acidity
+- Some archaea are acidophiles
+- Alkaliphiles are distributed among all three domains of life
 
 ## pH Tolerance Mechanisms of Microbes
 
+- Microorganisms respond to external pH changes using mechanisms that maintain a neutral cytoplasmic pH
+
+**Neutrophiles** - 
+**Extreme acidophiles** - 
+**Alkaliphiles** - 
+
+Response to pH changes:
+- Pump $H^+$ out of the cell
+- Multiple enzymes with different pH optima
+- Some synthesize acid and heat shock proteins that protect proteins (prevent denaturation, support re-folding)
+
+
 ### Temperature
+
+- Microbes cannot regulate their internal temperatures
+- Enzymes have optimal temperature at which they function optimally
+- Below optimum temperature, enzymes is not catalytic
+- High temperatures may inhibit enzyme functions and be lethal
+
+Cardinal Temperatures
+- Minmum
+- Maximum
+- Optimal
+
 ### Temperature Range for Microbial Growth
+
+**Psychrophiles** - 0°C to 20°C
+**Psychrotrophs** - 0°C to 20°C
+**Mesophiles** - 0°C to 20°C
+**Thermophiles** - 0°C to 20°C
+**Hyperthermophiles** - 0°C to 20°C
+
+Adaptation of Psychrophiles:
+- Plasma membrane lipids
+	- High levels of unsaturated fatty acids
+	- Semi-fluid when cold
+- Cytoplasm
+	- Decrease freezing point of cytosol
+
+
 ### Adaptations of Thermophiles 
-## Adaptations of Thermophiles
+
+- Heat-stable enzymes and protein synthesis systems that function at high temperatures
+- Protein structure stabilized by a variety of means
+	- More H bonds
+	- More proline, less flexible peptides
+	- Chaperones aid in folding
+- Membrane stabilized by variety of means
+	- More saturated, more branched and higher molecular weight
+	- Ether linkages, resistant to hydrolysis
+
+
 ### Oxygen Concentration
+
+- Growth in presence of different oxygen concentrations depends on a microbe's metabolic processes
+- Electrron transport chains (ETC), terminal electron acceptor used
+
+5 Types of Relationships to $O_2$
+1) Obligate aerobe - 
+2) Obligate aerobe - 
+3) Obligate aerobe - 
+4) Obligate aerobe - 
+5) Obligate aerobe - 
+
 ### Oxygen and Bacterial Growth
+
+- Using $O_2$ causes oxidative stress (toxic derivatives-reactive oxygen species, ROS)
+- Growth in different 
+
+
 ### Basis of Different Oxygen Sensitivities
+
+- Oxygen reduced to reactive oxygen species (ROS)
+- ROS (can damage proteins, DNA and lipids)
+	- Superoxide radical ($O_2^-$)
+	- Hydrogen peroxide ($H_2O_2$)
+	- Hydroxyl radical ($OH$)
+
 ### Pressure
+
+- Microbes that live on land and water surface live at a pressure of 1 atm
+- Some _Bacteria_ and _Archaea_ live in deep sea with very high hydrostatic pressures
+
+**Barotolerant** - adversely affected by increased pressure, but not as severely as non-tolerant organisms
+**Peizophilic** - requires high pressure for growth
+
+- Change membrane fatty acids to adapt to increasing pressure
+- Lipids become more unsaturated and shorter
+
+
 ### Harmful Radiation
+
+Ionizing Radiation
+- X-rays and gamma rays
+  Cause mutations that indirectly result in death
+- Distrupt chemical structure of many molecules
+	- Break H-bonds and destroys ring structures
+- Bacterial endospores and _Deinococcus radiodurans_ are resistant to ionizing radition
+
 ### Radiation Damage - UV and Visible Light
+
+Ultraviolet (UV) radiation
+- Most lethal wavelength is 260 nm because it is absorbed by DNA
+- DNA damage can be repairs by several repair mechanisms
+
+Visible light
+- At high intensities generates singlet oxygen ($^1O_2$), a powerful oxidizing agen
+- Carotenoid pigments protect many light-exposed microorganisms from photo-oxidation
 
 # 7.6 - Microbial Growth in Natural Environments
 ## Microbial Growth in Natural Environments
+
+Microbial environments
+- Complex and constantly changing
+- Expose a microorganisms to overlapping gradients of nutrients and environmental factors
+- Contain both micro- and macro- organisms
+
 ## Most Microbes Live in Growth-Arrested States
+
+- Few microbes live in nutrient rich (eutrophic) environments
+- Most microbes inhabit low nutrient (oligotrohpic) environments
+- Microbes have evolved many responses to starvation and environmental stree
+	- Morphological changes (endospore formation)
+	- Growth arrest, enter stationary phase
+	- Can use cellular components as nutrients
+	- Numerous proteins that help
+	- Viable, but not culturable state, resume growth once nutrients return
+	- Persisters
+
 ## Biofilms are Common in Nature
+
+- Most microbes grow attached to surfaces (sessile)
+
+
 ## Biofilm Formation
+
+- Microbes reversibly attach to conditioned surface and release polysaccharides, proteins, and DNA to form the extracellular polymeric substance (EPS)
+- Additionally polymers are produced as microbes reproduce and biofilm matures
+
 ## Heterogeneity in Biofilms
 
+- A mature biofilm is a complex, dynamic community of microorganisms
+- Heterogeneity is differences in metabolic activity and locations of microbes
+- Interactions occur among the attaches organisms
+	- Use molecules to communicate and DNA uptake can occur in community
+
 ## Biofilm Microogranisms
+
+Emergent properties
+- Properties could not be predicted from studying single cell
+- Phsiological changes and EPS protect microbes from harmful agents (UV)
+- When formed on medical devices, such as implants, anibiotic treatment fails
+- Chunk of biofilm can be sloughed off which can contaminate a drinking water system
+
 ## Cell-Cell Communication Within Microbial Population
+
+
+
 ## Quorum Sensing Systems
+
+N-acylhomoserine lactone (AHL)
+- Autoinducer
+- Moves across the plasma membrane from cytoplasm to the outside of the cell
+- When cell population is high, AHL diffuses in the cell which induces specific gene expression
+
+
+
 
 # 7.7 - Laboratory Culture of Microbes Requires Conditions that Mimic Their Normal Habitats
 
 ## Culture Media
+
+**Culture medium** - solid or liquid mixture of nutrients of other compounds
+- Need to grow, transport, and store microorganisms in lab
+
+- Must contain all growth factors microorganisms requires
+- Use knowledge about microbe's normal habitat when selecting culture media
+- Classified based on chemical composition, physical nature and their function
+
+
 ## Types of Media
+
+**Defined/synthetic medium** - each ingredient can be defined with a chemical formula
+
+**Complex Media** - contain some ingredients of non-specific chemical composition
+
+
+## Some Media Components
+
+**Peptones** - partial preteotytic digestion of protein sources
+**Extracts** - aqueous extracts that contain amino acids, peptides, nucleotides, organic acids, vitamins, and minerals
+**Agar** - sulfated polymer solidifying agent
+- Most microorganisms cannot degrade it
+
+
 ## Functional Types of Media
+
+**Supportive media** - 
+**Enriched media** - 
+
+
 ## Selective and Differential Media
+
+
+**Selective media** - 
+**Differential media** - 
+
 ## Cultivation of Anaerobic Microbes
+
+- All strict anaerobic microorganisms lack or have very low quantities of superoxide dismutase and catalase
+
 ## Isolation of Pure Cultures
+
+**Pure/axenic culture** - population of cells arising from a single cell
+
+- Allows for the study of single type of microorganism in mixed culture
+- To isolate a single bacteria, microbiologists enrich for the microbe of interest and then follow with methods to obtain a pure culture
+
 ## Enrichment Cultures
+
+- 
+
 ## Steak Plate
+
+- Technique of spreading a mixture of cells on a agar surface using an inoculating loop or swab
+	- Goal is to obtain individual cells that are separated from each other
+- Each cell can reproduce to form a separate colony (visible cluster of microorganisms)
+
 ## Spread Plate
+
+- Small volume of diluted mixture is transferred to the center of an agar plate and spread evenly over surface with a sterile bent rod
+	- Dilution made by serial dilution
+
 ## Pour Plate
+
+- 
+
+
 ## New Approaches to Culturing Microbes
-## 
-## 
-## 
-## 
-## 
+
+
+# 7.8 - Microbial Population Size Can Be Measured Directly or Indirectly
+
+## Measurement of Microbial Growth and Direct Measurement of Cell Numbers
+## Viable Counting: Alive of Dead?
+
+- Cell can exist in a variety of states between 'fully viable' and 'dead'
+
+## Measurement of Microbial Growth and Direct Measurement of Cell Numbers
+
+- Microbial growth can be measured by changes in number of cells of mass
+- Direct measurement of cell numbers
+
+Direct counts
+1) Counting chambers
+	1) Special slides and cover slips with grids to facilitate counting
+2) Membrane filter technique
+	1) Microbes are filtered and then stained
+3) Flow cytometry
+	1) Stream of cells so narrow that one cell at a time passes through the laser beam
+4) Electron counters
+	1) The Coulter counter
+
+### Counting Chambers
+### Viable Counting Method - Standard Plate Counts
+
+### Direct Counts of Membrane Filters
+
+### Viable Counting Method - Membrane Filter Method
+### Measurement of Cell Mass
+
+
+**Dry Weight**
+- Time consuming and not very sensitive
+- Cells from liquid culture are pelleted by centrifuged and weighted
+
+**Spectrophotometry**
+- Amount of light scattering is directly proportional to cell biomass
+- The extent of light scattering is called absorbance
+
+**Concentration of a particular cell constituent**
+- F
+
+
+# 7.9 - Chemostats and Turbidostats Are Used for Continuous Culture of Microorganisms
+
+## Continuous Culture of Microogranisms
+- Growth in an open system
+	- Continual provision of nutrients
+	- Continual removal of wastes
+
+- Maintains cells in exponential phase at a constant biomass concentration for extended periods
+- Achieved using a continuous culture system
+	- Constant supply of cell in exponential phase growing at a known rate
+	- Study of microbial growth at very low nutrient concentration, close to those present in natural environment
+	- Study of interactions of microbes under conditions resembling those in aquatic environments
+	- Food and industrial microbiology
+
+
+MIDTERM
+- Half multiple
+- Half short answer
+
+To Slide 5
+- Scientis
