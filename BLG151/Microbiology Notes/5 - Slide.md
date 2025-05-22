@@ -605,4 +605,9 @@ MIDTERM
 - Half short answer
 
 To Slide 5
-- Scientis
+- Scientists, and discoveries
+- 1 hour
+- Total marks: 60
+- Diagrams
+- Ch. 1-5, and 7
+- Formula's providef

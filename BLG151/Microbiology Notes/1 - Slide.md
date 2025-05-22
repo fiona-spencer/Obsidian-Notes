@@ -15,7 +15,7 @@
 
 _*Most bacterial and archaea live in oceans and sediments_
 
-![](Screenshot%202025-05-05%20at%206.26.09%20PM.png)
+<img src="/images/Screenshot%202025-05-05%20at%206.26.09%20PM.png" alt="image" width="500">
 
 ## Type of Microbial Cells
 - 2 floor plants

@@ -6,7 +6,7 @@
 
 - Microbes differ in size, over a range of a few orders of magnitude
 
-![](Pasted%20image%2020250507181245.png)
+<img src="/images/Pasted%20image%2020250507181245.png" alt="image" width="500">
 
 - _Prochloroccus_ are small (0.6 μm)
 
@@ -39,7 +39,7 @@
 Compound Microscopes
 - Two sets of lenses
 
-![](Pasted%20image%2020250507182636.png)
+<img src="/images/Pasted%20image%2020250507182636.png" alt="image" width="500">
 
 ### Bright-Field Microscope
 - Produces a dark image against a brighter background
@@ -87,10 +87,10 @@ $d = [(0.5)(530nm)]/1.25 = 212 nm$
 ## The Oil Immersion Object
 - Results in an increase in numerical aperture and resolution
 
-![](Pasted%20image%2020250507183948.png)
+<img src="/images/Pasted%20image%2020250507183948.png" alt="image" width="500">
 
 ## Properties of Objective Lenses
-![](Pasted%20image%2020250507184015.png)
+<img src="/images/Pasted%20image%2020250507184015.png" alt="image" width="500">
 
 ## Visualizing Living, Unstained Microbes
 - Many microbes are not coloured
@@ -108,7 +108,7 @@ $d = [(0.5)(530nm)]/1.25 = 212 nm$
 	- Internal structures in eukaryotic microorganisms
 	- Bacteria such as _Treponema pallidum_, the causative agent of syphilis
 
-![](Pasted%20image%2020250507184455.png)
+<img src="/images/Pasted%20image%2020250507184455.png" alt="image" width="500">
 
 
 ## The Phase-Contract Microscope
@@ -120,7 +120,7 @@ $d = [(0.5)(530nm)]/1.25 = 212 nm$
 
 ## Production of Contrast in Phase-Contract Microscopy
 
-![](Pasted%20image%2020250507184916.png)
+<img src="/images/Pasted%20image%2020250507184916.png" alt="image" width="500">
 
 ## The Differential Interference Contrast Microscope (DIC)
 - Creates images by detecting differences in refractive indices and thickness of different parts of specimen
@@ -137,7 +137,7 @@ $d = [(0.5)(530nm)]/1.25 = 212 nm$
 		- Fluorochrome dyes tag specific cell constituents for identification of unknown pathogens
 		- Localization of specific proteins in cells
 
-![](Pasted%20image%2020250507185442.png)
+<img src="/images/Pasted%20image%2020250507185442.png" alt="image" width="500">
 
 
 ## Confocal Microscopy
@@ -148,7 +148,7 @@ $d = [(0.5)(530nm)]/1.25 = 212 nm$
 - Sharper image using the monochromatic light, unlike light microscopes that use broad-spectrum light source (halogen or LED)
 
 ## Light and Confocal Microscopy
-![](Pasted%20image%2020250507190438.png)
+<img src="/images/Pasted%20image%2020250507190438.png" alt="image" width="500">
 
 
 _What is the maximum theoretical resolving power when viewing a specimen when an oil immersion objective with a numerical aperture of 1.25 and blue/green light?_
@@ -232,7 +232,7 @@ Gram-Staining Procedure
 4) Safranin (counterstain), water rinse
 
 
-![](Pasted%20image%2020250507193913.png)
+<img src="/images/Pasted%20image%2020250507193913.png" alt="image" width="500">
 
 - Decolorization step is considered the most critical in the Gram-staining procedure
 - Determines whether bacteria is Gram-positive or Gram-negative
@@ -258,7 +258,7 @@ Flagella staining - used to provide information about the presence and distribut
 ## Limits of Microscopic Resolution
 - Some organisms are too small to be seen using a light microscope
 
-![](Pasted%20image%2020250507195049.png)
+<img src="/images/Pasted%20image%2020250507195049.png" alt="image" width="500">
 
 
 ## Electron Microscopy
@@ -276,7 +276,7 @@ Flagella staining - used to provide information about the presence and distribut
 
 ## A Comparison of Light and Transmission Electron Microscope
 
-![](Pasted%20image%2020250507195558.png)
+<img src="/images/Pasted%20image%2020250507195558.png" alt="image" width="500">
 
 ## Characteristics of Light and Transmission Electron Microscopes
 
@@ -312,7 +312,7 @@ Freeze-etching
 - Narrow electron beam scanned back and forth over a specimen, producing secondary electrons that generates an electrical current that is digitalized
 - 
 
-![](Pasted%20image%2020250507200648.png)
+<img src="/images/Pasted%20image%2020250507200648.png" alt="image" width="500">
 
 ## Cryo-Electron Microscopy
 - Used to visualized biomolecules and generate high resolution structures
@@ -338,4 +338,4 @@ Scanning tunneling microscope
 - Used to image protein interactions
 - Deflection of a laser beam that strikes the level holding the probe is measured
 
-![](Pasted%20image%2020250507201850.png)
+<img src="/images/Pasted%20image%2020250507201850.png" alt="image" width="500">
