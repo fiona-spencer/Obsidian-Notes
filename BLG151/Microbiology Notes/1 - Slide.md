@@ -46,7 +46,6 @@ Domain _Bacteria_
 4) Ubiquitous and some live in extreme environments
 5) Cyanobacteria produced significant amounts of oxygen
 
-
 Domain _Archaea_
 1) Distinguished from _Bacteria_ by unique rRNA gene sequences
 2) Lack peptidoglycan in cell walls
