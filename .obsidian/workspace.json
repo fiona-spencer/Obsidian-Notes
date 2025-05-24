@@ -8,17 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cac4596bd0f0f666",
+            "id": "57e010b26b3dea34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Microscopy"
+              "title": "3. Bacterial Cell Structure"
+            }
+          },
+          {
+            "id": "ccfccdeaca518fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Archaeal Cell Structure"
+            }
+          },
+          {
+            "id": "acb8dab44a30a6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Eukaryotic Cell Structure"
+            }
+          },
+          {
+            "id": "b02c07f9dc9e1d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Viruses and Other Acellular Infectious Agents"
+            }
+          },
+          {
+            "id": "b239acbaa4a56674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Bacterial and Archaeal Growth"
             }
           }
         ]
@@ -191,19 +247,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cac4596bd0f0f666",
+  "active": "57e010b26b3dea34",
   "lastOpenFiles": [
-    "Pasted image 20250523204437.png",
-    "Pasted image 20250523204237.png",
-    "images/Pasted image 20250523204022.png",
-    "images/Pasted image 20250523203828.png",
-    "images/Pasted image 20250523203751.png",
-    "images/Pasted image 20250523203234.png",
-    "Pasted image 20250523204022.png",
-    "Pasted image 20250523203828.png",
-    "Pasted image 20250523203751.png",
-    "Pasted image 20250523203234.png",
-    "images/Pasted image 20250523202933.png",
+    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
+    "images/Pasted image 20250523210539.png",
+    "images/Pasted image 20250523210520.png",
+    "images/Pasted image 20250523210234.png",
+    "images/Pasted image 20250523205833.png",
+    "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
+    "Pasted image 20250523210539.png",
+    "Pasted image 20250523210520.png",
+    "Pasted image 20250523210234.png",
+    "Pasted image 20250523205833.png",
+    "images/Pasted image 20250523205445.png",
+    "images/Pasted image 20250523205348.png",
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "BLG151/Microbiology Notes/1 - Slide.md",
     "BLG151/Microbiology Notes/2 - Slide.md",
@@ -224,11 +285,6 @@
     "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
     "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
     "Untitled",
     "10. Input",
     "Probs",
