@@ -36,34 +36,6 @@
             }
           },
           {
-            "id": "acb8dab44a30a6bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Eukaryotic Cell Structure"
-            }
-          },
-          {
-            "id": "b02c07f9dc9e1d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Viruses and Other Acellular Infectious Agents"
-            }
-          },
-          {
             "id": "b239acbaa4a56674",
             "type": "leaf",
             "state": {
@@ -75,6 +47,76 @@
               },
               "icon": "lucide-file",
               "title": "7. Bacterial and Archaeal Growth"
+            }
+          },
+          {
+            "id": "2a8e5d4095a96c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/1 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Slide"
+            }
+          },
+          {
+            "id": "d23e7d7796913d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/2 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Slide"
+            }
+          },
+          {
+            "id": "5d27dc84e426c0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/3 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Slide"
+            }
+          },
+          {
+            "id": "4069337e85ed90b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/4 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Slide"
+            }
+          },
+          {
+            "id": "b0a87f7bd9bddb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/5 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Slide"
             }
           }
         ]
@@ -249,30 +291,30 @@
   },
   "active": "57e010b26b3dea34",
   "lastOpenFiles": [
+    "Pasted image 20250525160518.png",
+    "Pasted image 20250525160440.png",
+    "images/Pasted image 20250525155845.png",
+    "Pasted image 20250525155845.png",
+    "BLG151/Microbiology Notes/1 - Slide.md",
+    "BLG151/Microbiology Notes/5 - Slide.md",
+    "BLG151/Microbiology Notes/4 - Slide.md",
+    "BLG151/Microbiology Notes/3 - Slide.md",
+    "BLG151/Microbiology Notes/2 - Slide.md",
+    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
+    "images/Pasted image 20250525145827.png",
+    "images/Pasted image 20250525145317.png",
+    "Pasted image 20250525145827.png",
+    "Pasted image 20250525145317.png",
+    "images/Pasted image 20250525144633.png",
+    "images/Pasted image 20250525144412.png",
     "Pasted image 20250525144633.png",
-    "Pasted image 20250525144412.png",
-    "images/Pasted image 20250525144117.png",
-    "Pasted image 20250525144117.png",
-    "images/Pasted image 20250525134412.png",
-    "Pasted image 20250525134412.png",
-    "images/Pasted image 20250525133542.png",
-    "Pasted image 20250525133542.png",
-    "images/Pasted image 20250525132721.png",
-    "images/Pasted image 20250525132346.png",
-    "Pasted image 20250525132721.png",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/Microbiology Notes/5 - Slide.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-    "BLG151/Microbiology Notes/1 - Slide.md",
-    "BLG151/Microbiology Notes/2 - Slide.md",
-    "BLG151/Microbiology Notes/4 - Slide.md",
-    "BLG151/Microbiology Notes/3 - Slide.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md",
