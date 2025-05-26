@@ -377,7 +377,7 @@ Response to pH changes:
 - Some synthesize acid and heat shock proteins that protect proteins (prevent denaturation, support re-folding)
 
 
-### Temperature
+## Temperature
 
 - Microbes cannot regulate their internal temperatures
 - Enzymes have optimal temperature at which they function optimally
@@ -388,6 +388,13 @@ Cardinal Temperatures
 - Minmum
 - Maximum
 - Optimal
+
+![](Pasted%20image%2020250526135937.png)
+
+
+### Cardinal Temperatures for Select Microorganisms
+
+![](Pasted%20image%2020250526140102.png)
 
 ### Temperature Range for Microbial Growth
 
@@ -403,6 +410,7 @@ Adaptation of Psychrophiles:
 	- Semi-fluid when cold
 - Cytoplasm
 	- Decrease freezing point of cytosol
+	- Secretes anitfreeze proteins
 
 
 ### Adaptations of Thermophiles 
@@ -423,18 +431,23 @@ Adaptation of Psychrophiles:
 - Electrron transport chains (ETC), terminal electron acceptor used
 
 5 Types of Relationships to $O_2$
-1) Obligate aerobe - 
-2) Obligate aerobe - 
-3) Obligate aerobe - 
-4) Obligate aerobe - 
-5) Obligate aerobe - 
+1) Obligate aerobe - requires O_2
+2) Obligate anaerobe - killed in the presence of O_2
+3) Microaerophile - requires 2 to 10% O_2
+4) Facultative anaerobe - does not require O_2, but grows better in its presence
+5) aerotolerant anaerobe - grow with or without O_2
 
 ### Oxygen and Bacterial Growth
 
 - Using $O_2$ causes oxidative stress (toxic derivatives-reactive oxygen species, ROS)
-- Growth in different 
+- Growth in different O_2 concentrations depends on a microbe's metabolic processes
+	- ETC
+	- Terminal electron acceptor used
 
+SOD = superoxide dismutase catalyze the destruction of super oxide radicals
+- Catalase and peroxidase detoxify hydrogen peroxide
 
+![](Pasted%20image%2020250526141121.png)
 ### Basis of Different Oxygen Sensitivities
 
 - Oxygen reduced to reactive oxygen species (ROS)
@@ -442,6 +455,12 @@ Adaptation of Psychrophiles:
 	- Superoxide radical ($O_2^-$)
 	- Hydrogen peroxide ($H_2O_2$)
 	- Hydroxyl radical ($OH$)
+- Microorganisms must be able to protect itself from ROS
+- Aerobes produce protective enzymes
+	- SOD (superoxide dimutase) -> oxygen and hydrogen peroxide
+	- Catalase (w/ hydrogen peroixde) -> water and oxygen
+	- Peroxidase (w/ hydrogen peroxide) -> water, and NAD+
+- Neutrophils and macrophages use ROS to kill pathogens
 
 ### Pressure
 
@@ -463,6 +482,9 @@ Ionizing Radiation
 - Distrupt chemical structure of many molecules
 	- Break H-bonds and destroys ring structures
 - Bacterial endospores and _Deinococcus radiodurans_ are resistant to ionizing radition
+
+![](Pasted%20image%2020250526141620.png)
+
 
 ### Radiation Damage - UV and Visible Light
 
@@ -496,13 +518,32 @@ Microbial environments
 
 ## Biofilms are Common in Nature
 
-- Most microbes grow attached to surfaces (sessile)
+- Most microbes grow attached to surfaces (sessile), rather than free floating (planktonic)
+- Slime enclosed communities of microbes are called biofilms
+	- Ubiquitous in nature in water
+	- Formed on any conditioned surface
+	- Detrimental
+		- Medial devices
+		- Organism sloughing can contaminate water phase
 
 
 ## Biofilm Formation
 
 - Microbes reversibly attach to conditioned surface and release polysaccharides, proteins, and DNA to form the extracellular polymeric substance (EPS)
 - Additionally polymers are produced as microbes reproduce and biofilm matures
+
+![](Pasted%20image%2020250526142104.png)
+
+1) Substratum pre-conditioning by ambient molecules
+2) Cell deposition
+3) Cell absorption
+4) Desorption
+5) Cell-to-cell signalling and onset of exopolymer production
+6) Connective and diffuse transport of O_2 and nutrients
+7) Replication and growth
+8) Secretion of polysaccharide
+9) Detachment, erosion, and sloughing
+
 
 ## Heterogeneity in Biofilms
 
@@ -511,16 +552,23 @@ Microbial environments
 - Interactions occur among the attaches organisms
 	- Use molecules to communicate and DNA uptake can occur in community
 
+![](Pasted%20image%2020250526142426.png)
+
 ## Biofilm Microogranisms
 
 Emergent properties
 - Properties could not be predicted from studying single cell
 - Phsiological changes and EPS protect microbes from harmful agents (UV)
-- When formed on medical devices, such as implants, anibiotic treatment fails
+- When formed on medical devices, such as implants, antibiotic treatment fails
 - Chunk of biofilm can be sloughed off which can contaminate a drinking water system
 
 ## Cell-Cell Communication Within Microbial Population
 
+Quorum sensing
+- Bacterial cells communicate via small molecules that diffuse in the environment
+- Sufficient number of microbes must be present and participating
+
+![](Pasted%20image%2020250526142623.png)
 
 
 ## Quorum Sensing Systems
@@ -529,8 +577,13 @@ N-acylhomoserine lactone (AHL)
 - Autoinducer
 - Moves across the plasma membrane from cytoplasm to the outside of the cell
 - When cell population is high, AHL diffuses in the cell which induces specific gene expression
+	- _Pseudomonas aeruginosa uses this to express virulence factors_
+	- Bioluminescent bacteria use this to light
+- Autoinducing peptides (AIPs)
+	- Gram positive bacteria
+	- Autoinducing short peptides
 
-
+![](Pasted%20image%2020250526142832.png)
 
 
 # 7.7 - Laboratory Culture of Microbes Requires Conditions that Mimic Their Normal Habitats
@@ -551,30 +604,49 @@ N-acylhomoserine lactone (AHL)
 
 **Complex Media** - contain some ingredients of non-specific chemical composition
 
+![](Pasted%20image%2020250526142950.png)
+
 
 ## Some Media Components
+
+![](Pasted%20image%2020250526143019.png)
 
 **Peptones** - partial preteotytic digestion of protein sources
 **Extracts** - aqueous extracts that contain amino acids, peptides, nucleotides, organic acids, vitamins, and minerals
 **Agar** - sulfated polymer solidifying agent
 - Most microorganisms cannot degrade it
 
-
 ## Functional Types of Media
 
-**Supportive media** - 
-**Enriched media** - 
+**Supportive media** - tryptic soy broth and agar
+- Sustain growth of many microorganisms
 
+**Enriched media** - Blood agar
+- Supportive media supplemented with special nutrients
 
 ## Selective and Differential Media
 
+**Selective media** - allow the growth of particular micro-organisms
+- While inhibiting the growth of others
+- Gram-negative bacteria can grow on bile salts, while Gram-positive bacteria cannot
 
-**Selective media** - 
-**Differential media** - 
+
+**Differential media** - distinguish among different groups of microbes and even permit tentative identification of microbes based on their biological characteristics
+- Blood agar
+	- Hemolytic and non-hemolytic bacteria
+- MacConkey
+	- Lactose fermenters vs non-fermenters
 
 ## Cultivation of Anaerobic Microbes
 
 - All strict anaerobic microorganisms lack or have very low quantities of superoxide dismutase and catalase
+- Cannot tolerate O_2
+- Grown in anaerobic chamber
+- Hard transparent containers sealed tightly
+- Candle jar
+
+![](Pasted%20image%2020250526143747.png)
+
 
 ## Isolation of Pure Cultures
 
@@ -585,7 +657,11 @@ N-acylhomoserine lactone (AHL)
 
 ## Enrichment Cultures
 
-- 
+- Encourages growth of microbes with a particular characteristic, while inhibiting growth of others
+- 3 factors
+	- A suitable source of microbes
+	- Nutrients that should and should not be included in the culture medium
+	- Environmental conditions
 
 ## Steak Plate
 
@@ -593,22 +669,40 @@ N-acylhomoserine lactone (AHL)
 	- Goal is to obtain individual cells that are separated from each other
 - Each cell can reproduce to form a separate colony (visible cluster of microorganisms)
 
+![](Pasted%20image%2020250526144129.png)
+
 ## Spread Plate
 
 - Small volume of diluted mixture is transferred to the center of an agar plate and spread evenly over surface with a sterile bent rod
 	- Dilution made by serial dilution
 
+
+![](Pasted%20image%2020250526144201.png)
 ## Pour Plate
 
-- 
+- Sample is serially diluted and mixed with liquid agar
+- Mixture of cells and agar is poured into sterile culture dishes
+- Useful when sampling a heterogenous population of microbes that might produce overgrown colonies
+
+![](Pasted%20image%2020250526144300.png)
 
 
 ## New Approaches to Culturing Microbes
 
+Culturomics
+- Use miniature cultures and incubate in many different conditions to find the best one
+- Bring natural environment into the lab (seawater)
+- Diffusion chamber that slows nutrients to diffuse, but retains the microbes
+- Dilution can contain a single cell
+Co-culturing
+- Growth on animals or tissues in lab
 
 # 7.8 - Microbial Population Size Can Be Measured Directly or Indirectly
 
 ## Measurement of Microbial Growth and Direct Measurement of Cell Numbers
+
+- 
+
 ## Viable Counting: Alive of Dead?
 
 - Cell can exist in a variety of states between 'fully viable' and 'dead'
