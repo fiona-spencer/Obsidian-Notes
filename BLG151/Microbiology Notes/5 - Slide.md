@@ -701,11 +701,21 @@ Co-culturing
 
 ## Measurement of Microbial Growth and Direct Measurement of Cell Numbers
 
-- 
+- Measurement of microbial growth
+	- Can measure changes in number of cells in a population
+	- Can measure changes in mass of population
+- Direct measurement of cell numbers
+	- Direct cell counts
+		- Counting chambers
+		- On membrane filters
+		- flow cytometry
+		- Electronic counter
+			- Coulter counter
 
 ## Viable Counting: Alive of Dead?
 
 - Cell can exist in a variety of states between 'fully viable' and 'dead'
+![](Pasted%20image%2020250526155344.png)
 
 ## Measurement of Microbial Growth and Direct Measurement of Cell Numbers
 
@@ -723,11 +733,40 @@ Direct counts
 	1) The Coulter counter
 
 ### Counting Chambers
+
+- Number of microbes calculated from chamber's volume and dilutions
+- Advantages
+	- Easy
+	- Inexpensive
+	- Quick
+- Disadvantages
+	- Population must be large and evenly dispersed
+
+![](Pasted%20image%2020250526155543.png)
+
 ### Viable Counting Method - Standard Plate Counts
+
+- Spread and pour plate techniques
+	- Diluted sample of bacteria is spread over solid agar surface or mixed with agar and poured into Petri plate
+	- After incubation, the numbers of organisms are determined by counting the number of colonies multiplied by the dilution factor
+- Results expressed as colony forming units (CFU)
 
 ### Direct Counts of Membrane Filters
 
+- Cells filter through special membrane that provides dark background for observing cell
+- Cells are stained with fluorescent dyes
+	- DAPI
+- Distinguish dead from living cells
+
+![](Pasted%20image%2020250526155819.png)
+
 ### Viable Counting Method - Membrane Filter Method
+
+- Membrane filter technique
+	- Bacteria from aquatic samples are trapped on membranes
+	- Membranes soaked in culture media
+	- Colonies grow on membrane
+	- Colony count determines number of bacteria in sample
 ### Measurement of Cell Mass
 
 
@@ -740,9 +779,11 @@ Direct counts
 - The extent of light scattering is called absorbance
 
 **Concentration of a particular cell constituent**
-- F
+- Protein, DNA, ATP, or chlorophyll
+- Useful if amount of substance in each cell is constant
+- As the cell population increases (more turbidity), light scattering increases and the absorbance reading (OD) increases
 
-
+![](Pasted%20image%2020250526160204.png)
 # 7.9 - Chemostats and Turbidostats Are Used for Continuous Culture of Microorganisms
 
 ## Continuous Culture of Microogranisms
