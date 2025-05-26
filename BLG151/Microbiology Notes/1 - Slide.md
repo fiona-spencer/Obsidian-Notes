@@ -68,9 +68,16 @@ Domain _Archaea_
 	- Yeast - unicellular
 	- Molds and mushrooms - multicellualr
 
+![](Pasted%20image%2020250525162324.png)
+
+
 ## Acellular Infectious Agents
 - Viruses
-	- An infectious agent having a simple acellular organization with a protein coat and a nucleic acid genome, lacking independent metabolism, and multipyling only within living host cells
+	- An infectious agent having a simple acellular organization with a protein coat and a nucleic acid genome, lacking independent metabolism, and multiplying only within living host cells
+
+![](Pasted%20image%2020250525162413.png)
+
+
 - Viroids
 	- Similar than viruses
 	- An infectious agent that is a single-stranded RNA not associated with any protein
@@ -88,7 +95,6 @@ Domain _Archaea_
 
 # 1.2 - Microbes Have Evolved and Diversified for Billion of Years
 
-
 ---
 
 Definition of Life:
@@ -99,6 +105,9 @@ Definition of Life:
 5. Energy use and metabolism
 6. Regulation and homeostasis
 7. Reproduction
+
+- Use characteristics that describe living organisms when they search for life
+- Extant organisms to explore the origins of life
 
 ## Overview of the History of Life on Earth
 3.8 to 3.5 bya - first cells appeared
@@ -122,6 +131,8 @@ DNA
 RNA
 - Molecule that acts as a messenger, taking information from DNA to then synthesizing proteins and other functions
 
+![](Pasted%20image%2020250525162648.png)
+
 
 ## RNA World Hypothesis of the Origin of Life
 - Original molecular must have fulfilled protein and hereditary function
@@ -130,18 +141,25 @@ RNA
 	- Perform cellular work and replication
 - Earliest cells may have been RNA surrounded by liposomes
 
+![](Pasted%20image%2020250525162744.png)
+
+
 ## Evidence of RNA World Hypothesis
 - Most cellular RNA in modern cells exists in and is associated with the ribosome to construct proteins
 	- rRNA
 	- tRNA
 	- mRNA
 - Similar structures indicate RNA may be precursor to double stranded DNA
-- The energy source of current cells if reibonucleotide (ATP)
+- The energy source of current cells if ribonucleotide (ATP)
 - RNA can regulate gene expression
 
 ## Earliest Metabolism
 - Early energy sources under harsh conditions
-
+	- Inorganics (FeS)
+- Photosynthesis
+	- Cyanobacteria
+		- Gram-negative, carry out oxygenic photosynthesis
+	- Stromatolites
 
 ## Evolution of the 3 Domains of Life
 - Universal phylogenetic tree
@@ -153,11 +171,9 @@ RNA
 - The root or origin of modern life is on bacterial branch but nature still controversial
 - _Archaea_ and _Eukarya_ evolved independently of _Bacteria_
 
-
 ## Endosymbiotic Hypothesis
 - Mitochondria originated from endosymbiotic proteobacteria
-- Chloroplasts originated from endosymbiotic cynobacteria
-
+- Chloroplasts originated from endosymbiotic cyanobacteria
 
 ## Evolution of Cellular Microbes
 - Mutation of genetic material led to selected traits
@@ -169,7 +185,6 @@ RNA
 - A strain consists of descendants of a single, pure microbial culture
 - May be biovars, morphovars, serovars, and pathovars
 
-
 ## Microbial Species
 - Binomial nomenclature
 	- Genus - italicized and capitalized
@@ -177,7 +192,6 @@ RNA
 
 ## Binomial System of Nomenclature
 - Devised by Carolus Linnaeus
-
 
 
 # 1.3 - Microbiology Advanced as New Tools for Studying Microbes Were Developed
@@ -206,7 +220,7 @@ Earliest microscopic observations
 	- Bees and weevils/beetles
 	- Between 1625 to 1630
 2. Robert Hooke
-	1. 
+	1. Published first drawing of the fungus _Mucor_
 3. Antony van Leeuwenhoek
 
 ## The Conflict Over Spontaneous Generation

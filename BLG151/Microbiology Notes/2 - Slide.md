@@ -13,11 +13,15 @@
 
 ## Light Microscopes
 - Light microscopes were the first microscope invented
+- Microscopes enlarge the image of an object
+- Resolution limit is $0.2 \micro m$
 
 ## Lenses Create Images by Bending Light
 - Light is refracted when passing from one medium to another
 
 **Refractive index** - A measure o how much a substance slows the velocity of light
+- Direction and magnitude of bending are determined by the refractive indices of the two media forming the interface
+![](Pasted%20image%2020250525163442.png)
 
 ## Lenses
 - Focus light ray at a specific place called the focal point
@@ -40,6 +44,9 @@ Compound Microscopes
 - Two sets of lenses
 
 <img src="/images/Pasted%20image%2020250507182636.png" alt="image" width="500">
+
+**Resolution** - ability of a lens to separate or distinguish small objects that are close together
+
 
 ### Bright-Field Microscope
 - Produces a dark image against a brighter background
@@ -70,6 +77,8 @@ $θ$ = the half-angle of the maximum cone of light that can enter or exit the le
 
 - The numerical aperture (NA) is the most important number associated with the light gathering ability of an objective or condenser
 
+![](Pasted%20image%2020250525163620.png)
+
 ## Resolution
 - To increate the resolving power, we need to decrease d
 - The greatest resolution is obtained with the largest possible NA and light of the shortest $λ$ (blue)
@@ -79,6 +88,8 @@ $θ$ = the half-angle of the maximum cone of light that can enter or exit the le
 $d = [(0.5)(530nm)]/1.25 = 212 nm$
 
 - At best a bright field microscope can distinguish between two dots about 0.2μm
+
+![](Pasted%20image%2020250525163714.png)
 
 ## Working Distance
 - Distance between the front surface of lens and surface of cover glass or specimen when it is in sharp focus
@@ -184,10 +195,10 @@ $d = \frac{0.5(500 nm)}{2(1.25)} = 200 nm$
 - Dyes make internal and external structures of cell more visible by increasing contrast with background
 
 
-| Types of Dye | Examples | Chromophore Characteristics |
-| ------------ | -------- | --------------------------- |
-| Basic dyes   |          |                             |
-| Acidic dyes  |          |                             |
+| Types of Dye | Examples         | Chromophore Characteristics |
+| ------------ | ---------------- | --------------------------- |
+| Basic dyes   | - Methylene blue |                             |
+| Acidic dyes  | - Eorsin         |                             |
 
 
 ## Basic/Acid Dyes and Simple Staining
@@ -213,6 +224,9 @@ Simple staining
 - Differential stain used to detect presence or absence of structures
 	- Capsules
 	- Flagells
+
+
+![](Pasted%20image%2020250525163833.png)
 
 
 ## Gram Staining
