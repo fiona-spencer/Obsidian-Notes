@@ -7,12 +7,20 @@
 - All must replicate and segregate the genome prior to division
 
 Stages
+
+![](Pasted%20image%2020250526130058.png)
+
 1) A cell at early phase of cycle
-2) A cell prepares for division by enlarging its cell wall, plasma membrane, and overall volume
-	1) DNA replication starts
-3) The septum grows inwards as the chromosomes move toward opposite ends of the cell
-	1) Other cytoplasmic components are distributed to the two daughter cell
-4) The septum is synthesizes completely through the cell center, creating two separate cells
+2) Prepares for division
+	1) Enlarging its cell wall
+	2) Plasma membrane, and volume
+	3) DNA replication
+3) Septum forms
+	1) Chromosomes move to opposite end
+	2) Other cytoplasmic components are distributed
+4) Septum is synthesizes through the cell center
+5) Daughter cells separate or remained attached
+	1) Forming chains, doublets, or other arrangements
 
 
 ## Some Bacteria Reproduce by Methods Other Than Binary Fission
@@ -23,6 +31,12 @@ Stages
 **Baeocytes** - small, spherical, reproductive cells produced by some cyanobacteria through multiple fission
 **Spore Formation** - by _Streptomyces coelicolor_ illustration shows a spore, the germ tube, vegetative hypha, branch, aerial hypha, and formation of spores on the aerial hypha
 - The micrograph shows branches filaments, aerial hyphae, and chains of spores
+
+![](Pasted%20image%2020250526130349.png)
+
+
+
+
 
 # 7.2 - Bacterial Cell Cycles Are Divided Into Three Phases
 
@@ -41,16 +55,25 @@ Stages
 - Most bacterial have a single circular chromosome
 - Single origin of replication, site at which replication begins
 - Terminus, site at which replication is terminated, located opposite of the origin
-- Replisome is the DNA synthesis machinery
+- **Replisome** is the DNA synthesis machinery
 - DNA replication processed in both directions from the origin
 - Origin move to opposite ends of the cell, and the rest of each chromosome follows
 
 ## Cell Cycle of _E. coli_
 
-1) After a period of growth, initiation of the cell cycle results from an increase in the mass of a cell, resulting in the accumulation of the DNA A protein, which initiates DNA replication
-2) The origin of replication and the terminus migrate to the cell center, proteins that are needed for chromosome replication assemble at the origin and form the replisome, the DNA synthesizing machinery
-3) The cell reaches a certain threshold length and initiation of septum formation (cytokinesis) is triggered, resulting in two daughter cells that have inherited one chromosome each
-4) One rou
+![](Pasted%20image%2020250526130551.png)
+
+1) Initiation of the cell cycle results from an increase in the mass of a cell,
+	1) Accumulation of the DnaA protein, which initiates DNA replication
+2) Origin of replication and the terminus migrate to the cell center
+	1) Proteins needed for chromosomes replication assemble at the origin and form the replisome
+	2) DNA replications starts at both direction from the origin
+	3) Cell increases its length
+3) Cell reaches a threshold length and initiation of septum formation (cytokinesis) starts
+
+- Generation times of ~20 mins
+- 2nd and 3rd rounds of DNA replication are initiated before division of the original cell is completed
+- Daughter cells inherit partially replicated DNA
 
 ## Cytokinesis and Septation
 
@@ -66,7 +89,20 @@ Stages
 - Cell shape is strict and is passed on through generation
 	- Some microbes change shape under certain circumstances
 
+![](Pasted%20image%2020250526131200.png)
+
+
 ## Cell Shape Determination
+
+- Cellular location of peptidoglycan synthesis plays role in determining cell shape
+- Coccus
+	- Peptidogylycan only forms at central septum
+	- FtsZ localization placement
+	- Acts as prokaryotic homologue of the eukaryotic protein tubulin
+
+![](Pasted%20image%2020250526131350.png)
+
+
 ## Rod and Curved Cell Shape
 Rod
 - Elongasome (rod complex)
@@ -74,6 +110,8 @@ Rod
 	- Growth occurs in numerous bands around cell, not at the poles
 Curved
 - Crescentin localizes to one side of the cell, resulting in asymmetric cell wall and vibroid shape
+
+![](Pasted%20image%2020250526131420.png)
 
 # 7.3 - Archaeal Cell Cycles Are Unique
 ## Archaeal Cell Cycles Resemble Eukaryal Cell Cycles - Except in Segregation of Chromosomes
@@ -93,9 +131,15 @@ Curved
 
 _*Cdv - cell division protein_
 
+![](Pasted%20image%2020250526131539.png)
+
+
+
 ## Archaeal Cytokinesis Similar to Eukaryotes
 
 - All archaea lack peptidoglycan
+	- In bacteria Z-ring is physically associated with the peptidoglycan synthesizing enzymes
+	- In archaea, Z-ring associates with the new S-layer proteins and cell wall components
 - Archaeal Z-ring associated with the new S-layer proteins and possibly other cell wall components
 
 ![](Pasted%20image%2020250521190645.png)
@@ -118,6 +162,10 @@ _*Cdv - cell division protein_
 - Usually plotted as logarithm of cell number versus time
 - Has 5 distinct phases
 
+![](Pasted%20image%2020250526131856.png)
+
+
+
 ## 1. Lag Phase
 
 - Cell synthesizing new components
@@ -135,6 +183,8 @@ _*Cdv - cell division protein_
 - During exponential phase, cells grow as quickly as they can for the conditions available
 	- Final new growth increases with the initial amount of the limiting nutrient present
 	- Growth rate increases with nutrient concentration, but it will saturate transport mechanisms, and growth rate does not increase even with more nutrients
+
+![](Pasted%20image%2020250526132050.png)
 
 ## 3. Phases of Growth - Stationary Phase
 
@@ -166,6 +216,14 @@ Generation (doubling) time
 - Time required for the population to double in size
 - Varies depending on species of microorganisms and environment
 - Range from 10 minutes for some bacterial to days for some eukaryotes
+
+![](Pasted%20image%2020250526132202.png)
+
+## Generation Times
+
+
+![](Pasted%20image%2020250526133437.png)
+
 
 ## Calculation of Growth Rate
 
@@ -240,6 +298,9 @@ Hypotonic solution
 Hypertonic solution
 - Higher solute concentration outside the cell than inside the cell
 	- Water leaves the cell and membrane shrink
+
+![](Pasted%20image%2020250526133546.png)
+
 ## Microbes Adapt to Changes in Osmotic Concentrations
 
 - Most microbes live in hypotonic environment
@@ -267,6 +328,9 @@ Adaptation Strategies
 - Salt out
 	- Keep salt ions outside of cell
 	- Synthesize compatible solutes that do not interfere with grwoth
+
+
+![](Pasted%20image%2020250526133710.png)
 
 ## Solutes and Water Activity
 
