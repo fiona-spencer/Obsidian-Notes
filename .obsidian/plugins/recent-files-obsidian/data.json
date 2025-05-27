@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "0. Theoretical Neuroscience",
+      "path": "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
+    },
+    {
+      "basename": "Textbooks",
+      "path": "Cognitive Science/Neuroscience/Textbooks.md"
+    },
+    {
+      "basename": "0. The Brain From Inside Out",
+      "path": "Cognitive Science/Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md"
+    },
+    {
+      "basename": "0. Principles of Neural Science",
+      "path": "Cognitive Science/Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md"
+    },
+    {
+      "basename": "0. Exploring the Brain",
+      "path": "Cognitive Science/Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
+    },
+    {
+      "basename": "0. Cognitive Science",
+      "path": "Cognitive Science/0. Cognitive Science.md"
+    },
+    {
       "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
       "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
     },
@@ -9,16 +33,16 @@
       "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
     },
     {
+      "basename": "8. Control and Microorganisms in the Environment",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
+    },
+    {
       "basename": "10. Introduction to Metabolism",
       "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
     },
     {
       "basename": "11. Catabolism - Energy Release and Conservation",
       "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
-    },
-    {
-      "basename": "8. Control and Microorganisms in the Environment",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
     },
     {
       "basename": "7. Bacterial and Archaeal Growth",
@@ -35,10 +59,6 @@
     {
       "basename": "0. Overview",
       "path": "BLG151/Microbiology Notes/0. Overview.md"
-    },
-    {
-      "basename": "Textbooks",
-      "path": "Cognitive Science/Neuroscience/Textbooks.md"
     },
     {
       "basename": "12. Final Exam Review",
@@ -179,26 +199,6 @@
     {
       "basename": "11. String Manipulation",
       "path": "CIND123/The Art of R Programming/11. String Manipulation.md"
-    },
-    {
-      "basename": "10. Input and Output",
-      "path": "CIND123/The Art of R Programming/10. Input and Output.md"
-    },
-    {
-      "basename": "9. Object-Oriented Programming",
-      "path": "CIND123/The Art of R Programming/9. Object-Oriented Programming.md"
-    },
-    {
-      "basename": "8. Doing Math and Simulations in R",
-      "path": "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md"
-    },
-    {
-      "basename": "7. R Programming Structures",
-      "path": "CIND123/The Art of R Programming/7. R Programming Structures.md"
-    },
-    {
-      "basename": "6. Factors and Tables",
-      "path": "CIND123/The Art of R Programming/6. Factors and Tables.md"
     }
   ],
   "omittedPaths": [],
