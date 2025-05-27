@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "15fb2f79e8f235fe",
+        "id": "7425fec39be9c2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "57e010b26b3dea34",
+            "id": "dc0977115817ce98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
+                "file": "Cognitive Science/Neuroscience/Textbooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Bacterial Cell Structure"
-            }
-          },
-          {
-            "id": "ccfccdeaca518fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Archaeal Cell Structure"
-            }
-          },
-          {
-            "id": "b239acbaa4a56674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Bacterial and Archaeal Growth"
-            }
-          },
-          {
-            "id": "ee4a44c14e2624ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLG151/Microbiology Notes/6 - Slide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Slide"
+              "title": "Textbooks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "437b46005461d870",
@@ -234,12 +190,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ee4a44c14e2624ad",
+  "active": "dc0977115817ce98",
   "lastOpenFiles": [
+    "Cognitive Science/Neuroscience/Textbooks.md",
+    "Cognitive Science/Neuroscience",
+    "CIND123/Modules/12. Final Exam Review.md",
+    "CIND123/Modules/0. Data Analytics Overview.md",
+    "CIND123/Modules/13. Exam.md",
+    "CIND123/Modules",
+    "Untitled",
+    "BLG151/Microbiology Notes/6 - Slide.md",
     "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
     "images/Pasted image 20250526160204.png",
     "images/Pasted image 20250526155819.png",
-    "BLG151/Microbiology Notes/6 - Slide.md",
     "BLG151/Microbiology Notes/5 - Slide.md",
     "Pasted image 20250526160204.png",
     "Pasted image 20250526155819.png",
@@ -268,10 +231,6 @@
     "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md",
     "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md",
-    "Untitled",
     "10. Input",
     "Probs",
     "convert_images.sh",
@@ -279,8 +238,6 @@
     "Slide 1",
     "BLG151/Microbiology Notes",
     "BLG151/UNIT 5 - The Diversity of Microbial World",
-    "CIND123/Stats and Probs",
-    "Calculus",
     "Untitled.canvas"
   ]
 }

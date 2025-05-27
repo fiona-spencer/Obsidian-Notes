@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Textbooks",
+      "path": "Cognitive Science/Neuroscience/Textbooks.md"
+    },
+    {
+      "basename": "12. Final Exam Review",
+      "path": "CIND123/Modules/12. Final Exam Review.md"
+    },
+    {
+      "basename": "0. Data Analytics Overview",
+      "path": "CIND123/Modules/0. Data Analytics Overview.md"
+    },
+    {
+      "basename": "13. Exam",
+      "path": "CIND123/Modules/13. Exam.md"
+    },
+    {
       "basename": "6 - Slide",
       "path": "BLG151/Microbiology Notes/6 - Slide.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "18. Installing and Using Packages",
       "path": "CIND123/The Art of R Programming/18. Installing and Using Packages.md"
-    },
-    {
-      "basename": "17. Installing R",
-      "path": "CIND123/The Art of R Programming/17. Installing R.md"
-    },
-    {
-      "basename": "5. Data Frames",
-      "path": "CIND123/The Art of R Programming/5. Data Frames.md"
-    },
-    {
-      "basename": "4. Lists",
-      "path": "CIND123/The Art of R Programming/4. Lists.md"
     }
   ],
   "omittedPaths": [],
