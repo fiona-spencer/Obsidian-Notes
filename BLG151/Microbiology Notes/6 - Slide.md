@@ -1,31 +1,47 @@
 # 8.1 - Microbial Growth and Replication: Targets for Control
 
-
 ## Common Microbial Control Methods
 
 **Biocide** - Anti-microbial agents that control microorganisms
 - Physical, chemical, mechanical, or biological
 
+
+![](Pasted%20image%2020250528155405.png)
+
+
 ## Definition of Frequently Used Terms
 
 **Sterilization** - process by which all living cells, spores, and acellular entities are destroyed or removed from an object
+- Sterilant is the chemical agent
+
 **Disinfection** - killing, inhibition, or removal of disease-causing microorganisms
 
+**Disinfectants** - agents, usually chemical, used for disinfection, usually on inanimate objects
+- Does not always sterilize as spores or a few organisms can remain
 
 **Sanitization** - reduction of microbial population to levels deemed safe by public health standards
+
 **Antisepsis** - destruction of microbes on living tissue
-**Antiseptics** - 
+**Antiseptics** - chemical agents applied to tissue to kill or inhibit growth of pathogens
+
+
 ## Antimicrobial Agents
 
-
 **Chemotherapy** - generic term that describes application of chemical to kill microorganisms
+- Effective against a specific group
+	- Bactericides, fungicides, viricides
 
 **Static agents** - inhibit growth
-- May be especially effective against a specific groip
+- May be especially effective against a specific group
 - Include bacteriostatic and fungistatic
+
 ## Impact of Biocide Exposure
 
+- A biocide is a chemical or physical agent that inactivates microorganisms
 - Three exponential plots of survivors vs. time of biocide exposure, indicating the potential kinetics of biocide action
+- Sterilization refers to the absence of viable organisms regardless of biocide kinetics
+
+![](Pasted%20image%2020250528155749.png)
 
 ## Resistance to Biocides
 
@@ -37,14 +53,22 @@
 	- Specific resistance genes
 ## Pattern of Microbial Death Mirrors the Pattern of Microbial Growth
 
-- Micr
+- Microorganisms are not killed instantly when exposed to lethal agents
+- Population death occurs exponentially
+	- Reduces by the same fraction at constant intervals
+
 **Decimal reduction time** - time required to kill 90% of microorganisms
-$D_{value}$ - 
-$Z_{value}$ - 
+$D_{value}$ - time required to drop by 10-fold
+$Z_{value}$ - temperature change that decreases the microbial population by 90%
 
 ## D and Z Values
 
+- The pattern of microbial death
 
+![](Pasted%20image%2020250528160025.png)
+
+
+![](Pasted%20image%2020250528160035.png)
 # 8.2 - Microbes Can Be Controlled by Physical Means
 ## Filtration
 
@@ -52,7 +76,13 @@ $Z_{value}$ -
 - Also used to reduce microbial populations in air
 
 **Depth filter** - fibrous materials that have been bonded into a thick layer filled with narrow, twisting channels
-- Solution with microbes
+- Solution with microbes is sucked through the layer under vacuum and microbes absorb to the surface of the filter material
+
+![](Pasted%20image%2020250528160122.png)
+
+**Membrane filter sterilization** - liquid to be sterilized is pumped through a membrane filter and into a sterile container
+- Uses a vacuum pump to force liquid through the filter
+- Cross section of filter and its pores, are too small formicrobes to pas through
 
 ## Filtering Liquids
 
@@ -60,18 +90,31 @@ Membrane Filters
 - Porous membranes with defined pores sizes that remove microorganisms
 - Often used after a depth filter
 
+![](Pasted%20image%2020250528160237.png)
+
+![](Pasted%20image%2020250528160247.png)
+
+
 ## Filtering Air
 
 - Surgical masks
 	- N95 disposable mask
+	- Excludes 95% of particles
 - High-efficiency particulate air (HEPA) filters
 	- Used in laminar flow biological safety cabinets
 	- Exclude 99.97% of particles
 	- During COVID-19 pandemic, airlines showed this filter to be effective
 
+![](Pasted%20image%2020250528160319.png)
+
 ## Moist Heat
 
 - Destroys viruses, fungi, and bacteria by degrading nucleic acids, denaturing proteins, and disrupting cell membranes
+- Boiling will not destroy endospores and does not sterilize
+- Can be used to disinfect drinking water
+
+![](Pasted%20image%2020250528160357.png)
+
 
 ## Steam Sterilization
 
@@ -79,6 +122,10 @@ Autoclave
 - Device used in steam sterilization
 - 100C which requires saturated steam under pressure
 - Effective against all types of microorganisms, including spores
+Quality control
+- _Geobacillus stearothermophilus_ strips or colour changing tape
+
+
 
 ## Pasteurization
 
