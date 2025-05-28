@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Synchronization.md",
+                "file": "Cognitive Science/Neuroscience/Exploring the Brain/0. Exploring the Brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Synchronization"
+              "title": "0. Exploring the Brain"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "e8549fff5d1895de",
   "lastOpenFiles": [
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md",
+    "Cognitive Science/Neuroscience/Textbooks.md",
     "10. Synchronization.md",
+    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md",
     "9. Bursting.md",
     "8. Simple Models.md",
     "7. Neuronal Excitability.md",
@@ -219,7 +220,6 @@
     "2. Electrophysiology of Neurons.md",
     "1. Introduction.md",
     "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md",
-    "Cognitive Science/Neuroscience/Textbooks.md",
     "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience",
     "Cognitive Science/Neuroscience/Theoretical Neuroscience",
     "Cognitive Science/Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md",
