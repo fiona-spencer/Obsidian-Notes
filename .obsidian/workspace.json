@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b10f376192681e57",
+        "id": "368a96bba28f30b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbf796893399406",
+            "id": "6ba02f577c90a7df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md",
+                "file": "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Electrophysiology of Neurons"
+              "title": "1. Neuroscience - Past, Present, and Future"
             }
           },
           {
-            "id": "e8549fff5d1895de",
+            "id": "eebb2e0f5c11d39a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D/Model Viewer.md",
+                "file": "Neuroscience/Exploring the Brain/2. Neurons and Gila.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model Viewer"
+              "title": "2. Neurons and Gila"
             }
           }
         ],
@@ -205,44 +205,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e8549fff5d1895de",
+  "active": "eebb2e0f5c11d39a",
   "lastOpenFiles": [
-    "Biology/0. Biology 2 Overview.md",
-    "3D/Model Viewer.md",
+    "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
+    "Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md",
+    "README.md",
+    "Neuroscience/Exploring the Brain/2. Neurons and Gila.md",
+    "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
+    "Neuroscience/Exploring the Brain/0. Exploring the Brain.md",
+    "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md",
+    "Neuroscience/Exploring the Brain/4. The Action Potential.md",
+    "Neuroscience/Exploring the Brain/5. Synaptic Transmission.md",
+    "Neuroscience/Exploring the Brain/6. Neurotransmitter System.md",
+    "Neuroscience/Exploring the Brain/7. The Structure of the Nervous System.md",
+    "Neuroscience/Exploring the Brain/8. The Chemical Senses.md",
+    "Neuroscience/Exploring the Brain/9. The Eye.md",
+    "Neuroscience/Exploring the Brain/10. The Central Visual System.md",
+    "Neuroscience/Exploring the Brain/11. The Auditory and Vestibular Systems.md",
+    "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md",
+    "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md",
+    "Neuroscience/Exploring the Brain/14. Brain Control Movement.md",
+    "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md",
+    "Neuroscience/Exploring the Brain/16. Motivation.md",
+    "Neuroscience/Exploring the Brain/17. Sex and the Brain.md",
+    "Neuroscience/Exploring the Brain/18. Brain Mechanisms of Emotion.md",
+    "Neuroscience/Exploring the Brain/19. Brain Rhythms and Sleep.md",
+    "Neuroscience/Exploring the Brain/20. Language.md",
+    "Neuroscience/Exploring the Brain/21. Attention.md",
+    "Neuroscience/Exploring the Brain/22. Mental Illness.md",
     "3D/glb/3DBenchy.glb",
-    "3D/Benchy.md",
     "3D/glb",
     "3D/stl",
     "3DBenchy.stl",
     "3D/stl/3DBenchy.stl",
-    "Cognitive Science/Neuroscience/Exploring the Brain/0. Exploring the Brain.md",
-    "10. Input/Output.md",
     "Cognitive Science/3DBenchy.stl",
     "3D",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/3. One-Dimensional Systems.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/6. Bifurcations.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/8. Simple Models.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md",
-    "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md",
-    "Cognitive Science/Neuroscience/Textbooks.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/5. Conductance-Based Models and Their Reductions.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/4. Two-Dimensional Systems.md",
-    "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience",
-    "Cognitive Science/Neuroscience/Theoretical Neuroscience",
-    "Cognitive Science/Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md",
+    "Neuroscience/Dynamical Systems in Neuroscience",
+    "Neuroscience/Theoretical Neuroscience",
     "Cognitive Science/Neuroscience/The Brain From Inside Out/Untitled",
-    "Cognitive Science/Neuroscience/Exploring the Brain/Principles of Neural Science/0. Principles of Neural Science.md",
-    "Cognitive Science/0. Cognitive Science.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
     "images/Pasted image 20250526160204.png",
     "images/Pasted image 20250526155819.png",
     "Pasted image 20250526160204.png",

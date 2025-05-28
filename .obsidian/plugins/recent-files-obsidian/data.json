@@ -1,6 +1,126 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Neurons and Gila",
+      "path": "Neuroscience/Exploring the Brain/2. Neurons and Gila.md"
+    },
+    {
+      "basename": "1. Neuroscience - Past, Present, and Future",
+      "path": "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md"
+    },
+    {
+      "basename": "0. Principles of Neural Science",
+      "path": "Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "25. Molecular Mechanisms of Learning and Memory",
+      "path": "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md"
+    },
+    {
+      "basename": "0. Exploring the Brain",
+      "path": "Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
+    },
+    {
+      "basename": "3. The Neuronal Membrane at Rest",
+      "path": "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md"
+    },
+    {
+      "basename": "4. The Action Potential",
+      "path": "Neuroscience/Exploring the Brain/4. The Action Potential.md"
+    },
+    {
+      "basename": "5. Synaptic Transmission",
+      "path": "Neuroscience/Exploring the Brain/5. Synaptic Transmission.md"
+    },
+    {
+      "basename": "6. Neurotransmitter System",
+      "path": "Neuroscience/Exploring the Brain/6. Neurotransmitter System.md"
+    },
+    {
+      "basename": "7. The Structure of the Nervous System",
+      "path": "Neuroscience/Exploring the Brain/7. The Structure of the Nervous System.md"
+    },
+    {
+      "basename": "8. The Chemical Senses",
+      "path": "Neuroscience/Exploring the Brain/8. The Chemical Senses.md"
+    },
+    {
+      "basename": "9. The Eye",
+      "path": "Neuroscience/Exploring the Brain/9. The Eye.md"
+    },
+    {
+      "basename": "10. The Central Visual System",
+      "path": "Neuroscience/Exploring the Brain/10. The Central Visual System.md"
+    },
+    {
+      "basename": "11. The Auditory and Vestibular Systems",
+      "path": "Neuroscience/Exploring the Brain/11. The Auditory and Vestibular Systems.md"
+    },
+    {
+      "basename": "12. The Somatic Sensory System",
+      "path": "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md"
+    },
+    {
+      "basename": "13. Spinal Control of Movement",
+      "path": "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md"
+    },
+    {
+      "basename": "14. Brain Control Movement",
+      "path": "Neuroscience/Exploring the Brain/14. Brain Control Movement.md"
+    },
+    {
+      "basename": "15. Chemical Control of the Brain and Behaviour",
+      "path": "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md"
+    },
+    {
+      "basename": "16. Motivation",
+      "path": "Neuroscience/Exploring the Brain/16. Motivation.md"
+    },
+    {
+      "basename": "17. Sex and the Brain",
+      "path": "Neuroscience/Exploring the Brain/17. Sex and the Brain.md"
+    },
+    {
+      "basename": "18. Brain Mechanisms of Emotion",
+      "path": "Neuroscience/Exploring the Brain/18. Brain Mechanisms of Emotion.md"
+    },
+    {
+      "basename": "19. Brain Rhythms and Sleep",
+      "path": "Neuroscience/Exploring the Brain/19. Brain Rhythms and Sleep.md"
+    },
+    {
+      "basename": "20. Language",
+      "path": "Neuroscience/Exploring the Brain/20. Language.md"
+    },
+    {
+      "basename": "21. Attention",
+      "path": "Neuroscience/Exploring the Brain/21. Attention.md"
+    },
+    {
+      "basename": "22. Mental Illness",
+      "path": "Neuroscience/Exploring the Brain/22. Mental Illness.md"
+    },
+    {
+      "basename": "23. Wiring the Brain",
+      "path": "Neuroscience/Exploring the Brain/23. Wiring the Brain.md"
+    },
+    {
+      "basename": "24. Memory Systems",
+      "path": "Neuroscience/Exploring the Brain/24. Memory Systems.md"
+    },
+    {
+      "basename": "0. Cognitive Science",
+      "path": "Cognitive Science/0. Cognitive Science.md"
+    },
+    {
+      "basename": "2. Electrophysiology of Neurons",
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md"
+    },
+    {
       "basename": "Model Viewer",
       "path": "3D/Model Viewer.md"
     },
@@ -9,72 +129,56 @@
       "path": "Biology/0. Biology 2 Overview.md"
     },
     {
-      "basename": "0. Exploring the Brain",
-      "path": "Cognitive Science/Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
-    },
-    {
       "basename": "3. One-Dimensional Systems",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/3. One-Dimensional Systems.md"
-    },
-    {
-      "basename": "2. Electrophysiology of Neurons",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/3. One-Dimensional Systems.md"
     },
     {
       "basename": "10. Synchronization",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md"
     },
     {
       "basename": "9. Bursting",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md"
     },
     {
       "basename": "7. Neuronal Excitability",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md"
     },
     {
       "basename": "6. Bifurcations",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/6. Bifurcations.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/6. Bifurcations.md"
     },
     {
       "basename": "8. Simple Models",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/8. Simple Models.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/8. Simple Models.md"
     },
     {
       "basename": "1. Introduction",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md"
     },
     {
       "basename": "0. Dynamical Systems in Neuroscience",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md"
     },
     {
       "basename": "0. Theoretical Neuroscience",
-      "path": "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
+      "path": "Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
     },
     {
       "basename": "Textbooks",
-      "path": "Cognitive Science/Neuroscience/Textbooks.md"
+      "path": "Neuroscience/Textbooks.md"
     },
     {
       "basename": "5. Conductance-Based Models and Their Reductions",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/5. Conductance-Based Models and Their Reductions.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/5. Conductance-Based Models and Their Reductions.md"
     },
     {
       "basename": "4. Two-Dimensional Systems",
-      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/4. Two-Dimensional Systems.md"
+      "path": "Neuroscience/Dynamical Systems in Neuroscience/4. Two-Dimensional Systems.md"
     },
     {
       "basename": "0. The Brain From Inside Out",
-      "path": "Cognitive Science/Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md"
-    },
-    {
-      "basename": "0. Principles of Neural Science",
-      "path": "Cognitive Science/Neuroscience/Exploring the Brain/Principles of Neural Science/0. Principles of Neural Science.md"
-    },
-    {
-      "basename": "0. Cognitive Science",
-      "path": "Cognitive Science/0. Cognitive Science.md"
+      "path": "Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md"
     },
     {
       "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
@@ -95,110 +199,6 @@
     {
       "basename": "11. Catabolism - Energy Release and Conservation",
       "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
-    },
-    {
-      "basename": "7. Bacterial and Archaeal Growth",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
-    },
-    {
-      "basename": "6. Viruses and Other Acellular Infectious Agents",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
-    },
-    {
-      "basename": "5. Eukaryotic Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
-    },
-    {
-      "basename": "0. Overview",
-      "path": "BLG151/Microbiology Notes/0. Overview.md"
-    },
-    {
-      "basename": "12. Final Exam Review",
-      "path": "CIND123/Modules/12. Final Exam Review.md"
-    },
-    {
-      "basename": "0. Data Analytics Overview",
-      "path": "CIND123/Modules/0. Data Analytics Overview.md"
-    },
-    {
-      "basename": "13. Exam",
-      "path": "CIND123/Modules/13. Exam.md"
-    },
-    {
-      "basename": "6 - Slide",
-      "path": "BLG151/Microbiology Notes/6 - Slide.md"
-    },
-    {
-      "basename": "5 - Slide",
-      "path": "BLG151/Microbiology Notes/5 - Slide.md"
-    },
-    {
-      "basename": "4 - Slide",
-      "path": "BLG151/Microbiology Notes/4 - Slide.md"
-    },
-    {
-      "basename": "3 - Slide",
-      "path": "BLG151/Microbiology Notes/3 - Slide.md"
-    },
-    {
-      "basename": "2 - Slide",
-      "path": "BLG151/Microbiology Notes/2 - Slide.md"
-    },
-    {
-      "basename": "1 - Slide",
-      "path": "BLG151/Microbiology Notes/1 - Slide.md"
-    },
-    {
-      "basename": "3. Bacterial Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
-    },
-    {
-      "basename": "4. Archaeal Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
-    },
-    {
-      "basename": "2. Microscopy",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
-    },
-    {
-      "basename": "1. The Evolution of Microorganisms and Microbiology",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
-    },
-    {
-      "basename": "25. Viruses",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/25. Viruses.md"
-    },
-    {
-      "basename": "24. Fungi",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/24. Fungi.md"
-    },
-    {
-      "basename": "23. Protists",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/23. Protists.md"
-    },
-    {
-      "basename": "22. Gram-Positive Bacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/22. Gram-Positive Bacteria.md"
-    },
-    {
-      "basename": "21. Proteobacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/21. Proteobacteria.md"
-    },
-    {
-      "basename": "20. Non-proteobacterial Gram-Negative Bacteria",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/20. Non-proteobacterial Gram-Negative Bacteria.md"
-    },
-    {
-      "basename": "19. Archaea",
-      "path": "BLG151/UNIT 5 - The Diversity of Microbial World/19. Archaea.md"
-    },
-    {
-      "basename": "18. Microbial Genomics",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/18. Microbial Genomics.md"
-    },
-    {
-      "basename": "17. Microbial DNA Technologies",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md"
     }
   ],
   "omittedPaths": [],
