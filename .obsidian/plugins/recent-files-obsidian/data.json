@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "10. Synchronization",
+      "path": "10. Synchronization.md"
+    },
+    {
+      "basename": "0. Dynamical Systems in Neuroscience",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md"
+    },
+    {
+      "basename": "9. Bursting",
+      "path": "9. Bursting.md"
+    },
+    {
+      "basename": "8. Simple Models",
+      "path": "8. Simple Models.md"
+    },
+    {
+      "basename": "7. Neuronal Excitability",
+      "path": "7. Neuronal Excitability.md"
+    },
+    {
+      "basename": "6. Bifurcations",
+      "path": "6. Bifurcations.md"
+    },
+    {
+      "basename": "5. Conductance-Based Models and Their Reductions",
+      "path": "5. Conductance-Based Models and Their Reductions.md"
+    },
+    {
+      "basename": "4. Two-Dimensional Systems",
+      "path": "4. Two-Dimensional Systems.md"
+    },
+    {
+      "basename": "3. One-Dimensional Systems",
+      "path": "3. One-Dimensional Systems.md"
+    },
+    {
+      "basename": "2. Electrophysiology of Neurons",
+      "path": "2. Electrophysiology of Neurons.md"
+    },
+    {
+      "basename": "1. Introduction",
+      "path": "1. Introduction.md"
+    },
+    {
       "basename": "0. Theoretical Neuroscience",
       "path": "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "15. Eukaryotic and Archaeal Genome Replication and Expression",
       "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md"
-    },
-    {
-      "basename": "14. Regulation of Cellular Processes",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md"
-    },
-    {
-      "basename": "13. Bacterial Genome Replication and Expression",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md"
-    },
-    {
-      "basename": "2. Describing Data with Numerical Measures",
-      "path": "CIND123/Stats and Probs/2. Describing Data with Numerical Measures.md"
-    },
-    {
-      "basename": "1. Describing Data with Graphs",
-      "path": "CIND123/Stats and Probs/1. Describing Data with Graphs.md"
-    },
-    {
-      "basename": "Output",
-      "path": "10. Input/Output.md"
-    },
-    {
-      "basename": "16. Parallel R",
-      "path": "CIND123/The Art of R Programming/16. Parallel R.md"
-    },
-    {
-      "basename": "15. Interfacing R to Other Languages",
-      "path": "CIND123/The Art of R Programming/15. Interfacing R to Other Languages.md"
-    },
-    {
-      "basename": "14. Performance Enhancement - Speed and Memory",
-      "path": "CIND123/The Art of R Programming/14. Performance Enhancement - Speed and Memory.md"
-    },
-    {
-      "basename": "13. Debugging",
-      "path": "CIND123/The Art of R Programming/13. Debugging.md"
-    },
-    {
-      "basename": "12. Graphics",
-      "path": "CIND123/The Art of R Programming/12. Graphics.md"
-    },
-    {
-      "basename": "11. String Manipulation",
-      "path": "CIND123/The Art of R Programming/11. String Manipulation.md"
     }
   ],
   "omittedPaths": [],
