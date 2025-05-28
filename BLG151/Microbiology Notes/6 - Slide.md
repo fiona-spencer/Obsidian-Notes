@@ -125,7 +125,7 @@ Autoclave
 Quality control
 - _Geobacillus stearothermophilus_ strips or colour changing tape
 
-
+![](Pasted%20image%2020250528160507.png)
 
 ## Pasteurization
 
@@ -143,7 +143,10 @@ Quality control
 
 - Less effective than moist heat sterilization, requiring higher temperatures and longer exposure time
 	- Items subjected to 160 to 170C for 2 to 3 hours
-	- 
+- Oxidizes cell constituents and denatures proteins which causes microbial death
+- Not suitable for heat-sensitive materials (plastic)
+- Does not corrode glassware and metal instruments
+
 ## Dry Heat Incineration
 
 - Bench top incinerators are used to sterilize inoculating loops used in microbiology labs
@@ -151,8 +154,7 @@ Quality control
 ## UV (Ultraviolet) Radiation
 
 - Wavelength of 260 nm
-- Most lethal
-- Cause thymine dimers
+- Most lethal, causes thymine dimers preventing replication and transcription
 - UV limited to surface sterilization because cannot penetrate glass, dirt films, water, and other substances
 - Has been used to treat water
 
@@ -162,33 +164,72 @@ Quality control
 - Dislodges electron from atoms or molecules, producing chemically reactive free radicals
 - Used for sterilization and pasteurization of antibiotics, hormones, sutures, plastic disposable supplies, and food
 
+![](Pasted%20image%2020250528160707.png)
+
 # 8.3 - Microorganisms Are Controlled with Chemical Agengs
 
 ## Chemical Agents and Their Requirements
 
+Disinfection
+- Ideally the biocide is effective against wide variety of infectious agents at low concentrations and in the presence of organic matter
+	- Balance between effectiveness and low toxicity
+Antisepsis
+- Reduce number of pathogens on human tissues to prevent infection
+
 **Phenolics** - organic compound characterized by having a hydroxyl group (-OH) directly bonded to a carbon atom within an aromatic ring
+
+![](Pasted%20image%2020250528160857.png)
+
+- Commonly uses as laboratory and hospital disinfectants
+- Act by denaturing proteins and disrupting cell membranes
+- Tuberculocidal, effective in presence of organic material, and long lasting
+- Lysol, a commercial disinfectant, is a mixture of phenolics
+
 
 **Alcohols** - organic compound containing a hydroxyl group (Oh) bonded to a saturated carbon atom
 
-**Halogens (Iodine)** - 
+
+![](Pasted%20image%2020250528161022.png)
+
+- Among the most widely used disinfectants, antiseptics, and sanitizers
+- Two most common are ethanol and isopropanol
+- Bactericidal, fungicidal, but not sporadical
+- Inactivate some viruses
+- Act by denaturing proteins and dissolving membrane lipids
+
+
+
+**Halogens** - -Iodine
+
+![](Pasted%20image%2020250528161204.png)
 
 - Skin antiseptic
-- Acts by oxidizing cell consituents and iodinating proteins
+- Acts by oxidizing cell constituents and iodinating proteins
+- At high concentrations may kill endospores
+- May cause skin damage, staining, and allergies
+- Iodophor
+	- Iodine complexed with organic matter
+	- Released slowly to minimize skin burns
 
 **Halogens (Chlorine)** - 
 
 - Acts by oxidizing cellular materials and destroys vegetative bacteria and fungi
 - Important in disinfection of water supplies, swimming pools, and used in dairy and food industries
-- Chlorine is a household disinfectant as well
+- Chlorine is a household disinfectant since its cheap and effective
 
 
-**Metals** - 
-- 
-
+**Metals**
+- Ions of mercury, silver, arsenic, zinc, and copper were used for many years as germicides
+	- Silver and copper only used not
+- Silver sulfadiazine is used topically on burns
+- Copper sulfate is an effective algicide in lakes and swimming pools
+- Act by inactivating protiens, often via sulfhydryl groups
 
 
 ## Quaternary Ammonium Compounds
 - Detergents that have a broad spectrum in antimicrobial activity and are effective disinfectant
+
+![](Pasted%20image%2020250528161459.png)
 
 **Detergents** - amphipathic organic cleansing agents
 
@@ -196,28 +237,42 @@ Quality control
 - Kill most bacteria but not _M. tuberculosis_ or endospores
 - Stable and nontoxic, but inactivated by hard water and soap
 
-**Aldehydes**
+**Aldehydes** - organic compound containing the group (-CHO), formed by the oxidation of alcohols
+- Typically aldehydes include methanal (formaldehyde) and ethanal (acetaldehyde)
+
+![](Pasted%20image%2020250528161600.png)
+
+- Used agents are formaldehyde and glutaraldehyde
+- Highly reactive molecules that act by inactivating nucleic acids and proteins
+- Sporadical and can be used as chemical sterilants
 
 ## Effects of Glutaraldehyde
 
-- Cross-linking
+- Cross-linking agents like glutataldehyde are called "fixatives" because they effectively stabilize tissue and cell structures by creating chemical bonds that prevent degradation and preserve the cellular architecture for further study
+
+![](Pasted%20image%2020250528161813.png)
 
 ## Sterilizing Gases
 
 - Used to sterilize heat-sensitive materials
-- Microbicidal and sporicidal
+- Microbicidal and sporadical
 - Ethylene oxide sterilization is carried out in equipment resembling an autoclave
 - Vaporized hydrogen peroxide can also be used
 
+![](Pasted%20image%2020250528161831.png)
+
+![](Pasted%20image%2020250528161849.png)
 
 # 8.4 - Anitmicrobial Agents Must Be Evaluated for Effectiveness
 
 ## Evaluation of Antimicrobial Agent Effectiveness
 
-- Complex process regulated by US and Canadian federal agencies
-- Environmental Protection Agency regulated disinfectants
-- Food and Drug Administration regulated agents used on humans and animals
-- Canadian Food Inpection Agency (CFIA) 
+- Complex process regulated by US and Canadian federal agencies:
+	- Environmental Protection Agency regulated disinfectants
+	- Food and Drug Administration regulated agents used on humans and animals
+	- Canadian Food Inspection Agency (CFIA)
+	- Health Canada
+- Establish guidelines under which these agents are used and agent effectiveness is measures
 
 ## Conditions Influencing the Effectiveness of Antimicrobial Agent Activity
 
@@ -229,8 +284,13 @@ Concentration or intensity of an antimicrobial agent
 - Usually higher concentration kill more rapidly
 - Not a linear relationship, small changes can have a large effect
 Contact Time
+- Longer the exposure, the most killed
 Temperature
+- Higher temperature enhance chemical activity
 Local environment
+- Population to be controlled is not isolated but surrounded by environmental factors that can either prevent or aid in destruction
+	- pH, viscosity, and concentration of organic matter
+	- Organisms in biofilms are less susceptible to many antimicrobial agents
 ## Efficiency Evaluation of Chemical Agents
 
 Phenol coefficient test
