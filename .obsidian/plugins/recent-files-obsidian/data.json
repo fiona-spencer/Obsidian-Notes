@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "7 - Slide",
+      "path": "BLG151/Microbiology Notes/7 - Slide.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "Kanban.md"
+    },
+    {
+      "basename": "13. Spinal Control of Movement",
+      "path": "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md"
+    },
+    {
       "basename": "12. The Somatic Sensory System",
       "path": "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md"
     },
@@ -9,16 +21,8 @@
       "path": "Neuroscience/Exploring the Brain/11. The Auditory and Vestibular Systems.md"
     },
     {
-      "basename": "7 - Slide",
-      "path": "BLG151/Microbiology Notes/7 - Slide.md"
-    },
-    {
       "basename": "10. The Central Visual System",
       "path": "Neuroscience/Exploring the Brain/10. The Central Visual System.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "C",
@@ -83,10 +87,6 @@
     {
       "basename": "0. Exploring the Brain",
       "path": "Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
-    },
-    {
-      "basename": "13. Spinal Control of Movement",
-      "path": "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md"
     },
     {
       "basename": "14. Brain Control Movement",
@@ -195,10 +195,6 @@
     {
       "basename": "4. Two-Dimensional Systems",
       "path": "Neuroscience/Dynamical Systems in Neuroscience/4. Two-Dimensional Systems.md"
-    },
-    {
-      "basename": "0. The Brain From Inside Out",
-      "path": "Neuroscience/The Brain From Inside Out/0. The Brain From Inside Out.md"
     }
   ],
   "omittedPaths": [],
