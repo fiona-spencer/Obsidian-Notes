@@ -1,60 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Model Viewer",
+      "path": "3D/Model Viewer.md"
+    },
+    {
+      "basename": "0. Biology 2 Overview",
+      "path": "Biology/0. Biology 2 Overview.md"
+    },
+    {
       "basename": "0. Exploring the Brain",
       "path": "Cognitive Science/Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
     },
     {
-      "basename": "Textbooks",
-      "path": "Cognitive Science/Neuroscience/Textbooks.md"
+      "basename": "3. One-Dimensional Systems",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/3. One-Dimensional Systems.md"
+    },
+    {
+      "basename": "2. Electrophysiology of Neurons",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md"
     },
     {
       "basename": "10. Synchronization",
-      "path": "10. Synchronization.md"
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md"
+    },
+    {
+      "basename": "9. Bursting",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md"
+    },
+    {
+      "basename": "7. Neuronal Excitability",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md"
+    },
+    {
+      "basename": "6. Bifurcations",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/6. Bifurcations.md"
+    },
+    {
+      "basename": "8. Simple Models",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/8. Simple Models.md"
+    },
+    {
+      "basename": "1. Introduction",
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md"
     },
     {
       "basename": "0. Dynamical Systems in Neuroscience",
       "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md"
     },
     {
-      "basename": "9. Bursting",
-      "path": "9. Bursting.md"
+      "basename": "0. Theoretical Neuroscience",
+      "path": "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
     },
     {
-      "basename": "8. Simple Models",
-      "path": "8. Simple Models.md"
-    },
-    {
-      "basename": "7. Neuronal Excitability",
-      "path": "7. Neuronal Excitability.md"
-    },
-    {
-      "basename": "6. Bifurcations",
-      "path": "6. Bifurcations.md"
+      "basename": "Textbooks",
+      "path": "Cognitive Science/Neuroscience/Textbooks.md"
     },
     {
       "basename": "5. Conductance-Based Models and Their Reductions",
-      "path": "5. Conductance-Based Models and Their Reductions.md"
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/5. Conductance-Based Models and Their Reductions.md"
     },
     {
       "basename": "4. Two-Dimensional Systems",
-      "path": "4. Two-Dimensional Systems.md"
-    },
-    {
-      "basename": "3. One-Dimensional Systems",
-      "path": "3. One-Dimensional Systems.md"
-    },
-    {
-      "basename": "2. Electrophysiology of Neurons",
-      "path": "2. Electrophysiology of Neurons.md"
-    },
-    {
-      "basename": "1. Introduction",
-      "path": "1. Introduction.md"
-    },
-    {
-      "basename": "0. Theoretical Neuroscience",
-      "path": "Cognitive Science/Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
+      "path": "Cognitive Science/Neuroscience/Dynamical Systems in Neuroscience/4. Two-Dimensional Systems.md"
     },
     {
       "basename": "0. The Brain From Inside Out",
@@ -62,7 +70,7 @@
     },
     {
       "basename": "0. Principles of Neural Science",
-      "path": "Cognitive Science/Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md"
+      "path": "Cognitive Science/Neuroscience/Exploring the Brain/Principles of Neural Science/0. Principles of Neural Science.md"
     },
     {
       "basename": "0. Cognitive Science",
@@ -191,14 +199,6 @@
     {
       "basename": "17. Microbial DNA Technologies",
       "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/17. Microbial DNA Technologies.md"
-    },
-    {
-      "basename": "16. Mechanisms of Genetic Variation",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/16. Mechanisms of Genetic Variation.md"
-    },
-    {
-      "basename": "15. Eukaryotic and Archaeal Genome Replication and Expression",
-      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/15. Eukaryotic and Archaeal Genome Replication and Expression.md"
     }
   ],
   "omittedPaths": [],
