@@ -176,7 +176,7 @@ Shape and size
 ## The Structure of Viruses
 
 **Virion** - mature virus particle
-- Virons range in size
+- Virions range in size
 - 20 nm in diameter
 - Size of rod-shaped bacteria cell (1.5 x 0m5 $\micro$m)
 

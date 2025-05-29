@@ -40,8 +40,23 @@
               "icon": "lucide-trello",
               "title": "Kanban"
             }
+          },
+          {
+            "id": "2b04186260229420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroscience/Exploring the Brain/18. Brain Mechanisms of Emotion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18. Brain Mechanisms of Emotion"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,14 +227,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0fa2ea76872a798e",
+  "active": "2b04186260229420",
   "lastOpenFiles": [
-    "Kanban.md",
-    "Pasted image 20250528194106.png",
+    "Neuroscience/Exploring the Brain/17. Sex and the Brain.md",
+    "Neuroscience/Exploring the Brain/16. Motivation.md",
+    "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md",
+    "Neuroscience/Exploring the Brain/14. Brain Control Movement.md",
+    "BLG151/Microbiology Notes/7 - Slide.md",
+    "images/Pasted image 20250528194106.png",
     "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md",
     "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md",
+    "Kanban.md",
+    "Pasted image 20250528194106.png",
     "Neuroscience/Exploring the Brain/11. The Auditory and Vestibular Systems.md",
-    "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/10. The Central Visual System.md",
     "C.md",
     "Neuroscience/Exploring the Brain/9. The Eye.md",
@@ -236,7 +256,6 @@
     "Pasted image 20250528163055.png",
     "images/Pasted image 20250528162547.png",
     "Pasted image 20250528162547.png",
-    "images/Pasted image 20250528161849.png",
     "Neuroscience/Exploring the Brain/5. Synaptic Transmission.md",
     "Neuroscience/Exploring the Brain/4. The Action Potential.md",
     "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md",
@@ -246,8 +265,6 @@
     "README.md",
     "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
     "Neuroscience/Exploring the Brain/0. Exploring the Brain.md",
-    "Neuroscience/Exploring the Brain/14. Brain Control Movement.md",
-    "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md",
     "3D/glb/3DBenchy.glb",
     "3D/glb",
     "3D/stl",
