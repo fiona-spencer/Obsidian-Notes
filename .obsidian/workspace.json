@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -207,17 +208,17 @@
   },
   "active": "2b04186260229420",
   "lastOpenFiles": [
+    "images/Pasted image 20250531123333.png",
+    "images/Pasted image 20250531123310.png",
+    "images/Pasted image 20250531122803.png",
+    "images/Pasted image 20250531122752.png",
+    "Pasted image 20250531123333.png",
+    "Pasted image 20250531123310.png",
+    "Pasted image 20250531122803.png",
+    "Pasted image 20250531122752.png",
     "images/Pasted image 20250531010127.png",
     "Pasted image 20250531010127.png",
     "images/Pasted image 20250531005627.png",
-    "Pasted image 20250531005627.png",
-    "images/Pasted image 20250531004907.png",
-    "images/Pasted image 20250531004622.png",
-    "images/Pasted image 20250531004559.png",
-    "images/Pasted image 20250531004321.png",
-    "Pasted image 20250531004907.png",
-    "Pasted image 20250531004622.png",
-    "Pasted image 20250531004559.png",
     "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
     "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
     "Neuroscience/Exploring the Brain/24. Memory Systems.md",
