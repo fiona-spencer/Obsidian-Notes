@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
+                "file": "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Neuroscience - Past, Present, and Future"
+              "title": "3. The Neuronal Membrane at Rest"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroscience/Exploring the Brain/24. Memory Systems.md",
+                "file": "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. Memory Systems"
+              "title": "25. Molecular Mechanisms of Learning and Memory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,8 +206,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a0f2bda3b9cd1b01",
+  "active": "2b04186260229420",
   "lastOpenFiles": [
+    "Pasted image 20250531004321.png",
+    "images/Pasted image 20250531001702.png",
+    "Pasted image 20250531001702.png",
+    "images/Pasted image 20250531000421.png",
+    "Pasted image 20250531000421.png",
+    "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
+    "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
+    "Neuroscience/Exploring the Brain/24. Memory Systems.md",
     "Neuroscience/Exploring the Brain/23. Wiring the Brain.md",
     "Neuroscience/Exploring the Brain/22. Mental Illness.md",
     "Neuroscience/Exploring the Brain/21. Attention.md",
@@ -218,17 +225,12 @@
     "Neuroscience/Exploring the Brain/17. Sex and the Brain.md",
     "Neuroscience/Exploring the Brain/16. Motivation.md",
     "Neuroscience/Exploring the Brain/14. Brain Control Movement.md",
-    "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
     "images/Pasted image 20250529141557.png",
     "images/Pasted image 20250529141129.png",
     "images/Pasted image 20250529141102.png",
     "Pasted image 20250529141557.png",
     "Pasted image 20250529141129.png",
     "Pasted image 20250529141102.png",
-    "images/Pasted image 20250529140439.png",
-    "images/Pasted image 20250529140324.png",
-    "images/Pasted image 20250529140303.png",
-    "Pasted image 20250529140439.png",
     "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md",
     "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md",
@@ -242,9 +244,6 @@
     "Neuroscience/Exploring the Brain/7. The Structure of the Nervous System.md",
     "Neuroscience/Exploring the Brain/6. Neurotransmitter System.md",
     "BLG151/Microbiology Notes/6 - Slide.md",
-    "BLG151/Microbiology Notes/5 - Slide.md",
-    "Neuroscience/Exploring the Brain/5. Synaptic Transmission.md",
-    "Neuroscience/Exploring the Brain/4. The Action Potential.md",
     "3D/glb/3DBenchy.glb",
     "3D/glb",
     "3D/stl",
