@@ -11,9 +11,14 @@
             "id": "0b379c00d65fbae9",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "BLG151/Microbiology Notes/8 - Slide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 - Slide"
             }
           }
         ]
@@ -189,18 +194,22 @@
   },
   "active": "0b379c00d65fbae9",
   "lastOpenFiles": [
+    "images/Pasted image 20250602184222.png",
+    "Pasted image 20250602184222.png",
+    "images/Pasted image 20250602184028.png",
+    "images/Pasted image 20250602183726.png",
+    "images/Pasted image 20250602183532.png",
+    "Pasted image 20250602184028.png",
+    "Pasted image 20250602183726.png",
+    "Pasted image 20250602183532.png",
+    "images/Pasted image 20250602183119.png",
+    "images/Pasted image 20250602182918.png",
+    "images/Pasted image 20250602182739.png",
+    "Private/3D Print Website.md",
+    "BLG151/Microbiology Notes/8 - Slide.md",
+    "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
     "Neuroscience/Exploring the Brain/4. The Action Potential.md",
-    "images/Pasted image 20250531154333.png",
-    "images/Pasted image 20250531154042.png",
-    "Pasted image 20250531154333.png",
-    "Pasted image 20250531154042.png",
-    "images/Pasted image 20250531153629.png",
-    "images/Pasted image 20250531153619.png",
-    "Pasted image 20250531153629.png",
-    "Pasted image 20250531153619.png",
-    "images/Pasted image 20250531152812.png",
-    "Pasted image 20250531152812.png",
     "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md",
     "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md",
     "Neuroscience/Exploring the Brain/24. Memory Systems.md",
@@ -214,7 +223,6 @@
     "Neuroscience/Exploring the Brain/16. Motivation.md",
     "Neuroscience/Exploring the Brain/14. Brain Control Movement.md",
     "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md",
-    "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md",
     "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md",
     "Kanban.md",
@@ -222,9 +230,6 @@
     "Neuroscience/Exploring the Brain/10. The Central Visual System.md",
     "C.md",
     "Neuroscience/Exploring the Brain/9. The Eye.md",
-    "Neuroscience/Exploring the Brain/8. The Chemical Senses.md",
-    "Neuroscience/Exploring the Brain/7. The Structure of the Nervous System.md",
-    "Neuroscience/Exploring the Brain/6. Neurotransmitter System.md",
     "3D/glb/3DBenchy.glb",
     "3D/glb",
     "3D/stl",
