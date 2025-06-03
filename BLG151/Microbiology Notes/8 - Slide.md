@@ -454,22 +454,95 @@ Aminoacyl-rRNA synthetases
 1. Translational
 2. Exit domain
 
-- Both subunits contribute
+- Both subunits contribute to the translational domain (interacts with tRNAs and is responsible for forming peptide bonds)
+
+
+- Site of protein synthesis
+
+A (acceptor) site
+- Received tRNA carrying amino acid to be added to the protein being synthesized
+
+
 ## Role of Ribosomal RNA in Translation
+
+- Contributes to ribosomal structure
+- 16S rRNA
+	- Needed for initiation of translation
+	- Binds to Shine-Dalgarno sequence (ribosome binding site)
+	- Binds to 3'CCA end of aminoacyl-tRNA
+- 23A rRNA
+	- Ribozyme that catalyzes peptide bond formation
+
 ## Initiation of Protein Synthesis
+
+- Involves ribosomes subunits and numerous additional molecules
+- _N_-formylmethionine-tRNA, bacterial initiator tRNA
+	- Archaea and eukaryotes use methionine-tRNA
+- 30S initiation complex
+	- Initiator tRNA, mRNA and the 30S ribosomal subunit
+- Two initiation factors are involved (IF-1 and IF-2)
+	- Required for formation of the initiation complex
+	- GTP catalyzes
+
+
+- The initiator codon binds 16S rRNA in 30S subunit
+- The Shine-Dalgarno sequence of mRNA is aligned with 16S rRNA and help of IF-1 and IF-2
+	- Start codon (AUG of GUG) specifically binds with the fMet-tRNA anticodon
+	- The start codon will be translated first
+
+- Large subunits binds to the 30S initiation complex and the GTP bound to IF-2 is hydrolyzed
+
 ## Elongation of the Polypeptide Chain
+
+- Sequential addition of amino acids to growing peptide
+
+Consists of 3 phase
+1) Aminoacyl-tRNA binding
+2) Transpeptidation reaction
+3) Translocation
+
+- Involved several elongation factors (EFs)
+
+- Each charges tRNA enters A (Aminoacyll acceptor) site
+- Peptide bond is formed (transpeptidation reaction) between the amino acid held in P site (the P site binds initiator tRNA or tRNA attached to growing polypeptide) site and that in the A site
+
 ## Transpeptidation Reaction
+
+- Ca
+
 ## Final Phase in Elongation Cycle - Translocation
+
+- 3 simultaneous events
+	- Peptidyl-tR N A moves from A site to P site
+	- Ribosome moves down one codon so that new codon is positioned in A site
+	- Empty tRNA moves from P site to E site
+- Requires GTP hydrolysis
+
 ## Termination of Protein Synthesis
-## Insertion of Selenocysteine and Pyroolysine
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
+
+- Takes place at any one of three codons
+	- Nonsense (stop) codons - UAA, UAG, and UGA
+- Release factors (RFs)
+	- Aid in recognition of stop codons
+	- No cognate rRNA for a stop codon, so the ribosome halts
+- Peptidyl transferase hydrolyzes the bond linking the polypeptide to the tRNA
+- Polypeptide and empty tRNA are released
+
+## Insertion of Selenocysteine and Pyrrolysine
+
+Selenocysteine
+- Synthesized from serine after is has been attached to tRNA
+- Recognized by a specific elongation factor
+- Incorporated at UGA stop codon with cis-acting seleocysteine insertion sequence elements nearby
+
+Pyrrolysine
+- Synthesized from lysine before attached to tRNA
+- Incorporated at UAG stop codon with pyrrolysine insertion sequence nearby
+
+## Translation Accuracy
+
+- Large energy expenditure helps ensure fidelity
+- Fidelity checked before and after formation of the peptide bond
+- Conformational changes happen when a cognate tRNA is placed in the ribosome
+- Release factors recognize if an incorrect amino acid is incorporated into a peptide
+- Aberrant peptide is released from the tRNA and ribosome, and translation is terminated
