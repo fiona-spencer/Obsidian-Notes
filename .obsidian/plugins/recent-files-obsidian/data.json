@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "9 - Slide",
+      "path": "BLG151/Microbiology Notes/9 - Slide.md"
+    },
+    {
       "basename": "8 - Slide",
       "path": "BLG151/Microbiology Notes/8 - Slide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Textbooks",
       "path": "Neuroscience/Textbooks.md"
-    },
-    {
-      "basename": "5. Conductance-Based Models and Their Reductions",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/5. Conductance-Based Models and Their Reductions.md"
     }
   ],
   "omittedPaths": [],

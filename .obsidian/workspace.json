@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLG151/Microbiology Notes/8 - Slide.md",
+                "file": "BLG151/Microbiology Notes/9 - Slide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Slide"
+              "title": "9 - Slide"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -193,6 +194,8 @@
   },
   "active": "0b379c00d65fbae9",
   "lastOpenFiles": [
+    "BLG151/Microbiology Notes/8 - Slide.md",
+    "BLG151/Microbiology Notes/9 - Slide.md",
     "Pasted image 20250604161547.png",
     "Pasted image 20250604161352.png",
     "images/Pasted image 20250602194153.png",
@@ -203,9 +206,7 @@
     "Pasted image 20250602190302.png",
     "Pasted image 20250602190247.png",
     "Pasted image 20250602185919.png",
-    "images/Pasted image 20250602184222.png",
     "Private/3D Print Website.md",
-    "BLG151/Microbiology Notes/8 - Slide.md",
     "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
     "Neuroscience/Exploring the Brain/4. The Action Potential.md",
