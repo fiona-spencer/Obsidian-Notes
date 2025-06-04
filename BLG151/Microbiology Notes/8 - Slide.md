@@ -11,6 +11,15 @@
 
 ## DNA Structure
 
+Purine
+1. Adenine
+2. Guanine
+Pyrimidine
+3. Cytosine
+4. Thymine
+
+
+
 ![](Pasted%20image%2020250602182035.png)
 
 - Polymer (chain of monomer) of DNA
@@ -28,8 +37,9 @@
 	- Guanine (purine) and cytosine (pyrimidine) pair by 3 hydrogen bond
 - Major and minor grooves form when the 2 strands twist around each other
 
-A -> T
-C -> G
+A -> T = 2 hydrogen bonds
+C -> G = 3 hydrogen bonds
+
 
 ![](Pasted%20image%2020250602182349.png)
 
@@ -54,6 +64,7 @@ C -> G
 
 - Polymer of ribonucleotide
 - Base (A, G, C, and U)
+	- Has Uracil instead of thymine
 - Sugar ribose
 - Phosphodiester bonds
 - Most RNA molecules single stranded, some double stranded
@@ -131,6 +142,7 @@ Quaternary structure - 2 or more polypeptide strands interacting
 
 ![](Pasted%20image%2020250602184028.png)
 
+
 ## DNA Replication Initiation
 
 **Replisome** - 12 proteins involved in replication
@@ -160,12 +172,18 @@ Polymerases require:
 
 - dNTPs are linked by phosphodiester bonds between the hydroxyl group at the 3' end of the growing strand and the phosphate closest to the 5'C of the incoming dNTP (alpha phosphate)
 	- DNA polymerase catalyze DNA synthesis in the 5; to 3' direction
-- dNTPs
+- dNTPs serve as DNA polymerase substrates while deoxymucleoside monophosphate are incorporation into the growing chain
+- The energy needed for bond formation is provided by the release of the terminal two phosphates from the nucleotide that is added
+
+![](Pasted%20image%2020250604161352.png)
 
 ## Replication Machinery - The Polymerase Pieces
 
 - _E. coli_ has 5 DNA polymerases with polymerase III playing the major role in replication
 - DNA polymerase III holoenzyme - complex of 3 core enzymes (each composed of 3 different proteins)
+
+
+![](Pasted%20image%2020250604161547.png)
 
 ## DNA Polymerase Reaction
 
