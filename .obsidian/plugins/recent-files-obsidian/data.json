@@ -5,6 +5,18 @@
       "path": "BLG151/Microbiology Notes/9 - Slide.md"
     },
     {
+      "basename": "0. Probs and Stats",
+      "path": "CIND123/Stats and Probs/0. Probs and Stats.md"
+    },
+    {
+      "basename": "0. The Art of R Programming",
+      "path": "CIND123/The Art of R Programming/0. The Art of R Programming.md"
+    },
+    {
+      "basename": "1. Getting Started",
+      "path": "CIND123/The Art of R Programming/1. Getting Started.md"
+    },
+    {
       "basename": "8 - Slide",
       "path": "BLG151/Microbiology Notes/8 - Slide.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1. Introduction",
       "path": "Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md"
-    },
-    {
-      "basename": "0. Dynamical Systems in Neuroscience",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/0. Dynamical Systems in Neuroscience.md"
-    },
-    {
-      "basename": "0. Theoretical Neuroscience",
-      "path": "Neuroscience/Theoretical Neuroscience/0. Theoretical Neuroscience.md"
-    },
-    {
-      "basename": "Textbooks",
-      "path": "Neuroscience/Textbooks.md"
     }
   ],
   "omittedPaths": [],
