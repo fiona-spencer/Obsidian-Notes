@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-06-09 14.03.38.excalidraw",
+      "path": "Excalidraw/Drawing 2025-06-09 14.03.38.excalidraw.md"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawings/test.excalidraw.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "9 - Slide",
       "path": "BLG151/Microbiology Notes/9 - Slide.md"
     },
@@ -149,10 +165,6 @@
       "path": "Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "0. Exploring the Brain",
       "path": "Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "7. Neuronal Excitability",
       "path": "Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md"
-    },
-    {
-      "basename": "6. Bifurcations",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/6. Bifurcations.md"
-    },
-    {
-      "basename": "8. Simple Models",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/8. Simple Models.md"
-    },
-    {
-      "basename": "1. Introduction",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/1. Introduction.md"
     }
   ],
   "omittedPaths": [],
