@@ -167,4 +167,4 @@ Glucose catabolism (3 Steps)
 
 ## Glycolytic Pathways
 
-- Pathways to catabolize glucose to pyvu
+- Pathways to catabolize glucose to
