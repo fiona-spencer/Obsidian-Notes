@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "437b46005461d870",
@@ -194,6 +195,12 @@
   },
   "active": "bae27383e10d8921",
   "lastOpenFiles": [
+    "Pasted image 20250610134715.png",
+    "Pasted image 20250610134619.png",
+    "Pasted image 20250610134423.png",
+    "Pasted image 20250610132914.png",
+    "Pasted image 20250610132735.png",
+    "Pasted image 20250610132717.png",
     "BLG151/Microbiology Notes/9 - Slide.md",
     "BLG151/Microbiology Notes/10 - Slide.md",
     "Untitled.md",
@@ -212,11 +219,6 @@
     "Pasted image 20250604161547.png",
     "Pasted image 20250604161352.png",
     "images/Pasted image 20250602194153.png",
-    "Pasted image 20250602194153.png",
-    "images/Pasted image 20250602190302.png",
-    "images/Pasted image 20250602190247.png",
-    "images/Pasted image 20250602185919.png",
-    "Pasted image 20250602190302.png",
     "Private/3D Print Website.md",
     "BLG151/Microbiology Notes/7 - Slide.md",
     "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md",
@@ -231,7 +233,6 @@
     "Neuroscience/Exploring the Brain/19. Brain Rhythms and Sleep.md",
     "Neuroscience/Exploring the Brain/18. Brain Mechanisms of Emotion.md",
     "Neuroscience/Exploring the Brain/17. Sex and the Brain.md",
-    "Neuroscience/Exploring the Brain/16. Motivation.md",
     "3D/glb/3DBenchy.glb",
     "3D/glb",
     "3D/stl",
