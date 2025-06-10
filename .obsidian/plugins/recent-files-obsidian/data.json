@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 - Slide",
+      "path": "BLG151/Microbiology Notes/10 - Slide.md"
+    },
+    {
+      "basename": "9 - Slide",
+      "path": "BLG151/Microbiology Notes/9 - Slide.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "9 - Slide",
-      "path": "BLG151/Microbiology Notes/9 - Slide.md"
     },
     {
       "basename": "0. Probs and Stats",
@@ -195,10 +199,6 @@
     {
       "basename": "9. Bursting",
       "path": "Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md"
-    },
-    {
-      "basename": "7. Neuronal Excitability",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/7. Neuronal Excitability.md"
     }
   ],
   "omittedPaths": [],
