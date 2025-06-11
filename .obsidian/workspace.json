@@ -35,7 +35,8 @@
               "title": "10 - Slide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +208,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7837317e004dcd30",
+  "active": "bae27383e10d8921",
   "lastOpenFiles": [
+    "BLG151/Microbiology Notes/9 - Slide.md",
     "BLG151/Microbiology Notes/10 - Slide.md",
     "Pasted image 20250610134715.png",
     "Pasted image 20250610134619.png",
@@ -216,7 +218,6 @@
     "Pasted image 20250610132914.png",
     "Pasted image 20250610132735.png",
     "Pasted image 20250610132717.png",
-    "BLG151/Microbiology Notes/9 - Slide.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-06-09 14.03.38.excalidraw.md",
     "Drawings/test.excalidraw.md",

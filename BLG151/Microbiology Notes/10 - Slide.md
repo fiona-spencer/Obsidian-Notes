@@ -197,30 +197,190 @@ Glucose catabolism (3 Steps)
 
 ## The Entner-Doudoroff Pathway
 
+- Glucose + ATP + NADP+ -> pyruvate + glyceraldehyde 3-phosphate + ADP + NADPH + H+
+- Replaces the 6-carbon phase of the Embder Meyerhof pathway
+- Net yield per glucose molecules
+	- 1 ATP
+	- 1 NADPH
+	- 1 NADH
+
 ## Details of Pentose Phosphate Pathway
+
+- Also called hexose monophosphate pathway
+- Can operate at same time as glycolytic pathway of Entner-Doudoroff pathway
+- Can operate aerobically or anaerobically
+- An amphibolic pathway
+
+
+## Amphibolic Denfition
+- Amphibolic describes a metabolic pathway that functions in both catabolisms (breaking down molecules) and anabolism (building molecules)
+
 ## Pyruvate Dehydrogenase Complex
+
+- 1 glucose -> 2 pyruvate -> 3CO
+- In the glycolytic pathways, glucose is oxidized to pyruvate
+- Pyruvate is then oxized to 3CO
+- Multienzyme complex that oxidizes and cleaves pyruvate to form on NADH, 1 CO_2, and acetyl coenzyme A
+- Acetyl-CoA is an energy rich molecules because the bond that links acetic acid to coenzyme A has a large negative change in free energy when hydrolyzed
+
 ## The Tricarboxylic Acid Cycle
+
+- Also called citric acid cycle and Krebs cycle
+- Cycle must turn twice to completely oxidize one molecule of glucose
+- Common in aerobic bacteria, archaea, free-living protists, and fungi
+- Major role is a source of precursor metabolites used in biosynthesis
+
 ## Summary TCA Cycle
+
+- For each acetyl-CoA molecule oxidized, TCA cycle generates
+- 2 molecules of CO_2
+- 3 molecules of NADH
+- 1 FADH_2
+- 1 GTP
+
 # 11.4 - Electron Transport and Oxidative Phosphorylation Generate the Most ATP
 ## Electron Transport and Oxidative Phosphorylation
+
+- Only 4 ATP molecules synthesized directly from oxidation of glucose to CO_2
+- Most ATP made when NADH and FADH_2 (formed as glucose degraded) are oxidized in electron transport chain (ETC)
+
 ## Electron Transport Chains
+
+- The mitochondrial electron transport chain (ETC) = a series of e- carries, operating together to transfer e- from NADH and FADH_2 to a terminal e- acceptor, O_2
+- Electrons flow from carriers with more negative reduction potential (E_0) to carries with most positive E_0
+
 ## Electron Transport Chain - Redox Pairs
+
+- Each carrier is reduced and then reoxidized
+- The different in reduction potential between electron carries, NADH and O_2 is large, resulting in release of a great deal of energy
+
 ## Electron Transport Chain Molecules
+
+- 2 kinds of electron carrier proteins
+	- Flavin (Flavin monomucleotide)
+		- Redox active
+		- Flavin is the part of the molecule reduced when electron is accepted and then oxidized when that electron is donated
+	- Quinones (coenzyme Q)
+		- No prosthetic group
+		- Can directly be reduced and oxidized
+
 ## Bacterial and Archaeal ETC's Unique
+
+- Flexible - electron carriers can be replaced or different terminal oxidases may be used
+- Located in plasma membrane
+- Branched - electrons may enter the chain at several points and leave through several terminal oxidases
+- Shorter - fewer proteins transported across the membrane and therefore less energy
+
 ## Summary
+
+- The mitochondrial ETC - a series of e- carriers, operating together to transfer e- from NADH and FADH_2 to a TEA O_2
+- e- flow from carriers with more negative reduction potentials (E_0) to carriers with more positive E_0
+- Each carriers is reduced and then reoxidized
+- The difference in reduction potentials between NADH and O_2 is large, resulting in release of a great deal of energy
 ## _Paracoccus denitrificans_
+
+- Gram-negative, facultative anaerobe, soil bacterium
+- Extremely versatile metabolically
+- Under oxic conditions, uses aerobic respiration
+- Similar electron carries and transport mechanisms as mitochondria
+- Protons transported to perimlasmic space
+- Can use one-carbon molecule (that is methanol) instead of glucose as a source of energy and electrons
 ## _Escherichia coli_
 
+- Two branches
+	- Oxygen available
+		- Cytochrome _bo_ used
+	- Oxygen limited
+		- Cytochrome _bd_ used
+		- Higher affinity for oxygen
+		- Less efficient and moves fewer proteins into the periplasmic space
+
+
 ## Chemiosmotic Hypothesis
-## Proton Pump
+
+**Oxidative phosphorylation** - process by which ATP is synthesized using energy from electron transport, which in turn is driven by the oxidation of a chemical energy source and is best explained by the chemiosmotic hypothesis
+
+- Protons move outward from the mitochondrial matrix (or plasma membrane from cytoplasm to periplasmic space in bacteria) as electrons move down the ETC
+- Formation of a proton concentration gradient and charge gradient (chemical and electrical potential energy)
+- Combined chemical and electrical potential different
+- Proton motive force (PMF), needed for ATP synthesis by ATP synthase (inner surface of the plasma membrane in bacterial cells)
+- PMF performs work when protons flow back across the membrane down the concentration and charge gradient into the cytoplasm and this is exergonic, phosphorylation of ADP, to ATP
+- Movement of protons is not clearly understood, in some bacteria protons are actively "pumped" across the membrane
+
 ## The Central Role of Proton Motive Force
+
+- PMF drive ATP synthesis and has other roles in the cell as well
+- Diffusion of protons back across membrane (down gradient) drives formation of ATP
+- ATP synthase (also called ATPases because they can hydrolyze ATP) uses PMF down gradient to catalyze ATP synthesis
+	- Functions like rotary engine (conformational changes)
+	- ATP is synthesized from ADP and P_i (ATP synthase phosphorylates ADP)
+- The proton expulsion during e- transport results in the formation of a concentration gradient of protons and a charge gradient
+- The combined chemical and electrical potential difference make up the proton motive force (PMF)
+
 ## Protom Motive Force (PMF) Summary
+
+- PMF performs work when protons flow back across the membrane, down the concentration gradient, and into the cytoplasm
+- Exergonic flow of proton back across membrane drive formation of ATP and ADP
+
+ATP synthase
+- Uses PMF for ATP synthesis
+- Functions like rotary engine (conformational changes)
+
 ## ATP Yield During Aerobic Respiration
+
+- Maximum ATP yield can be calculated
+	- Called phosphorus to oxygen (P/O) ratio
+	- ATP produced by substrate-level phosphorylation
+- The maximum total yield of ATP during aerobic respiration by eukaryotes is 32 ATP
+- SLP
+	- 2 ATP per glucose converted to pyruvate
+	- 2 ATP generated during 2 turns of the TCA cycle needed to oxidize 2 acetyl-CoA molecules
+- Up to
+	- 10 NADH (2 from glycolysis, 2 from pyruvate conversion to acetyl-CoA, 6 from the TCA cycle)
+	- 2 FADH (from the TCA cycle)
+- Ge
+
 ## Theoretical vs. Actual Yield of ATP Summary
+
+- Amount of ATP produced during aerobic respiration varies depending on growth conditions and nature of ETC
+- Factors affecting ATP yield
+	- Bacterial ETCs are shorted and have lower P/O ratios
+	- ATP production may vary with environmental conditions
+	- PMF in bacteria and archaea is used for other purposes than ATP production (flagella rotation)
+	- Precursor metabolite may be used for biosynthesis
+		- Cells regulate the flow of carbons from glucose to ensure there is adequate ATP production and biosynthesis
+
 # 11.5 - Anaerobic Respiration Uses the Same Steps as Aerobic Respiration
 ## Anaerobic Respiration
+
+- Can use both organic and inorganic molecules as electrons donors
+- Terminal electron acceptor is something other than O_2
+	- Nitrate, sulfate, ferric iron, manganic ion, selenate, arsenate, CO_2, metals and organic molecules can be terminal electron acceptors
+
+- Dissimilatory nitrate reduction
+	- Use of nitrate as terminal electron acceptor, making it unavailable to cell for assimilation or uptake
+- Denitrification
+	- Use of nitrate as an e acceptor and reduction of nitrate to nitrogen gas
+	- Organic compounds may also be used as electron acceptors in 
+
 # 11.6 - Fermentation Does Not Involve an Electron Transport Chain
 ## Fermentation
+
+- NADH produced by glycolysis must be oxidized back to NAD+, even through there is no ETC to accept electrons from NADH
+- Pyruvate or derivative used as endogenous electron acceptor
+- Oxygen not needed
+- Oxidative phosphorylation does not occur
+- ATP formed by substrate-level phosphorylation
+
+- Lactic acid (lactate)
+- Reduction pf pyruvate to lactate
+- Homolactic fermenters
+	- All pyruvate reduced to lactate via lactate dehydrogenase
+	- Heterolactic fermenters
+	- Forms other produced, in addition to lactate (EtOH and CO_2)
+- Alcohol fermentation
+	- Pyruvate decarboxylated to acetaldehyde, which is reduced to ethon
+
 ## Fermentation Pathway Named After End Product
 ## Fermentation Can Make Numerous Products Simultaneously
 ## Microbial Fermentation
