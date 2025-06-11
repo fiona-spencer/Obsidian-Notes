@@ -167,4 +167,90 @@ Glucose catabolism (3 Steps)
 
 ## Glycolytic Pathways
 
-- Pathways to catabolize glucose to
+- Pathways to catabolize glucose to pyruvate in the cytosol
+- In addition to ATP, pathways also provide materials for biosynthesis
+- Microorganisms use several pathways to breakdown glucose, including
+	- Embden-Meyerhof pathway (EMP) - most common
+	- Entner-Doudoroff pathway (EDP)
+	- Pentose phosphate pathway (PPP, also called the hexose monophosphate pathway)
+
+## The Embden - Meyerhof Pathway
+
+- Occurs in cytoplasmic matrix of most microorganisms, plants, and animals
+- Functions in aerobic or anaerobic respiration or in fermentation
+- The most common pathway for glucose degradation to pyruvate
+
+
+- Generates several precursor metabolites
+- Amphibolic pathway
+	- EMP can run in reverse to convert 2 pyruvate molecules into a glucose molecules
+- Six carbon phase
+	- Cell invests some ATP so that it can make more
+- Three-carbon phase
+	- Energy conserving phase, NADH and ATP are produced
+- ATP made by substrate-level phsophorylation
+
+- When used in respiration
+	- e's accepted by NAD+ are transferred to an ETC and are ultimately accepted by an exogenous TEA
+- When used in fermentation
+	- e's accepted by NAD+ are donated to an endogenous TEA
+
+## The Entner-Doudoroff Pathway
+
+## Details of Pentose Phosphate Pathway
+## Pyruvate Dehydrogenase Complex
+## The Tricarboxylic Acid Cycle
+## Summary TCA Cycle
+# 11.4 - Electron Transport and Oxidative Phosphorylation Generate the Most ATP
+## Electron Transport and Oxidative Phosphorylation
+## Electron Transport Chains
+## Electron Transport Chain - Redox Pairs
+## Electron Transport Chain Molecules
+## Bacterial and Archaeal ETC's Unique
+## Summary
+## _Paracoccus denitrificans_
+## _Escherichia coli_
+
+## Chemiosmotic Hypothesis
+## Proton Pump
+## The Central Role of Proton Motive Force
+## Protom Motive Force (PMF) Summary
+## ATP Yield During Aerobic Respiration
+## Theoretical vs. Actual Yield of ATP Summary
+# 11.5 - Anaerobic Respiration Uses the Same Steps as Aerobic Respiration
+## Anaerobic Respiration
+# 11.6 - Fermentation Does Not Involve an Electron Transport Chain
+## Fermentation
+## Fermentation Pathway Named After End Product
+## Fermentation Can Make Numerous Products Simultaneously
+## Microbial Fermentation
+## Fermentation Affected by the Environment
+# 11.7 - Catabolism of Organic Molecules Other Than Glucose
+## Catabolism of Other Carbohydrates
+## Carbohydrates
+## Lipid Catabolism
+## Protein and Amino Acid Catabolism
+# 11.8 - Chemolithotrophy: "Eating Rocks"
+## Cehmolithotrophy
+## Energy Sources
+## Major Groups of Chemolithotrophs
+## Sulfur-Oxidizing Bacteria
+## Reverse Electron Flow
+# 11.10 Phototrophy
+## Diversity of Phototrophic Microorganisms
+## Photosynthesis
+
+## Brief Overview of Different Types of Photosynthesis
+## Light Reactions in Oxygenic Photosynthesis
+## Chlorophyll
+## Accessory Pigments
+## Organization of Pigments
+## Generating ATP and/or NADPH
+## Light Reaction in Anoxygenic Photosynthesis
+## Dark Reactions
+## Rhodopsin-Based Phototrophy
+## 
+## 
+## 
+## 
+## 
