@@ -372,6 +372,10 @@ ATP synthase
 - Oxidative phosphorylation does not occur
 - ATP formed by substrate-level phosphorylation
 
+
+## Fermentation Pathway Named After End Product
+
+
 - Lactic acid (lactate)
 - Reduction pf pyruvate to lactate
 - Homolactic fermenters
@@ -379,38 +383,193 @@ ATP synthase
 	- Heterolactic fermenters
 	- Forms other produced, in addition to lactate (EtOH and CO_2)
 - Alcohol fermentation
-	- Pyruvate decarboxylated to acetaldehyde, which is reduced to ethon
+	- Pyruvate decarboxylated to acetaldehyde, which is reduced to ethanol via alcohol dehydrogenease
+	- Used in production of beer
 
-## Fermentation Pathway Named After End Product
 ## Fermentation Can Make Numerous Products Simultaneously
+
+- Mixed acid fermentation
+	- Excretion of a mixture of acids (acetic, lactic, succinic, and formic acids)
+- Butanediol fermentation
+	- Butanediol is the major end product
+		- Some ethanol, lactic acid, and formate are also made
+
 ## Microbial Fermentation
+
+- NADH produced by the EMP during glycolysis must be oxidized back to NAD+ so that the oxidation of glyceraldehyde 3-phosphate and glycolysis do not stop
+- Fermenting microorganisms use pyruvate as an endogenous electron acceptor for the reoxidation of NADH
+
+1) NADH is oxidized to NAD+
+2) O_2 is not needed, the e acceptor is often either pyruvate or a pyruvate derivative
+3) En ETC is not used to reoxidize NADH, reduced ATP yield per glucose
+4) The substrate is only partially catabolized
+5) ATP is formed by substrate-level phosphorylation
+6) Fermenting microbes need PMF to do work, they use their ATP synthase in the reverse direction to pump protons out of the cell, using the energy released when ATP is hydrolyzed to ADP and P_i
+
+- Fermentations usually result in useful end products
+	- Alcoholic beverages
+	- Bread
+	- Yogurt
+	- Pickels
+	- *Food spoilage
+
 ## Fermentation Affected by the Environment
 # 11.7 - Catabolism of Organic Molecules Other Than Glucose
 ## Catabolism of Other Carbohydrates
+
+- Microorganisms catabolize many other organic molecules as energy sources
+	- Carbohydrates
+	- Lipids
+	- Amino acids
+
 ## Carbohydrates
+
+- Goal is to convert the carbohydrate into a monomer that can be fed into a glycolytic pathway
+- Monosaccharides
+	- Converted to other sugars that energy glycolytic pathway
+	- Glucose, fructose, mannose, and galactose
+	- Disaccharides and polysaccharides
+	- Cleaved by hydrolysis or phospholysis
+- Disaccharides and polysaccharides
+	- Cleaved by hydrolysis or phospholysis
+
 ## Lipid Catabolism
+
+- Triglycerides are common energy sources
+	- Hydrolyzed to glycerol and fatty acids by lipases
+	- Glycerol degraded via glycolytic pathway
+	- Fatty acids oxidized via b-oxidation pathway -> acetyl coA -> TCA cycle
+
 ## Protein and Amino Acid Catabolism
+
+**Protease** - hydrolyzes proteins to amino acids
+**Deamination** - removal of amino group from amino acid
+- Resulting organic acids converted to pyruvate, acetyl-CoA, or TCA cycle intermediate
+- Occurs through transamination
+
+
+**Tranamination** - the transfer of an amino group from an amino acid to an a-keto acid acceptor
+- Transanimation is used both for degradation of amino acids and in their synthesis
+
 # 11.8 - Chemolithotrophy: "Eating Rocks"
 ## Cehmolithotrophy
+
+- Carried out by certain bacteria and archaea
+- Bacterial and archaeal species have specific electron donor/acceptor preferences
+- Much less energy is available from oxidation of inorganic molecules than glucose due to more positive redox potentials
+- e- released from inorganic molecule energy source
+	- Transferred to terminal e- acceptor by ETC
+- ATP synthesized by ETC and oxidative phosphorylation
+
 ## Energy Sources
+
+- Bacterial and archaeal species have specific electron donor/acceptor preferences
+- Much less energy is available from oxidation of inorganic molecules than glucose due to more positive redox potential
+	- To have enough ATP to grow and reproduce, chemolithotrophs must oxidize a large quantity of inorganic material
+
 ## Major Groups of Chemolithotrophs
+
+- Have significant ecological impact
+1. Several bacteria and archaea oxidize hydrogen
+2. Nitrifying bacteria oxidize ammonia to nitrate (2 step process by 2 different groups of bacteria)
+3. Sulfur-oxidizing microbes
+
 ## Sulfur-Oxidizing Bacteria
+
+- Flexible metabolism depending on environment
+- ATP can be synthesized by both oxidative phosphorylation and substrate-level phosphorylation
+
 ## Reverse Electron Flow
+
+- Calvin cycle requires NADPH and ATP to reduce CO_2
+- Many energy sources used by chemolithotrophs have E_0 more positive than NAD+(P)/NAD(P)H
+- Use reverse electron flow to generate NADPH
+- Electrons derived from oxidiation of inorganic substrates are moved up their ETC;s to reduced NADP+ to NADPH
+
 # 11.10 Phototrophy
 ## Diversity of Phototrophic Microorganisms
+
+- Carbohydrates are represented by the general formula (CH_2O)
+- Oxygen is generated in oxygenic photosynthesis and released into the environment
+- In anoxygenic photosynthesis, H2O not used an electron source, O_2 is not produced
+- Almost all anoxygenic phototrophs are strict anaerobes
+- Uses bacteriochlorophyls, related to chlorophylls in plants, algae, and cyanobacteria
+
 ## Photosynthesis
+
+- Energy from light trapped and converted to chemical energy
+	- Microbes can carry out photosynthesis
+- 2 part process
+	- Light reactions
+		- Light energy is trapped and converted to chemical energy
+	- Dark reactions
+		- Energy produced in the light reactions is used to reduce CO_2 and synthesize cell constituents
 
 ## Brief Overview of Different Types of Photosynthesis
 ## Light Reactions in Oxygenic Photosynthesis
+
+- Photosynthetic eukaryotes and cyanobacteria that contain chloroplasts carry out oxygenic photosynthesis
+- Oxygen is generated and released into the environment
+- Most important pigments are chlorophylls
+- Protons flow back through an ATP synthase and ATP is synthesized using photophosphorylation (ADP + P_i -> ATP)
+- Source of e's is H2O for oxygenic photosynthesis (vs NADH/FADH in ox phos)
+- The terminal e acceptor is NADP+ in photosynthesis (vs O_2 in ox phos)
 ## Chlorophyll
+
+- Most light-absorbing pigment
+- Red and blue absorbed, so appear green
+- Different chlorophylls have different absorption peaks
+
 ## Accessory Pigments
+
+
+- Carotenoids and phycobiliproteins
+- Transfer light energy to chlorophylls
+- Absorb different wavelengths of light than chlorophylls
+
 ## Organization of Pigments
+
+- Antennas
+	- Highly organized arrays of chlorophylls and accessory pigments
+	- Captured light transferred to special reaction-center chlorophyl pair
+- Photosystem I - absorbed long wavelength light and funnels to chlorophyll a
+- Photosystem II - absorb short wavelength and funnels to chlorophyll pair P680
+
 ## Generating ATP and/or NADPH
+
+- Noncyclic electron flow
+- Non cyclic photophosphorylation
+- ATP and NADPH made
+- Cyclic electron flow
+- Cyclic photophosphorylation
+- Only ATP made
+
 ## Light Reaction in Anoxygenic Photosynthesis
+
+- H2O not used as an electron source, therefore, O_2 is not produced
+- Unique properties of anoxgenic photosynthesis
+	- Pigments used
+	- Only one photosystem used
+	- Mechanisms used to generate reducing power
+- Carried out by phototrophic green bacteria, phototrophic purple bacteria, and heliobacteria
 ## Dark Reactions
+
+- Energy produced in the light reactions is used to reduce CO_2 and synthesize cell constitueints (carbon fixation - calvin cycle)
+- The dark reactions of oxygenic phototrophs use 3 ATP and 2 NADPH to reduce 1 CO_2 to carbohydrate (CH_2O)
+
 ## Rhodopsin-Based Phototrophy
-## 
-## 
-## 
-## 
-## 
+
+- Microbes that use this live in nutrient-depleted environment where organic carbon is limited
+- Chlorophyll-independent phototrophy
+
+**Archaerhodopsin** - a deep-purple pigment
+- A membrane protein
+- Functions as a light-driven proton pump
+- A proton motive force is generated
+- Electron transport chain is not involved
+- Some archaea use a type of phototrophy that involved archaeahodopsin
+	- A membrane protein
+	- Functions as a light-driven proton pump
+	- Similar molecules/methods are found in some bacteria and eukaryotic microbes
+	- A protein motive force is generated
+	- An electron transport chain is not involved
