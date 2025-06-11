@@ -145,7 +145,7 @@ Nutritional Types of Organisms
 ![](Pasted%20image%2020250610134715.png)
 
 
-## Energy Souces
+## Energy Sources
 - Wide variety of organic molecules used an energy sources
 - Degradation pathways generate glucose of intermediates of the pathways used in glucose metabolism
 - Ohly a few pathways
