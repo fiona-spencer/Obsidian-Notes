@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Vectors",
-      "path": "CIND123/The Art of R Programming/2. Vectors.md"
+      "basename": "3. Bacterial Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
+    },
+    {
+      "basename": "2. Microscopy",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
+    },
+    {
+      "basename": "1. The Evolution of Microorganisms and Microbiology",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
+    },
+    {
+      "basename": "14. Regulation of Cellular Processes",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md"
+    },
+    {
+      "basename": "13. Bacterial Genome Replication and Expression",
+      "path": "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md"
+    },
+    {
+      "basename": "12. Anabolism - The Use of Energy in Biosynthesis",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md"
+    },
+    {
+      "basename": "11. Catabolism - Energy Release and Conservation",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md"
+    },
+    {
+      "basename": "10. Introduction to Metabolism",
+      "path": "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md"
+    },
+    {
+      "basename": "9. Antimicrobial Chemotherapy",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
+    },
+    {
+      "basename": "8. Control and Microorganisms in the Environment",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
+    },
+    {
+      "basename": "7. Bacterial and Archaeal Growth",
+      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
+    },
+    {
+      "basename": "6. Viruses and Other Acellular Infectious Agents",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
+    },
+    {
+      "basename": "5. Eukaryotic Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
+    },
+    {
+      "basename": "4. Archaeal Cell Structure",
+      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
     },
     {
       "basename": "7. R Programming Structures",
@@ -23,6 +75,10 @@
     {
       "basename": "3. Matrices and Arrays",
       "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
+    },
+    {
+      "basename": "2. Vectors",
+      "path": "CIND123/The Art of R Programming/2. Vectors.md"
     },
     {
       "basename": "1. Getting Started",
@@ -143,62 +199,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban.md"
-    },
-    {
-      "basename": "11. The Auditory and Vestibular Systems",
-      "path": "Neuroscience/Exploring the Brain/11. The Auditory and Vestibular Systems.md"
-    },
-    {
-      "basename": "10. The Central Visual System",
-      "path": "Neuroscience/Exploring the Brain/10. The Central Visual System.md"
-    },
-    {
-      "basename": "C",
-      "path": "C.md"
-    },
-    {
-      "basename": "9. The Eye",
-      "path": "Neuroscience/Exploring the Brain/9. The Eye.md"
-    },
-    {
-      "basename": "8. The Chemical Senses",
-      "path": "Neuroscience/Exploring the Brain/8. The Chemical Senses.md"
-    },
-    {
-      "basename": "7. The Structure of the Nervous System",
-      "path": "Neuroscience/Exploring the Brain/7. The Structure of the Nervous System.md"
-    },
-    {
-      "basename": "6. Neurotransmitter System",
-      "path": "Neuroscience/Exploring the Brain/6. Neurotransmitter System.md"
-    },
-    {
-      "basename": "6 - Slide",
-      "path": "BLG151/Microbiology Notes/6 - Slide.md"
-    },
-    {
-      "basename": "5 - Slide",
-      "path": "BLG151/Microbiology Notes/5 - Slide.md"
-    },
-    {
-      "basename": "5. Synaptic Transmission",
-      "path": "Neuroscience/Exploring the Brain/5. Synaptic Transmission.md"
-    },
-    {
-      "basename": "2. Neurons and Gila",
-      "path": "Neuroscience/Exploring the Brain/2. Neurons and Gila.md"
-    },
-    {
-      "basename": "0. Principles of Neural Science",
-      "path": "Neuroscience/Principles of Neural Science/0. Principles of Neural Science.md"
-    },
-    {
-      "basename": "0. Exploring the Brain",
-      "path": "Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
-    },
-    {
-      "basename": "0. Cognitive Science",
-      "path": "Cognitive Science/0. Cognitive Science.md"
     }
   ],
   "omittedPaths": [],
