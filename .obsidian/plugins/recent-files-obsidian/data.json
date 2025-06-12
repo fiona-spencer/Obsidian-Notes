@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Vectors",
+      "path": "CIND123/The Art of R Programming/2. Vectors.md"
+    },
+    {
       "basename": "1. Getting Started",
       "path": "CIND123/The Art of R Programming/1. Getting Started.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "10. Synchronization",
       "path": "Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md"
-    },
-    {
-      "basename": "9. Bursting",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/9. Bursting.md"
     }
   ],
   "omittedPaths": [],
