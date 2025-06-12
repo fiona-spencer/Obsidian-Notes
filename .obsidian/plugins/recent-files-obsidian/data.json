@@ -5,6 +5,26 @@
       "path": "CIND123/The Art of R Programming/2. Vectors.md"
     },
     {
+      "basename": "7. R Programming Structures",
+      "path": "CIND123/The Art of R Programming/7. R Programming Structures.md"
+    },
+    {
+      "basename": "6. Factors and Tables",
+      "path": "CIND123/The Art of R Programming/6. Factors and Tables.md"
+    },
+    {
+      "basename": "5. Data Frames",
+      "path": "CIND123/The Art of R Programming/5. Data Frames.md"
+    },
+    {
+      "basename": "4. Lists",
+      "path": "CIND123/The Art of R Programming/4. Lists.md"
+    },
+    {
+      "basename": "3. Matrices and Arrays",
+      "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
+    },
+    {
       "basename": "1. Getting Started",
       "path": "CIND123/The Art of R Programming/1. Getting Started.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "0. Cognitive Science",
       "path": "Cognitive Science/0. Cognitive Science.md"
-    },
-    {
-      "basename": "2. Electrophysiology of Neurons",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/2. Electrophysiology of Neurons.md"
-    },
-    {
-      "basename": "Model Viewer",
-      "path": "3D/Model Viewer.md"
-    },
-    {
-      "basename": "0. Biology 2 Overview",
-      "path": "Biology/0. Biology 2 Overview.md"
-    },
-    {
-      "basename": "3. One-Dimensional Systems",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/3. One-Dimensional Systems.md"
-    },
-    {
-      "basename": "10. Synchronization",
-      "path": "Neuroscience/Dynamical Systems in Neuroscience/10. Synchronization.md"
     }
   ],
   "omittedPaths": [],
