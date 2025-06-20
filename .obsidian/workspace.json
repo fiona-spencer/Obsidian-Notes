@@ -4,105 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5cfecdcf91e397c9",
+        "id": "06a6570c97a98d81",
         "type": "tabs",
         "children": [
           {
-            "id": "d65195e4642b5218",
+            "id": "2cd872250be902a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIND123/The Art of R Programming/4. Lists.md",
+                "file": "Networking/Computer Networking/8. Security in Computer Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Lists"
-            }
-          },
-          {
-            "id": "9cf792665b2a7e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/5. Data Frames.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Data Frames"
-            }
-          },
-          {
-            "id": "0dc06536339e5b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/6. Factors and Tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Factors and Tables"
-            }
-          },
-          {
-            "id": "ef60f2055e61dce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/7. R Programming Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. R Programming Structures"
-            }
-          },
-          {
-            "id": "4100560d7d041fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Doing Math and Simulations in R"
-            }
-          },
-          {
-            "id": "a0de5d13c4bade6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/9. Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Object-Oriented Programming"
-            }
-          },
-          {
-            "id": "c86c6d6d46283c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/10. Input and Output.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Input and Output"
+              "title": "8. Security in Computer Networks"
             }
           }
         ]
@@ -172,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "437b46005461d870",
@@ -277,11 +192,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d65195e4642b5218",
+  "active": "2cd872250be902a7",
   "lastOpenFiles": [
+    "Networking/Computer Networking/7. Wireless and Mobile Networks.md",
+    "Networking/Computer Networking/6. The Link Layer and LANs.md",
+    "Networking/Computer Networking/5. The Network Layer - Control Plane.md",
+    "Networking/Computer Networking/4. The Network Layer - Data Plane.md",
+    "Networking/Computer Networking/3. Transport Layer.md",
+    "Networking/Computer Networking/2. Application Layer.md",
+    "Networking/Computer Networking/9. Multimedia Networking.md",
+    "Networking/Computer Networking/8. Security in Computer Networks.md",
+    "Networking/Computer Networking/0. Computer Networking.md",
+    "Networking/Computer Networking/1. Computer Networks and the Internet.md",
+    "images/Pasted image 20250620143521.png",
+    "Pasted image 20250620143521.png",
+    "CIND123/The Art of R Programming/4. Lists.md",
+    "Networking/Computer Networking",
+    "Networking",
+    "images/Pasted image 20250620004049.png",
+    "images/Pasted image 20250619235119.png",
+    "images/Pasted image 20250611193828.png",
+    "images/Pasted image 20250611193811.png",
+    "images/Pasted image 20250610134715.png",
+    "images/Pasted image 20250610134619.png",
+    "images/Pasted image 20250610134423.png",
+    "images/Pasted image 20250610132914.png",
     "CIND123/The Art of R Programming/3. Matrices and Arrays.md",
-    "Pasted image 20250620004049.png",
-    "Pasted image 20250619235119.png",
     "CIND123/The Art of R Programming/10. Input and Output.md",
     "CIND123/The Art of R Programming/9. Object-Oriented Programming.md",
     "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md",
@@ -290,30 +226,12 @@
     "CIND123/The Art of R Programming/7. R Programming Structures.md",
     "CIND123/The Art of R Programming/6. Factors and Tables.md",
     "CIND123/The Art of R Programming/5. Data Frames.md",
-    "CIND123/The Art of R Programming/4. Lists.md",
     "CIND123/The Art of R Programming/0. The Art of R Programming.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
     "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
     "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
     "BLG151/UNIT 3 - Microbial Metabolism/10. Introduction to Metabolism.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md",
-    "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md",
-    "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
-    "Pasted image 20250611193828.png",
-    "Pasted image 20250611193811.png",
-    "Pasted image 20250610134715.png",
-    "Pasted image 20250610134619.png",
-    "Pasted image 20250610134423.png",
-    "Pasted image 20250610132914.png",
-    "Pasted image 20250610132735.png",
-    "Pasted image 20250610132717.png",
     "Drawings",
     "Excalidraw",
     "3D/glb/3DBenchy.glb",
@@ -322,8 +240,6 @@
     "3DBenchy.stl",
     "3D/stl/3DBenchy.stl",
     "Cognitive Science/3DBenchy.stl",
-    "3D",
-    "Neuroscience/Dynamical Systems in Neuroscience",
     "Untitled.canvas"
   ]
 }

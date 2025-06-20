@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "8. Security in Computer Networks",
+      "path": "Networking/Computer Networking/8. Security in Computer Networks.md"
+    },
+    {
+      "basename": "7. Wireless and Mobile Networks",
+      "path": "Networking/Computer Networking/7. Wireless and Mobile Networks.md"
+    },
+    {
+      "basename": "6. The Link Layer and LANs",
+      "path": "Networking/Computer Networking/6. The Link Layer and LANs.md"
+    },
+    {
+      "basename": "5. The Network Layer - Control Plane",
+      "path": "Networking/Computer Networking/5. The Network Layer - Control Plane.md"
+    },
+    {
+      "basename": "4. The Network Layer - Data Plane",
+      "path": "Networking/Computer Networking/4. The Network Layer - Data Plane.md"
+    },
+    {
+      "basename": "3. Transport Layer",
+      "path": "Networking/Computer Networking/3. Transport Layer.md"
+    },
+    {
+      "basename": "2. Application Layer",
+      "path": "Networking/Computer Networking/2. Application Layer.md"
+    },
+    {
+      "basename": "9. Multimedia Networking",
+      "path": "Networking/Computer Networking/9. Multimedia Networking.md"
+    },
+    {
+      "basename": "0. Computer Networking",
+      "path": "Networking/Computer Networking/0. Computer Networking.md"
+    },
+    {
+      "basename": "1. Computer Networks and the Internet",
+      "path": "Networking/Computer Networking/1. Computer Networks and the Internet.md"
+    },
+    {
       "basename": "4. Lists",
       "path": "CIND123/The Art of R Programming/4. Lists.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "24. Memory Systems",
       "path": "Neuroscience/Exploring the Brain/24. Memory Systems.md"
-    },
-    {
-      "basename": "23. Wiring the Brain",
-      "path": "Neuroscience/Exploring the Brain/23. Wiring the Brain.md"
-    },
-    {
-      "basename": "22. Mental Illness",
-      "path": "Neuroscience/Exploring the Brain/22. Mental Illness.md"
-    },
-    {
-      "basename": "21. Attention",
-      "path": "Neuroscience/Exploring the Brain/21. Attention.md"
-    },
-    {
-      "basename": "20. Language",
-      "path": "Neuroscience/Exploring the Brain/20. Language.md"
-    },
-    {
-      "basename": "19. Brain Rhythms and Sleep",
-      "path": "Neuroscience/Exploring the Brain/19. Brain Rhythms and Sleep.md"
-    },
-    {
-      "basename": "18. Brain Mechanisms of Emotion",
-      "path": "Neuroscience/Exploring the Brain/18. Brain Mechanisms of Emotion.md"
-    },
-    {
-      "basename": "17. Sex and the Brain",
-      "path": "Neuroscience/Exploring the Brain/17. Sex and the Brain.md"
-    },
-    {
-      "basename": "16. Motivation",
-      "path": "Neuroscience/Exploring the Brain/16. Motivation.md"
-    },
-    {
-      "basename": "14. Brain Control Movement",
-      "path": "Neuroscience/Exploring the Brain/14. Brain Control Movement.md"
-    },
-    {
-      "basename": "15. Chemical Control of the Brain and Behaviour",
-      "path": "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md"
     }
   ],
   "omittedPaths": [],
