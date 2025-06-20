@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Lists",
+      "path": "CIND123/The Art of R Programming/4. Lists.md"
+    },
+    {
       "basename": "3. Matrices and Arrays",
       "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "5. Data Frames",
       "path": "CIND123/The Art of R Programming/5. Data Frames.md"
-    },
-    {
-      "basename": "4. Lists",
-      "path": "CIND123/The Art of R Programming/4. Lists.md"
     },
     {
       "basename": "0. The Art of R Programming",
