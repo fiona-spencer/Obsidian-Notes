@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d195cb29eaa233fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIND123/The Art of R Programming/2. Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Vectors"
-            }
-          },
-          {
             "id": "c26793551586675e",
             "type": "leaf",
             "state": {
@@ -89,6 +75,48 @@
               },
               "icon": "lucide-file",
               "title": "7. R Programming Structures"
+            }
+          },
+          {
+            "id": "4100560d7d041fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Doing Math and Simulations in R"
+            }
+          },
+          {
+            "id": "a0de5d13c4bade6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIND123/The Art of R Programming/9. Object-Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Object-Oriented Programming"
+            }
+          },
+          {
+            "id": "c86c6d6d46283c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIND123/The Art of R Programming/10. Input and Output.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Input and Output"
             }
           }
         ]
@@ -263,15 +291,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d195cb29eaa233fd",
+  "active": "c26793551586675e",
   "lastOpenFiles": [
+    "Pasted image 20250619235119.png",
+    "CIND123/The Art of R Programming/10. Input and Output.md",
+    "CIND123/The Art of R Programming/9. Object-Oriented Programming.md",
+    "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md",
+    "CIND123/The Art of R Programming/3. Matrices and Arrays.md",
+    "CIND123/The Art of R Programming/2. Vectors.md",
     "CIND123/The Art of R Programming/1. Getting Started.md",
     "CIND123/The Art of R Programming/7. R Programming Structures.md",
     "CIND123/The Art of R Programming/6. Factors and Tables.md",
     "CIND123/The Art of R Programming/5. Data Frames.md",
     "CIND123/The Art of R Programming/4. Lists.md",
-    "CIND123/The Art of R Programming/3. Matrices and Arrays.md",
-    "CIND123/The Art of R Programming/2. Vectors.md",
     "CIND123/The Art of R Programming/0. The Art of R Programming.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
     "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
@@ -289,16 +321,12 @@
     "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md",
     "Pasted image 20250611193828.png",
     "Pasted image 20250611193811.png",
-    "BLG151/Microbiology Notes/10 - Slide.md",
-    "BLG151/Microbiology Notes/9 - Slide.md",
     "Pasted image 20250610134715.png",
     "Pasted image 20250610134619.png",
     "Pasted image 20250610134423.png",
     "Pasted image 20250610132914.png",
     "Pasted image 20250610132735.png",
     "Pasted image 20250610132717.png",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-06-09 14.03.38.excalidraw.md",
     "Drawings",
     "Excalidraw",
     "images/Pasted image 20250604161547.png",

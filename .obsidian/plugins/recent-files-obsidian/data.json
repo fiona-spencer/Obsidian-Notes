@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "3. Matrices and Arrays",
+      "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
+    },
+    {
+      "basename": "10. Input and Output",
+      "path": "CIND123/The Art of R Programming/10. Input and Output.md"
+    },
+    {
+      "basename": "9. Object-Oriented Programming",
+      "path": "CIND123/The Art of R Programming/9. Object-Oriented Programming.md"
+    },
+    {
+      "basename": "8. Doing Math and Simulations in R",
+      "path": "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md"
+    },
+    {
       "basename": "2. Vectors",
       "path": "CIND123/The Art of R Programming/2. Vectors.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "4. Lists",
       "path": "CIND123/The Art of R Programming/4. Lists.md"
-    },
-    {
-      "basename": "3. Matrices and Arrays",
-      "path": "CIND123/The Art of R Programming/3. Matrices and Arrays.md"
     },
     {
       "basename": "0. The Art of R Programming",
@@ -187,18 +199,6 @@
     {
       "basename": "15. Chemical Control of the Brain and Behaviour",
       "path": "Neuroscience/Exploring the Brain/15. Chemical Control of the Brain and Behaviour.md"
-    },
-    {
-      "basename": "13. Spinal Control of Movement",
-      "path": "Neuroscience/Exploring the Brain/13. Spinal Control of Movement.md"
-    },
-    {
-      "basename": "12. The Somatic Sensory System",
-      "path": "Neuroscience/Exploring the Brain/12. The Somatic Sensory System.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
     }
   ],
   "omittedPaths": [],
