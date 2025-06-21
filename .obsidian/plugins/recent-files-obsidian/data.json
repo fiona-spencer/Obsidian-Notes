@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Computer Networks and the Internet",
+      "path": "Networking/Computer Networking/1. Computer Networks and the Internet.md"
+    },
+    {
+      "basename": "9. Multimedia Networking",
+      "path": "Networking/Computer Networking/9. Multimedia Networking.md"
+    },
+    {
       "basename": "8. Security in Computer Networks",
       "path": "Networking/Computer Networking/8. Security in Computer Networks.md"
     },
@@ -29,16 +37,8 @@
       "path": "Networking/Computer Networking/2. Application Layer.md"
     },
     {
-      "basename": "9. Multimedia Networking",
-      "path": "Networking/Computer Networking/9. Multimedia Networking.md"
-    },
-    {
       "basename": "0. Computer Networking",
       "path": "Networking/Computer Networking/0. Computer Networking.md"
-    },
-    {
-      "basename": "1. Computer Networks and the Internet",
-      "path": "Networking/Computer Networking/1. Computer Networks and the Internet.md"
     },
     {
       "basename": "4. Lists",
