@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e8173687d6032bf",
+        "id": "4be7b08c641ef413",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb5edd95213e210",
+            "id": "2479361a1b3035b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Computer Networking/1. Computer Networks and the Internet.md",
+                "file": "CIND642/Intro. to Statistics w R/4. Descriptive Statistics and Graphics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Computer Networks and the Internet"
+              "title": "4. Descriptive Statistics and Graphics"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "437b46005461d870",
@@ -193,54 +192,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fb5edd95213e210",
+  "active": "2479361a1b3035b4",
   "lastOpenFiles": [
+    "CIND642/Intro. to Statistics w R/5. One- and Two-Sample Tests.md",
+    "CIND642/Intro. to Statistics w R/4. Descriptive Statistics and Graphics.md",
+    "CIND642/Intro. to Statistics w R/3. Probability and Distribution.md",
+    "CIND642/Intro. to Statistics w R/2. The R environment.md",
+    "CIND642/Intro. to Statistics w R/11. Multiple Regression.md",
+    "CIND642/Intro. to Statistics w R/0. Introductory Statistics with R.md",
+    "CIND642/Intro. to Data Cleaning/0. An introduction to data cleaning with R.md",
+    "CIND642/Intro. to Statistics w R/4. One- and Two-sample Test.md",
+    "CIND642/Intro. to Statistics w R/5. Regression and Correlation.md",
+    "CIND642/Intro. to Statistics w R/6. Analysis of Variance and the Kruskal-Wallis Test.md",
+    "CIND642/Intro. to Statistics w R/7. Tabular Data.md",
+    "CIND642/Intro. to Statistics w R/6. Regression and Correlation.md",
+    "CIND642/Intro. to Statistics w R/7. Analysis of Variance and the Kruskal-Wallis Test.md",
+    "CIND642/Intro. to Statistics w R/8. Tabular Data.md",
+    "CIND642/Intro. to Statistics w R/9. Power and Computation of Sample Size.md",
+    "CIND642/Intro. to Statistics w R/10. Advanced Data Handling.md",
+    "CIND642/Intro. to Statistics w R/12. Linear Models.md",
+    "CIND642/Intro. to Statistics w R/13. Logistic Regression.md",
+    "CIND642/Intro. to Statistics w R/14. Survival Analysis.md",
+    "CIND642/Intro. to Statistics w R/15. Rates and Poisson Regression.md",
+    "CIND642/Intro. to Statistics w R/16. Nonlinear Curve Fitting.md",
+    "CIND642/Intro. to Statistics w R/15. Nonlinear Curve Fitting.md",
+    "CIND642/Intro. to Statistics w R/9. Advance Data Handling.md",
+    "CIND642/Intro. to Statistics w R/9. Power and the Computation of Sample Size.md",
+    "CIND642/Intro. to Statistics w R/14. Rates and Poisson Regression.md",
+    "images/Pasted image 20250624140434.png",
+    "images/Pasted image 20250624135938.png",
+    "Pasted image 20250624140434.png",
+    "CIND642/Intro. to Data Cleaning",
+    "CIND642/Intro. to Statistics w R",
+    "Pasted image 20250624135938.png",
+    "CIND642",
     "images/Pasted image 20250621153757.png",
     "Pasted image 20250621153757.png",
     "images/Pasted image 20250621153422.png",
     "Pasted image 20250621153422.png",
     "images/Pasted image 20250621152628.png",
     "Pasted image 20250621152628.png",
-    "images/Pasted image 20250621123657.png",
-    "Pasted image 20250621123657.png",
-    "images/Pasted image 20250621113235.png",
-    "images/Pasted image 20250621112816.png",
-    "Pasted image 20250621113235.png",
-    "Networking/Computer Networking/9. Multimedia Networking.md",
-    "Networking/Computer Networking/8. Security in Computer Networks.md",
-    "Networking/Computer Networking/7. Wireless and Mobile Networks.md",
-    "Networking/Computer Networking/6. The Link Layer and LANs.md",
-    "Networking/Computer Networking/5. The Network Layer - Control Plane.md",
-    "Networking/Computer Networking/4. The Network Layer - Data Plane.md",
-    "Networking/Computer Networking/3. Transport Layer.md",
-    "Networking/Computer Networking/2. Application Layer.md",
-    "Networking/Computer Networking/0. Computer Networking.md",
-    "Networking/Computer Networking/1. Computer Networks and the Internet.md",
-    "CIND123/The Art of R Programming/4. Lists.md",
     "Networking/Computer Networking",
     "Networking",
-    "CIND123/The Art of R Programming/3. Matrices and Arrays.md",
-    "CIND123/The Art of R Programming/10. Input and Output.md",
-    "CIND123/The Art of R Programming/9. Object-Oriented Programming.md",
-    "CIND123/The Art of R Programming/8. Doing Math and Simulations in R.md",
-    "CIND123/The Art of R Programming/2. Vectors.md",
-    "CIND123/The Art of R Programming/1. Getting Started.md",
-    "CIND123/The Art of R Programming/7. R Programming Structures.md",
-    "CIND123/The Art of R Programming/6. Factors and Tables.md",
-    "CIND123/The Art of R Programming/5. Data Frames.md",
-    "CIND123/The Art of R Programming/0. The Art of R Programming.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/14. Regulation of Cellular Processes.md",
-    "BLG151/UNIT 4 - Molecular Biology and Genetics/13. Bacterial Genome Replication and Expression.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/12. Anabolism - The Use of Energy in Biosynthesis.md",
-    "BLG151/UNIT 3 - Microbial Metabolism/11. Catabolism - Energy Release and Conservation.md",
     "Drawings",
     "Excalidraw",
     "3D/glb/3DBenchy.glb",
     "3D/glb",
     "3D/stl",
-    "3DBenchy.stl",
-    "3D/stl/3DBenchy.stl",
-    "Cognitive Science/3DBenchy.stl",
     "Untitled.canvas"
   ]
 }

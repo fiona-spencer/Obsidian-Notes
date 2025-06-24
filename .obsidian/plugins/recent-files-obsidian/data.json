@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "5. One- and Two-Sample Tests",
+      "path": "CIND642/Intro. to Statistics w R/5. One- and Two-Sample Tests.md"
+    },
+    {
+      "basename": "4. Descriptive Statistics and Graphics",
+      "path": "CIND642/Intro. to Statistics w R/4. Descriptive Statistics and Graphics.md"
+    },
+    {
+      "basename": "3. Probability and Distribution",
+      "path": "CIND642/Intro. to Statistics w R/3. Probability and Distribution.md"
+    },
+    {
+      "basename": "2. The R environment",
+      "path": "CIND642/Intro. to Statistics w R/2. The R environment.md"
+    },
+    {
+      "basename": "11. Multiple Regression",
+      "path": "CIND642/Intro. to Statistics w R/11. Multiple Regression.md"
+    },
+    {
+      "basename": "0. Introductory Statistics with R",
+      "path": "CIND642/Intro. to Statistics w R/0. Introductory Statistics with R.md"
+    },
+    {
+      "basename": "0. An introduction to data cleaning with R",
+      "path": "CIND642/Intro. to Data Cleaning/0. An introduction to data cleaning with R.md"
+    },
+    {
+      "basename": "6. Regression and Correlation",
+      "path": "CIND642/Intro. to Statistics w R/6. Regression and Correlation.md"
+    },
+    {
+      "basename": "7. Analysis of Variance and the Kruskal-Wallis Test",
+      "path": "CIND642/Intro. to Statistics w R/7. Analysis of Variance and the Kruskal-Wallis Test.md"
+    },
+    {
+      "basename": "8. Tabular Data",
+      "path": "CIND642/Intro. to Statistics w R/8. Tabular Data.md"
+    },
+    {
+      "basename": "9. Power and Computation of Sample Size",
+      "path": "CIND642/Intro. to Statistics w R/9. Power and Computation of Sample Size.md"
+    },
+    {
+      "basename": "10. Advanced Data Handling",
+      "path": "CIND642/Intro. to Statistics w R/10. Advanced Data Handling.md"
+    },
+    {
+      "basename": "12. Linear Models",
+      "path": "CIND642/Intro. to Statistics w R/12. Linear Models.md"
+    },
+    {
+      "basename": "13. Logistic Regression",
+      "path": "CIND642/Intro. to Statistics w R/13. Logistic Regression.md"
+    },
+    {
+      "basename": "14. Survival Analysis",
+      "path": "CIND642/Intro. to Statistics w R/14. Survival Analysis.md"
+    },
+    {
+      "basename": "15. Rates and Poisson Regression",
+      "path": "CIND642/Intro. to Statistics w R/15. Rates and Poisson Regression.md"
+    },
+    {
+      "basename": "16. Nonlinear Curve Fitting",
+      "path": "CIND642/Intro. to Statistics w R/16. Nonlinear Curve Fitting.md"
+    },
+    {
+      "basename": "1. Basics",
+      "path": "CIND642/Intro. to Statistics w R/1. Basics.md"
+    },
+    {
       "basename": "1. Computer Networks and the Internet",
       "path": "Networking/Computer Networking/1. Computer Networks and the Internet.md"
     },
@@ -111,94 +183,6 @@
     {
       "basename": "8. Control and Microorganisms in the Environment",
       "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
-    },
-    {
-      "basename": "7. Bacterial and Archaeal Growth",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/7. Bacterial and Archaeal Growth.md"
-    },
-    {
-      "basename": "6. Viruses and Other Acellular Infectious Agents",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/6. Viruses and Other Acellular Infectious Agents.md"
-    },
-    {
-      "basename": "5. Eukaryotic Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/5. Eukaryotic Cell Structure.md"
-    },
-    {
-      "basename": "4. Archaeal Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/4. Archaeal Cell Structure.md"
-    },
-    {
-      "basename": "3. Bacterial Cell Structure",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/3. Bacterial Cell Structure.md"
-    },
-    {
-      "basename": "2. Microscopy",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/2. Microscopy.md"
-    },
-    {
-      "basename": "1. The Evolution of Microorganisms and Microbiology",
-      "path": "BLG151/UNIT 1 - Intro. to Microbiology/1. The Evolution of Microorganisms and Microbiology.md"
-    },
-    {
-      "basename": "10 - Slide",
-      "path": "BLG151/Microbiology Notes/10 - Slide.md"
-    },
-    {
-      "basename": "9 - Slide",
-      "path": "BLG151/Microbiology Notes/9 - Slide.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Drawing 2025-06-09 14.03.38.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-09 14.03.38.excalidraw.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawings/test.excalidraw.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "0. Probs and Stats",
-      "path": "CIND123/Stats and Probs/0. Probs and Stats.md"
-    },
-    {
-      "basename": "8 - Slide",
-      "path": "BLG151/Microbiology Notes/8 - Slide.md"
-    },
-    {
-      "basename": "3D Print Website",
-      "path": "Private/3D Print Website.md"
-    },
-    {
-      "basename": "7 - Slide",
-      "path": "BLG151/Microbiology Notes/7 - Slide.md"
-    },
-    {
-      "basename": "25. Molecular Mechanisms of Learning and Memory",
-      "path": "Neuroscience/Exploring the Brain/25. Molecular Mechanisms of Learning and Memory.md"
-    },
-    {
-      "basename": "4. The Action Potential",
-      "path": "Neuroscience/Exploring the Brain/4. The Action Potential.md"
-    },
-    {
-      "basename": "3. The Neuronal Membrane at Rest",
-      "path": "Neuroscience/Exploring the Brain/3. The Neuronal Membrane at Rest.md"
-    },
-    {
-      "basename": "1. Neuroscience - Past, Present, and Future",
-      "path": "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md"
-    },
-    {
-      "basename": "24. Memory Systems",
-      "path": "Neuroscience/Exploring the Brain/24. Memory Systems.md"
     }
   ],
   "omittedPaths": [],
