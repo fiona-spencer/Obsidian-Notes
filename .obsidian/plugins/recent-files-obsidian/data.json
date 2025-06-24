@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "23. Wiring the Brain",
+      "path": "Neuroscience/Exploring the Brain/23. Wiring the Brain.md"
+    },
+    {
+      "basename": "8. The Chemical Senses",
+      "path": "Neuroscience/Exploring the Brain/8. The Chemical Senses.md"
+    },
+    {
+      "basename": "1. Neuroscience - Past, Present, and Future",
+      "path": "Neuroscience/Exploring the Brain/1. Neuroscience - Past, Present, and Future.md"
+    },
+    {
+      "basename": "2. Neurons and Gila",
+      "path": "Neuroscience/Exploring the Brain/2. Neurons and Gila.md"
+    },
+    {
+      "basename": "0. Exploring the Brain",
+      "path": "Neuroscience/Exploring the Brain/0. Exploring the Brain.md"
+    },
+    {
+      "basename": "16. Nonlinear Curve Fitting",
+      "path": "CIND642/Intro. to Statistics w R/16. Nonlinear Curve Fitting.md"
+    },
+    {
+      "basename": "15. Rates and Poisson Regression",
+      "path": "CIND642/Intro. to Statistics w R/15. Rates and Poisson Regression.md"
+    },
+    {
+      "basename": "14. Survival Analysis",
+      "path": "CIND642/Intro. to Statistics w R/14. Survival Analysis.md"
+    },
+    {
+      "basename": "13. Logistic Regression",
+      "path": "CIND642/Intro. to Statistics w R/13. Logistic Regression.md"
+    },
+    {
+      "basename": "12. Linear Models",
+      "path": "CIND642/Intro. to Statistics w R/12. Linear Models.md"
+    },
+    {
+      "basename": "11. Multiple Regression",
+      "path": "CIND642/Intro. to Statistics w R/11. Multiple Regression.md"
+    },
+    {
+      "basename": "10. Advanced Data Handling",
+      "path": "CIND642/Intro. to Statistics w R/10. Advanced Data Handling.md"
+    },
+    {
+      "basename": "9. Power and Computation of Sample Size",
+      "path": "CIND642/Intro. to Statistics w R/9. Power and Computation of Sample Size.md"
+    },
+    {
+      "basename": "8. Tabular Data",
+      "path": "CIND642/Intro. to Statistics w R/8. Tabular Data.md"
+    },
+    {
+      "basename": "7. Analysis of Variance and the Kruskal-Wallis Test",
+      "path": "CIND642/Intro. to Statistics w R/7. Analysis of Variance and the Kruskal-Wallis Test.md"
+    },
+    {
+      "basename": "6. Regression and Correlation",
+      "path": "CIND642/Intro. to Statistics w R/6. Regression and Correlation.md"
+    },
+    {
       "basename": "5. One- and Two-Sample Tests",
       "path": "CIND642/Intro. to Statistics w R/5. One- and Two-Sample Tests.md"
     },
@@ -17,56 +81,12 @@
       "path": "CIND642/Intro. to Statistics w R/2. The R environment.md"
     },
     {
-      "basename": "11. Multiple Regression",
-      "path": "CIND642/Intro. to Statistics w R/11. Multiple Regression.md"
-    },
-    {
       "basename": "0. Introductory Statistics with R",
       "path": "CIND642/Intro. to Statistics w R/0. Introductory Statistics with R.md"
     },
     {
       "basename": "0. An introduction to data cleaning with R",
       "path": "CIND642/Intro. to Data Cleaning/0. An introduction to data cleaning with R.md"
-    },
-    {
-      "basename": "6. Regression and Correlation",
-      "path": "CIND642/Intro. to Statistics w R/6. Regression and Correlation.md"
-    },
-    {
-      "basename": "7. Analysis of Variance and the Kruskal-Wallis Test",
-      "path": "CIND642/Intro. to Statistics w R/7. Analysis of Variance and the Kruskal-Wallis Test.md"
-    },
-    {
-      "basename": "8. Tabular Data",
-      "path": "CIND642/Intro. to Statistics w R/8. Tabular Data.md"
-    },
-    {
-      "basename": "9. Power and Computation of Sample Size",
-      "path": "CIND642/Intro. to Statistics w R/9. Power and Computation of Sample Size.md"
-    },
-    {
-      "basename": "10. Advanced Data Handling",
-      "path": "CIND642/Intro. to Statistics w R/10. Advanced Data Handling.md"
-    },
-    {
-      "basename": "12. Linear Models",
-      "path": "CIND642/Intro. to Statistics w R/12. Linear Models.md"
-    },
-    {
-      "basename": "13. Logistic Regression",
-      "path": "CIND642/Intro. to Statistics w R/13. Logistic Regression.md"
-    },
-    {
-      "basename": "14. Survival Analysis",
-      "path": "CIND642/Intro. to Statistics w R/14. Survival Analysis.md"
-    },
-    {
-      "basename": "15. Rates and Poisson Regression",
-      "path": "CIND642/Intro. to Statistics w R/15. Rates and Poisson Regression.md"
-    },
-    {
-      "basename": "16. Nonlinear Curve Fitting",
-      "path": "CIND642/Intro. to Statistics w R/16. Nonlinear Curve Fitting.md"
     },
     {
       "basename": "1. Basics",
@@ -179,10 +199,6 @@
     {
       "basename": "9. Antimicrobial Chemotherapy",
       "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/9. Antimicrobial Chemotherapy.md"
-    },
-    {
-      "basename": "8. Control and Microorganisms in the Environment",
-      "path": "BLG151/UNIT 2 - Microbial Nutrition, Growth/8. Control and Microorganisms in the Environment.md"
     }
   ],
   "omittedPaths": [],
